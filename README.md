@@ -10,7 +10,7 @@ Samples related to Content Design for retrieval-augmented generation (RAG)
 <!-- 1. Filter input -->
 <tr>
 <td valign="top">
-<p><b>1.&nbsp;Filter&nbsp;input</b>&nbsp;(&nbsp;<a href="notebooks/01_filter.ipynb">Link</a>&nbsp;)</p>
+<p><b>1.&nbsp;Filter&nbsp;input</b>&nbsp;(&nbsp;<a href="notebooks/01_filter.ipynb">link</a>&nbsp;)</p>
 <p><img src="images/01_filter.png" width="150px" /></p>
 </td>
 <td valign="top">
@@ -25,7 +25,7 @@ Samples related to Content Design for retrieval-augmented generation (RAG)
 <!-- 2. Classify input -->
 <tr>
 <td valign="top">
-<p><b>2.&nbsp;Classify&nbsp;input</b>&nbsp;(&nbsp;<a href="notebooks/02_classify-input.ipynb">Link</a>&nbsp;)</p>
+<p><b>2.&nbsp;Classify&nbsp;input</b>&nbsp;(&nbsp;<a href="notebooks/02_classify-input.ipynb">link</a>&nbsp;)</p>
 <p><img src="images/02_classify-input.png" width="150px" /></p>
 </td>
 <td valign="top">
@@ -41,7 +41,7 @@ Samples related to Content Design for retrieval-augmented generation (RAG)
 <!-- 3. Identify HAP -->
 <tr>
 <td valign="top">
-<p><b>3.&nbsp;Identify&nbsp;HAP</b>&nbsp;(&nbsp;<a href="notebooks/03_hap.ipynb">Link</a>&nbsp;)</p>
+<p><b>3.&nbsp;Identify&nbsp;HAP</b>&nbsp;(&nbsp;<a href="notebooks/03_hap.ipynb">link</a>&nbsp;)</p>
 <p><img src="images/03_hap.png" width="150px" /></p>
 </td>
 <td valign="top">
@@ -51,7 +51,7 @@ Samples related to Content Design for retrieval-augmented generation (RAG)
 <!-- 4. Identify FAQ -->
 <tr>
 <td valign="top">
-<p><b>4.&nbsp;Identify&nbsp;FAQ</b>&nbsp;(&nbsp;<a href="notebooks/04_faq.ipynb">Link</a>&nbsp;)</p>
+<p><b>4.&nbsp;Identify&nbsp;FAQ</b>&nbsp;(&nbsp;<a href="notebooks/04_faq.ipynb">link</a>&nbsp;)</p>
 <p><img src="images/04_faq.png" width="150px" /></p>
 </td>
 <td valign="top">
@@ -61,7 +61,7 @@ Samples related to Content Design for retrieval-augmented generation (RAG)
 <!-- 5. Boost search -->
 <tr>
 <td valign="top">
-<p><b>5.&nbsp;Boost&nbsp;search</b>&nbsp;(&nbsp;<a href="notebooks/05_search.ipynb">Link</a>&nbsp;)</p>
+<p><b>5.&nbsp;Boost&nbsp;search</b>&nbsp;(&nbsp;<a href="notebooks/05_search.ipynb">link</a>&nbsp;)</p>
 <p><img src="images/05_search.png" width="150px" /></p>
 </td>
 <td valign="top">
@@ -76,7 +76,7 @@ Samples related to Content Design for retrieval-augmented generation (RAG)
 <!-- 6. Prompt by question type -->
 <tr>
 <td valign="top">
-<p><b>6.&nbsp;Prompt&nbsp;by&nbsp;question&nbsp;type</b>&nbsp;(&nbsp;<a href="notebooks/06_prompt.ipynb">Link</a>&nbsp;)</p>
+<p><b>6.&nbsp;Prompt&nbsp;by&nbsp;question&nbsp;type</b>&nbsp;(&nbsp;<a href="notebooks/06_prompt.ipynb">link</a>&nbsp;)</p>
 <p><img src="images/06_prompt.png" width="150px" /></p>
 </td>
 <td valign="top">
@@ -86,7 +86,7 @@ Samples related to Content Design for retrieval-augmented generation (RAG)
 <!-- 7. Select best answer -->
 <tr>
 <td valign="top">
-<p><b>7.&nbsp;Select&nbsp;best&nbsp;answer</b>&nbsp;(&nbsp;<a href="notebooks/07_best-answer.ipynb">Link</a>&nbsp;)</p>
+<p><b>7.&nbsp;Select&nbsp;best&nbsp;answer</b>&nbsp;(&nbsp;<a href="notebooks/07_best-answer.ipynb">link</a>&nbsp;)</p>
 <p><img src="images/07_best-answer.png" width="150px" /></p>
 </td>
 <td valign="top">
@@ -96,7 +96,7 @@ Samples related to Content Design for retrieval-augmented generation (RAG)
 <!-- 08. Test topics -->
 <tr>
 <td valign="top">
-<p><b>8.&nbsp;Test&nbsp;topics</b>&nbsp;(&nbsp;<a href="notebooks/08_testing-topics.ipynb">Link</a>&nbsp;)</p>
+<p><b>8.&nbsp;Test&nbsp;topics</b>&nbsp;(&nbsp;<a href="notebooks/08_testing-topics.ipynb">link</a>&nbsp;)</p>
 <p><img src="images/08_testing-topics.png" width="150px" /></p>
 </td>
 <td valign="top">
@@ -106,7 +106,7 @@ Samples related to Content Design for retrieval-augmented generation (RAG)
 <!-- 09. Answering Natural Questions benchmark -->
 <tr>
 <td valign="top">
-<p><b>9.&nbsp;Answering&nbsp;Natural&nbsp;Questions</b>&nbsp;(&nbsp;<a href="notebooks/09_nq.ipynb">Link</a>&nbsp;)</p>
+<p><b>9.&nbsp;Answering&nbsp;Natural&nbsp;Questions</b>&nbsp;(&nbsp;<a href="notebooks/09_nq.ipynb">link</a>&nbsp;)</p>
 <p><img src="images/09_nq.png" width="150px" /></p>
 </td>
 <td valign="top">
