@@ -1,4 +1,4 @@
-# RAG CD perspective
+# RAG : A CD Perspective
 Samples related to Content Design for retrieval-augmented generation (RAG)
 
 ## Sample notebooks
@@ -93,21 +93,31 @@ Samples related to Content Design for retrieval-augmented generation (RAG)
 <p>Select the best of several generated answers</p>
 </td>
 </tr>
-<!-- 08. Test topics -->
+<!-- 08. Regression testing -->
 <tr>
 <td valign="top">
-<p><b>8.&nbsp;Test&nbsp;topics</b>&nbsp;(&nbsp;<a href="notebooks/08_testing-topics.ipynb">link</a>&nbsp;)</p>
-<p><img src="images/08_testing-topics.png" width="150px" /></p>
+<p><b>8.&nbsp;Regression&nbsp;testing</b>&nbsp;(&nbsp;<a href="notebooks/08_regression.ipynb">link</a>&nbsp;)</p>
+<p><img src="images/08_regression.png" width="150px" /></p>
+</td>
+<td valign="top">
+<p>Test whether a change to the RAG solution causes the solution to get better or worse</p>
+</td>
+</tr>
+<!-- 09. Test topics -->
+<tr>
+<td valign="top">
+<p><b>9.&nbsp;Test&nbsp;topics</b>&nbsp;(&nbsp;<a href="notebooks/09_testing-topics.ipynb">link</a>&nbsp;)</p>
+<p><img src="images/09_testing-topics.png" width="150px" /></p>
 </td>
 <td valign="top">
 <p>Test how well a topic can answer given user questions</p>
 </td>
 </tr>
-<!-- 09. Answering Natural Questions benchmark -->
+<!-- 10. Answer Natural Questions benchmark -->
 <tr>
 <td valign="top">
-<p><b>9.&nbsp;Answering&nbsp;Natural&nbsp;Questions</b>&nbsp;(&nbsp;<a href="notebooks/09_nq.ipynb">link</a>&nbsp;)</p>
-<p><img src="images/09_nq.png" width="150px" /></p>
+<p><b>10.&nbsp;Answer&nbsp;Natural&nbsp;Questions</b>&nbsp;(&nbsp;<a href="notebooks/10_nq.ipynb">link</a>&nbsp;)</p>
+<p><img src="images/10_nq.png" width="150px" /></p>
 </td>
 <td valign="top">
 <p>Answer a subset of questions from the <a href="https://research.google/pubs/natural-questions-a-benchmark-for-question-answering-research/">Natural Questions benchmark</a></p>
