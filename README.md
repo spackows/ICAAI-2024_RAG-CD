@@ -1,5 +1,5 @@
 # RAG : A CD Perspective
-Samples related to Content Design for retrieval-augmented generation (RAG)
+Samples related to Content Design (CD) for retrieval-augmented generation (RAG).
 
 ## Sample notebooks
 <table>
