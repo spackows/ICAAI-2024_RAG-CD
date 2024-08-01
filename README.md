@@ -24,7 +24,7 @@ Samples related to Content Design (CD) for retrieval-augmented generation (RAG).
 <p><img src="images/02_classify.png" width="400px" /></p>
 </td>
 <td valign="top">
-<p>Classify user input into one of these categories:
+<p>Use a large language model in <a href="https://www.ibm.com/products/watsonx-ai">IBM watsonx.ai</a> to classify user input into one of these categories:
 <ul>
 <li>Keyword search</li>
 <li>Question (including question type)</li>
