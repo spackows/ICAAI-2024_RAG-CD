@@ -11,15 +11,10 @@ Samples related to Content Design (CD) for retrieval-augmented generation (RAG).
 <tr>
 <td valign="top">
 <p><b>1.&nbsp;Filter&nbsp;input</b>&nbsp;(&nbsp;<a href="notebooks/01_filter.ipynb">link</a>&nbsp;)</p>
-<p><img src="images/01_filter.png" width="150px" /></p>
+<p><img src="images/01_filter.png" width="300px" /></p>
 </td>
 <td valign="top">
-<p>Filter out the following malicious input:
-<ul>
-<li>Javascript injection</li>
-<li>Prompt injection</li>
-</ul>
-</p>
+<p>Filter out malicious input (eg. Javascript injection)</p>
 </td>
 </tr>
 <!-- 2. Classify input -->
