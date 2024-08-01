@@ -11,7 +11,7 @@ Samples related to Content Design (CD) for retrieval-augmented generation (RAG).
 <tr>
 <td valign="top">
 <p><b>1.&nbsp;Filter&nbsp;input</b>&nbsp;(&nbsp;<a href="notebooks/01_filter.ipynb">link</a>&nbsp;)</p>
-<p><img src="images/01_filter.png" width="300px" /></p>
+<p><img src="images/01_filter.png" width="275px" /></p>
 </td>
 <td valign="top">
 <p>Use the <a href="https://cloud.ibm.com/catalog/services/natural-language-understanding">Natural Langauge Understanding</a> service on IBM Cloud to filter out malicious input (eg. Javascript injection)</p>
@@ -20,8 +20,8 @@ Samples related to Content Design (CD) for retrieval-augmented generation (RAG).
 <!-- 2. Classify input -->
 <tr>
 <td valign="top">
-<p><b>2.&nbsp;Classify&nbsp;input</b>&nbsp;(&nbsp;<a href="notebooks/02_classify-input.ipynb">link</a>&nbsp;)</p>
-<p><img src="images/02_classify-input.png" width="150px" /></p>
+<p><b>2.&nbsp;Classify&nbsp;input</b>&nbsp;(&nbsp;<a href="notebooks/02_classify.ipynb">link</a>&nbsp;)</p>
+<p><img src="images/02_classify.png" width="400px" /></p>
 </td>
 <td valign="top">
 <p>Classify user input into one of these categories:
