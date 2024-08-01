@@ -14,7 +14,7 @@ Samples related to Content Design (CD) for retrieval-augmented generation (RAG).
 <p><img src="images/01_filter.png" width="300px" /></p>
 </td>
 <td valign="top">
-<p>Filter out malicious input (eg. Javascript injection)</p>
+<p>Use the <a href="https://cloud.ibm.com/catalog/services/natural-language-understanding">Natural Langauge Understanding</a> service on IBM Cloud to filter out malicious input (eg. Javascript injection)</p>
 </td>
 </tr>
 <!-- 2. Classify input -->
