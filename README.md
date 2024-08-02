@@ -43,7 +43,7 @@ Samples related to Content Design (CD) for retrieval-augmented generation (RAG).
 <p>Remove hate, abuse, and profanity (HAP) as well as personal identifiable information (PII)</p>
 </td>
 </tr>
-<!-- 4. Identify FAQ -->
+<!-- 4. Identify FAQs -->
 <tr>
 <td valign="top">
 <p><b>4.&nbsp;Identify&nbsp;FAQ</b>&nbsp;(&nbsp;<a href="notebooks/04_faq.ipynb">link</a>&nbsp;)</p>
