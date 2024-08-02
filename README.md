@@ -46,11 +46,11 @@ Samples related to Content Design (CD) for retrieval-augmented generation (RAG).
 <!-- 4. Identify FAQs -->
 <tr>
 <td valign="top">
-<p><b>4.&nbsp;Identify&nbsp;FAQ</b>&nbsp;(&nbsp;<a href="notebooks/04_faq.ipynb">link</a>&nbsp;)</p>
+<p><b>4.&nbsp;Identify&nbsp;FAQs</b>&nbsp;(&nbsp;<a href="notebooks/04_faq.ipynb">link</a>&nbsp;)</p>
 <p><img src="images/04_faq.png" width="150px" /></p>
 </td>
 <td valign="top">
-<p>Match given question with frequently asked question</p>
+<p>Match a given question with frequently asked question</p>
 </td>
 </tr>
 <!-- 5. Boost search -->
