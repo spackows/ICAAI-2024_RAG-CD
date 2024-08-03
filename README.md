@@ -11,7 +11,7 @@ Samples related to Content Design (CD) for retrieval-augmented generation (RAG).
 <tr>
 <td valign="top">
 <p><b>1.&nbsp;Filter&nbsp;input</b>&nbsp;(&nbsp;<a href="notebooks/01_filter.ipynb">link</a>&nbsp;)</p>
-<p><img src="images/01_filter.png" width="275px" /></p>
+<p><img src="images/01_filter.png" width="250px" /></p>
 <p>&nbsp;</p>
 </td>
 <td valign="top">
@@ -22,7 +22,7 @@ Samples related to Content Design (CD) for retrieval-augmented generation (RAG).
 <tr>
 <td valign="top">
 <p><b>2.&nbsp;Classify&nbsp;input</b>&nbsp;(&nbsp;<a href="notebooks/02_classify.ipynb">link</a>&nbsp;)</p>
-<p><img src="images/02_classify.png" width="400px" /></p>
+<p><img src="images/02_classify.png" width="300px" /></p>
 <p>&nbsp;</p>
 </td>
 <td valign="top">
@@ -39,7 +39,7 @@ Samples related to Content Design (CD) for retrieval-augmented generation (RAG).
 <tr>
 <td valign="top">
 <p><b>3.&nbsp;Remove&nbsp;HAP,&nbsp;PII</b>&nbsp;(&nbsp;<a href="notebooks/03_hap.ipynb">link</a>&nbsp;)</p>
-<p><img src="images/03_hap.png" width="500px" /></p>
+<p><img src="images/03_hap.png" width="450px" /></p>
 <p>&nbsp;</p>
 </td>
 <td valign="top">
@@ -50,7 +50,7 @@ Samples related to Content Design (CD) for retrieval-augmented generation (RAG).
 <tr>
 <td valign="top">
 <p><b>4.&nbsp;Identify&nbsp;FAQs</b>&nbsp;(&nbsp;<a href="notebooks/04_faq.ipynb">link</a>&nbsp;)</p>
-<p><img src="images/04_faq.png" width="150px" /></p>
+<p><img src="images/04_faq.png" width="450px" /></p>
 <p>&nbsp;</p>
 </td>
 <td valign="top">
