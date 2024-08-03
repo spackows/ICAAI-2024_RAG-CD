@@ -54,7 +54,7 @@ Samples related to Content Design (CD) for retrieval-augmented generation (RAG).
 <p>&nbsp;</p>
 </td>
 <td valign="top">
-<p>Match a given question with frequently asked question</p>
+<p>Match a given question with frequently asked questions</p>
 </td>
 </tr>
 <!-- 5. Boost search -->
