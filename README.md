@@ -77,11 +77,16 @@ Samples related to Content Design (CD) for retrieval-augmented generation (RAG).
 <tr>
 <td valign="top">
 <p><b>6.&nbsp;Prompt&nbsp;by&nbsp;question&nbsp;type</b>&nbsp;(&nbsp;<a href="notebooks/06_prompt.ipynb">link</a>&nbsp;)</p>
-<p><img src="images/06_prompt.png" width="150px" /></p>
+<p><img src="images/06_prompt.png" width="450px" /></p>
 <p>&nbsp;</p>
 </td>
 <td valign="top">
-<p>Given relevant articles from a knowledge base, prompt a large language model to answer a question</p>
+<p>Given relevant articles from a knowledge base, prompt a large language model to format answers to questions differently, depending on the question type:
+<ul>
+<li>What-is</li>
+<li>How-to</li>
+</ul>
+</p>
 </td>
 </tr>
 <!-- 7. Select best answer -->
