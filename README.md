@@ -61,7 +61,7 @@ Samples related to Content Design (CD) for retrieval-augmented generation (RAG).
 <tr>
 <td valign="top">
 <p><b>5.&nbsp;Boost&nbsp;search</b>&nbsp;(&nbsp;<a href="notebooks/05_search.ipynb">link</a>&nbsp;)</p>
-<p><img src="images/05_search.png" width="150px" /></p>
+<p><img src="images/05_search.png" width="450px" /></p>
 <p>&nbsp;</p>
 </td>
 <td valign="top">
