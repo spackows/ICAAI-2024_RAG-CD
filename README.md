@@ -104,7 +104,7 @@ Samples related to Content Design (CD) for retrieval-augmented generation (RAG).
 <tr>
 <td valign="top">
 <p><b>8.&nbsp;Regression&nbsp;testing</b>&nbsp;(&nbsp;<a href="notebooks/08_regression.ipynb">link</a>&nbsp;)</p>
-<p><img src="images/08_regression.png" width="150px" /></p>
+<p><img src="images/08_regression.png" width="450px" /></p>
 <p>&nbsp;</p>
 </td>
 <td valign="top">
