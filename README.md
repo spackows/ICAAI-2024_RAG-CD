@@ -122,11 +122,22 @@ Samples related to Content Design (CD) for retrieval-augmented generation (RAG).
 <p>Test how well a topic can answer given user questions</p>
 </td>
 </tr>
-<!-- 10. Answer Natural Questions benchmark -->
+<!-- 10. HTML to text -->
 <tr>
 <td valign="top">
-<p><b>10.&nbsp;Answer&nbsp;Natural&nbsp;Questions</b>&nbsp;(&nbsp;<a href="notebooks/10_nq.ipynb">link</a>&nbsp;)</p>
-<p><img src="images/10_nq.png" width="150px" /></p>
+<p><b>10.&nbsp;HTML&nbsp;to&nbsp;text</b>&nbsp;(&nbsp;<a href="notebooks/10_html-text.ipynb">link</a>&nbsp;)</p>
+<p><img src="images/10_html-text.png" width="350px" /></p>
+<p>&nbsp;</p>
+</td>
+<td valign="top">
+<p>Convert HTML to text</p>
+</td>
+</tr>
+<!-- 11. Answer Natural Questions benchmark -->
+<tr>
+<td valign="top">
+<p><b>11.&nbsp;Answer&nbsp;Natural&nbsp;Questions</b>&nbsp;(&nbsp;<a href="notebooks/11_nq.ipynb">link</a>&nbsp;)</p>
+<p><img src="images/11_nq.png" width="300px" /></p>
 <p>&nbsp;</p>
 </td>
 <td valign="top">
