@@ -1,0 +1,124 @@
+
+
+# Carbon cycle
+
+The carbon cycle is the biogeochemical cycle by which carbon is exchanged among the biosphere, pedosphere, geosphere, hydrosphere, and atmosphere of the Earth. Carbon is the main component of biological compounds as well as a major component of many minerals such as limestone. Along with the nitrogen cycle and the water cycle, the carbon cycle comprises a sequence of events that are key to make Earth capable of sustaining life. It describes the movement of carbon as it is recycled and reused throughout the biosphere, as well as long-term processes of carbon sequestration to and release from carbon sinks.
+
+The carbon cycle was initially discovered by Joseph Priestley and Antoine Lavoisier, and popularized by Humphry Davy.
+
+## Main components
+
+Carbon pools in the major reservoirs on earth.:
+
+- Pool: Atmosphere
+- Quantity (gigatons): 720
+
+- Pool: Ocean (total)
+- Quantity (gigatons): 38,400
+
+- Pool: Total inorganic
+- Quantity (gigatons): 37,400
+
+- Pool: Total organic
+- Quantity (gigatons): 1,000
+
+- Pool: Surface layer
+- Quantity (gigatons): 670
+
+- Pool: Deep layer
+- Quantity (gigatons): 36,730
+
+- Pool: Lithosphere
+
+- Pool: Sedimentary carbonates
+- Quantity (gigatons): > 60,000,000
+
+- Pool: Kerogens
+- Quantity (gigatons): 15,000,000
+
+- Pool: Terrestrial biosphere (total)
+- Quantity (gigatons): 2,000
+
+- Pool: Living biomass
+- Quantity (gigatons): 600 - 1,000
+
+- Pool: Dead biomass
+- Quantity (gigatons): 1,200
+
+- Pool: Aquatic biosphere
+- Quantity (gigatons): 1 - 2
+
+- Pool: Fossil fuels (total)
+- Quantity (gigatons): 4,130
+
+- Pool: Coal
+- Quantity (gigatons): 3,510
+
+- Pool: Oil
+- Quantity (gigatons): 230
+
+- Pool: Gas
+- Quantity (gigatons): 140
+
+- Pool: Other (peat)
+- Quantity (gigatons): 250
+
+
+The global carbon cycle is now usually divided into the following major reservoirs of carbon interconnected by pathways of exchange: :5–6
+- The atmosphere
+- The terrestrial biosphere
+- The ocean, including dissolved inorganic carbon and living and non-living marine biota
+- The sediments, including fossil fuels, fresh water systems and non-living organic material.
+- The Earth's interior (mantle and crust. These carbon stores interact with the other components through geological processes.
+
+The carbon exchanges between reservoirs occur as the result of various chemical, physical, geological, and biological processes. The ocean contains the largest active pool of carbon near the surface of the Earth. The natural flows of carbon between the atmosphere, ocean, terrestrial ecosystems, and sediments is fairly balanced, so that carbon levels would be roughly stable without human influence.
+
+### Atmosphere
+
+Carbon in the Earth's atmosphere exists in two main forms: carbon dioxide and methane. Both of these gases absorb and retain heat in the atmosphere and are partially responsible for the greenhouse effect. Methane produces a larger greenhouse effect per volume as compared to carbon dioxide, but it exists in much lower concentrations and is more short-lived than carbon dioxide, making carbon dioxide the more important greenhouse gas of the two.
+
+Carbon dioxide is removed from the atmosphere primarily through photosynthesis and enters the terrestrial and oceanic biospheres. Carbon dioxide also dissolves directly from the atmosphere into bodies of water (ocean, lakes, etc.), as well as dissolving in precipitation as raindrops fall through the atmosphere. When dissolved in water, carbon dioxide reacts with water molecules and forms carbonic acid, which contributes to ocean acidity. It can then be absorbed by rocks through weathering. It also can acidify other surfaces it touches or be washed into the ocean.
+
+Human activities over the past two centuries have significantly increased the amount of carbon in the atmosphere, mainly in the form of carbon dioxide, both by modifying ecosystems' ability to extract carbon dioxide from the atmosphere and by emitting it directly, e.g., by burning fossil fuels and manufacturing concrete.
+
+### Terrestrial biosphere
+
+The terrestrial biosphere includes the organic carbon in all land-living organisms, both alive and dead, as well as carbon stored in soils. About 500 gigatons of carbon are stored above ground in plants and other living organisms, while soil holds approximately 1,500 gigatons of carbon. Most carbon in the terrestrial biosphere is organic carbon, while about a third of soil carbon is stored in inorganic forms, such as calcium carbonate. Organic carbon is a major component of all organisms living on earth. Autotrophs extract it from the air in the form of carbon dioxide, converting it into organic carbon, while heterotrophs receive carbon by consuming other organisms.
+
+Because carbon uptake in the terrestrial biosphere is dependent on biotic factors, it follows a diurnal and seasonal cycle. In CO2 measurements, this feature is apparent in the Keeling curve. It is strongest in the northern hemisphere, because this hemisphere has more land mass than the southern hemisphere and thus more room for ecosystems to absorb and emit carbon.
+
+Carbon leaves the terrestrial biosphere in several ways and on different time scales. The combustion or respiration of organic carbon releases it rapidly into the atmosphere. It can also be exported into the ocean through rivers or remain sequestered in soils in the form of inert carbon. Carbon stored in soil can remain there for up to thousands of years before being washed into rivers by erosion or released into the atmosphere through soil respiration. Between 1989 and 2008 soil respiration increased by about 0.1% per year. In 2008, the global total of CO2 released from the soil reached roughly 98 billion tonnes, about 10 times more carbon than humans are now putting into the atmosphere each year by burning fossil fuel. There are a few plausible explanations for this trend, but the most likely explanation is that increasing temperatures have increased rates of decomposition of soil organic matter, which has increased the flow of CO2. The length of carbon sequestering in soil is dependent on local climatic conditions and thus changes in the course of climate change. From pre-industrial era to 2010, the terrestrial biosphere represented a net source of atmospheric CO2 prior to 1940, switching subsequently to a net sink.
+
+### Ocean
+
+The ocean contains the greatest quantity of actively cycled carbon in this world and are second only to the lithosphere in the amount of carbon they store. Its surface layer holds large amounts of dissolved inorganic carbon that is exchanged rapidly with the atmosphere. The deep layer's concentration of dissolved inorganic carbon (DIC) is about 15% higher than that of the surface layer. DIC is stored in the deep layer for much longer periods of time. Thermohaline circulation exchanges carbon between these two layers.
+
+Carbon enters the ocean mainly through the dissolution of atmospheric carbon dioxide, which is converted into carbonate. It can also enter the ocean through rivers as dissolved organic carbon. It is converted by organisms into organic carbon through photosynthesis and can either be exchanged throughout the food chain or precipitated into the ocean's deeper, more carbon rich layers as dead soft tissue or in shells as calcium carbonate. It circulates in this layer for long periods of time before either being deposited as sediment or, eventually, returned to the surface waters through thermohaline circulation.
+
+Oceanic absorption of CO2 is one of the most important forms of carbon sequestering limiting the human-caused rise of carbon dioxide in the atmosphere. However, this process is limited by a number of factors. Because the rate of CO2 dissolution in the ocean is dependent on the weathering of rocks and this process takes place slower than current rates of human greenhouse gas emissions, ocean CO2 uptake will decrease in the future. CO2 absorption also makes water more acidic, which affects ocean biosystems. The projected rate of increasing oceanic acidity could slow the biological precipitation of calcium carbonates, thus decreasing the ocean's capacity to absorb carbon dioxide.
+
+### Earth's interior
+
+The geologic component of the carbon cycle operates slowly in comparison to the other parts of the global carbon cycle. It is one of the most important determinants of the amount of carbon in the atmosphere, and thus of global temperatures.
+
+Most of the earth's carbon is stored inertly in the earth's lithosphere. Much of the carbon stored in the earth's mantle was stored there when the earth formed. Some of it was deposited in the form of organic carbon from the biosphere. Of the carbon stored in the geosphere, about 80% is limestone and its derivatives, which form from the sedimentation of calcium carbonate stored in the shells of marine organisms. The remaining 20% is stored as kerogens formed through the sedimentation and burial of terrestrial organisms under high heat and pressure. Organic carbon stored in the geosphere can remain there for millions of years.
+
+Carbon can leave the geosphere in several ways. Carbon dioxide is released during the metamorphosis of carbonate rocks when they are subducted into the earth's mantle. This carbon dioxide can be released into the atmosphere and ocean through volcanoes and hotspots. It can also be removed by humans through the direct extraction of kerogens in the form of fossil fuels. After extraction, fossil fuels are burned to release energy, thus emitting the carbon they store into the atmosphere.
+
+## Human influence
+
+Since the industrial revolution, human activity has modified the carbon cycle by changing its components' functions and directly adding carbon to the atmosphere.
+
+The largest human impact on the carbon cycle is through direct emissions from burning fossil fuels, which transfers carbon from the geosphere into the atmosphere. The rest of this increase is caused mostly by changes in land-use, particularly deforestation.
+
+Another direct human impact on the carbon cycle is the chemical process of calcination of limestone for clinker production, which releases CO2. Clinker is an industrial precursor of cement.
+
+Humans also influence the carbon cycle indirectly by changing the terrestrial and oceanic biosphere. Over the past several centuries, direct and indirect human-caused land use and land cover change (LUCC) has led to the loss of biodiversity, which lowers ecosystems' resilience to environmental stresses and decreases their ability to remove carbon from the atmosphere. More directly, it often leads to the release of carbon from terrestrial ecosystems into the atmosphere. Deforestation for agricultural purposes removes forests, which hold large amounts of carbon, and replaces them, generally with agricultural or urban areas. Both of these replacement land cover types store comparatively small amounts of carbon, so that the net product of the process is that more carbon stays in the atmosphere.
+
+Other human-caused changes to the environment change ecosystems' productivity and their ability to remove carbon from the atmosphere. Air pollution, for example, damages plants and soils, while many agricultural and land use practices lead to higher erosion rates, washing carbon out of soils and decreasing plant productivity.
+
+Humans also affect the oceanic carbon cycle. Current trends in climate change lead to higher ocean temperatures, thus modifying ecosystems . Also, acid rain and polluted runoff from agriculture and industry change the ocean's chemical composition. Such changes can have dramatic effects on highly sensitive ecosystems such as coral reefs , thus limiting the ocean's ability to absorb carbon from the atmosphere on a regional scale and reducing oceanic biodiversity globally.
+
+Arctic methane emissions indirectly caused by anthropogenic global warming also affect the carbon cycle, and contribute to further warming in what is known as climate change feedback.
+
+On 12 November 2015, NASA scientists reported that human-made carbon dioxide (CO2) continues to increase above levels not seen in hundreds of thousands of years: currently, about half of the carbon dioxide released from the burning of fossil fuels remains in the atmosphere and is not absorbed by vegetation and the ocean.

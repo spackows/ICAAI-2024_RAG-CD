@@ -1,0 +1,82 @@
+
+
+# Structure of the Earth
+
+The interior structure of the Earth is layered in spherical shells. These layers can be defined by their chemical and their rheological properties. Earth has an outer silicate solid crust, a highly viscous mantle, a liquid outer core that is much less viscous than the mantle, and a solid inner core. Scientific understanding of the internal structure of the Earth is based on observations of topography and bathymetry, observations of rock in outcrop, samples brought to the surface from greater depths by volcanoes or volcanic activity, analysis of the seismic waves that pass through the Earth, measurements of the gravitational and magnetic fields of the Earth, and experiments with crystalline solids at pressures and temperatures characteristic of the Earth's deep interior.
+
+## Mass
+
+The force exerted by Earth's gravity can be used to calculate its mass. Astronomers can also calculate Earth's mass by observing the motion of orbiting satellites. Earth’s average density can be determined through gravitometric experiments, which have historically involved pendulums.
+
+The mass of Earth is about 6×1024 kg.
+
+## Structure
+
+The structure of Earth can be defined in two ways: by mechanical properties such as rheology, or chemically. Mechanically, it can be divided into lithosphere, asthenosphere, mesospheric mantle, outer core, and the inner core. Chemically, Earth can be divided into the crust, upper mantle, lower mantle, outer core, and inner core. The geologic component layers of Earth [not in citation given] are at the following depths below the surface:
+
+- Depth, Kilometres: 0–60
+- Depth, Miles: 0–37
+- Layer: Lithosphere (locally varies between 5 and 200 km)
+
+- Depth, Kilometres: 0–35
+- Depth, Miles: 0–22
+- Layer: … Crust (locally varies between 5 and 70 km)
+
+- Depth, Kilometres: 35–60
+- Depth, Miles: 22–37
+- Layer: … Uppermost part of mantle
+
+- Depth, Kilometres: 35–2,890
+- Depth, Miles: 22–1,790
+- Layer: Mantle
+
+- Depth, Kilometres: 210-270
+- Depth, Miles: 130-168
+- Layer: … Upper mesosphere (upper mantle)
+
+- Depth, Kilometres: 660–2,890
+- Depth, Miles: 410–1,790
+- Layer: … Lower mesosphere (lower mantle)
+
+- Depth, Kilometres: 2,890–5,150
+- Depth, Miles: 1,790–3,160
+- Layer: Outer core
+
+- Depth, Kilometres: 5,150–6,360
+- Depth, Miles: 3,160–3,954
+- Layer: Inner core
+
+
+The layering of Earth has been inferred indirectly using the time of travel of refracted and reflected seismic waves created by earthquakes. The core does not allow shear waves to pass through it, while the speed of travel (seismic velocity) is different in other layers. The changes in seismic velocity between different layers causes refraction owing to Snell's law, like light bending as it passes through a prism. Likewise, reflections are caused by a large increase in seismic velocity and are similar to light reflecting from a mirror.
+
+### Crust
+
+The crust ranges from 5–70 kilometres (3.1–43.5 mi) in depth and is the outermost layer. The thin parts are the oceanic crust, which underlie the ocean basins (5–10 km) and are composed of dense (mafic) iron magnesium silicate igneous rocks, like basalt. The thicker crust is continental crust, which is less dense and composed of (felsic) sodium potassium aluminium silicate rocks, like granite. The rocks of the crust fall into two major categories – sial and sima (Suess,1831–1914). It is estimated that sima starts about 11 km below the Conrad discontinuity (a second order discontinuity). The uppermost mantle together with the crust constitutes the lithosphere. The crust-mantle boundary occurs as two physically different events. First, there is a discontinuity in the seismic velocity, which is most commonly known as the Mohorovičić discontinuity or Moho. The cause of the Moho is thought to be a change in rock composition from rocks containing plagioclase feldspar (above) to rocks that contain no feldspars (below). Second, in oceanic crust, there is a chemical discontinuity between ultramafic cumulates and tectonized harzburgites, which has been observed from deep parts of the oceanic crust that have been obducted onto the continental crust and preserved as ophiolite sequences.
+
+Many rocks now making up Earth's crust formed less than 100 million (1×108) years ago; however, the oldest known mineral grains are 4.4 billion (4.4×109) years old, indicating that Earth has had a solid crust for at least that long.
+
+### Mantle
+
+Earth's mantle extends to a depth of 2,890 km, making it the thickest layer of Earth. The mantle is divided into upper and lower mantle. The upper and lower mantle are separated by the transition zone. The lowest part of the mantle next to the core-mantle boundary is known as the D″ (pronounced dee-double-prime ) layer. The pressure at the bottom of the mantle is ≈140 GPa (1.4 Matm). The mantle is composed of silicate rocks that are rich in iron and magnesium relative to the overlying crust. Although solid, the high temperatures within the mantle cause the silicate material to be sufficiently ductile that it can flow on very long timescales. Convection of the mantle is expressed at the surface through the motions of tectonic plates. As there is intense and increasing pressure as one travels deeper into the mantle, the lower part of the mantle flows less easily than does the upper mantle (chemical changes within the mantle may also be important). The viscosity of the mantle ranges between 1021 and 1024 Pa·s, depending on depth. In comparison, the viscosity of water is approximately 10−3 Pa·s and that of pitch is 107 Pa·s. The source of heat that drives plate tectonics is the primordial heat left over from the planet’s formation as well as the radioactive decay of uranium, thorium, and potassium in Earth’s crust and mantle.
+
+### Core
+
+The average density of Earth is 5,515 kg/m3. Because the average density of surface material is only around 3,000 kg/m3, we must conclude that denser materials exist within Earth's core. Seismic measurements show that the core is divided into two parts, a "solid" inner core with a radius of ≈1,220 km and a liquid outer core extending beyond it to a radius of ≈3,400 km. The densities are between 9,900 and 12,200 kg/m3 in the outer core and 12,600–13,000 kg/m3 in the inner core.
+
+The inner core was discovered in 1936 by Inge Lehmann and is generally believed to be composed primarily of iron and some nickel. It is not necessarily a solid, but, because it is able to deflect seismic waves, it must behave as a solid in some fashion. Experimental evidence has at times been critical of crystal models of the core. Other experimental studies show a discrepancy under high pressure: diamond anvil (static) studies at core pressures yield melting temperatures that are approximately 2000 K below those from shock laser (dynamic) studies. The laser studies create plasma, and the results are suggestive that constraining inner core conditions will depend on whether the inner core is a solid or is a plasma with the density of a solid. This is an area of active research.
+
+In early stages of Earth's formation about four and a half billion (4.5×109) years ago, melting would have caused denser substances to sink toward the center in a process called planetary differentiation (see also the iron catastrophe), while less-dense materials would have migrated to the crust. The core is thus believed to largely be composed of iron (80%), along with nickel and one or more light elements, whereas other dense elements, such as lead and uranium, either are too rare to be significant or tend to bind to lighter elements and thus remain in the crust (see felsic materials). Some have argued that the inner core may be in the form of a single iron crystal.
+
+Under laboratory conditions a sample of iron–nickel alloy was subjected to the corelike pressures by gripping it in a vise between 2 diamond tips (diamond anvil cell), and then heating to approximately 4000 K. The sample was observed with x-rays, and strongly supported the theory that Earth's inner core was made of giant crystals running north to south.
+
+The liquid outer core surrounds the inner core and is believed to be composed of iron mixed with nickel and trace amounts of lighter elements.
+
+Recent speculation suggests that the innermost part of the core is enriched in gold, platinum and other siderophile elements.
+
+The matter that comprises Earth is connected in fundamental ways to matter of certain chondrite meteorites, and to matter of outer portion of the Sun. There is good reason to believe that Earth is, in the main, like a chondrite meteorite. Beginning as early as 1940, scientists, including Francis Birch, built geophysics upon the premise that Earth is like ordinary chondrites, the most common type of meteorite observed impacting Earth, while totally ignoring another, albeit less abundant type, called enstatite chondrites. The principal difference between the two meteorite types is that enstatite chondrites formed under circumstances of extremely limited available oxygen, leading to certain normally oxyphile elements existing either partially or wholly in the alloy portion that corresponds to the core of Earth.
+
+Dynamo theory suggests that convection in the outer core, combined with the Coriolis effect, gives rise to Earth's magnetic field. The solid inner core is too hot to hold a permanent magnetic field (see Curie temperature) but probably acts to stabilize the magnetic field generated by the liquid outer core. The average magnetic field strength in Earth's outer core is estimated to be 25 Gauss (2.5 mT), 50 times stronger than the magnetic field at the surface.
+
+Recent evidence has suggested that the inner core of Earth may rotate slightly faster than the rest of the planet; however, more recent studies in 2011[which?] found this hypothesis to be inconclusive. Options remain for the core which may be oscillatory in nature or a chaotic system.[citation needed] In August 2005 a team of geophysicists announced in the journal Science that, according to their estimates, Earth's inner core rotates approximately 0.3 to 0.5 degrees per year faster relative to the rotation of the surface.
+
+The current scientific explanation for Earth's temperature gradient is a combination of heat left over from the planet's initial formation, decay of radioactive elements, and freezing of the inner core.

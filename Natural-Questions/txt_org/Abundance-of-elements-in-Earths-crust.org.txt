@@ -1,0 +1,718 @@
+
+
+# Abundance of elements in Earth's crust
+
+The abundance of elements in Earth's crust is shown in tabulated form with the estimated crustal abundance for each chemical element shown as either percentage or parts per million (ppm) by mass (10,000 ppm = 1%).
+
+Abundance of chemical elements in Earth's crust, from various sources:
+
+- Rank: 1
+- Z, element & symbol: 8
+- Z, element & symbol: oxygen
+- Z, element & symbol: O
+- Abundance in crust (ppm) by source, Darling: 466,000
+- Abundance in crust (ppm) by source, Barbalace: 474,000
+- Abundance in crust (ppm) by source, WebElements: 460,000
+- Abundance in crust (ppm) by source, Israel Science and Technology: 467,100
+- Abundance in crust (ppm) by source, Jefferson Lab: 461,000
+
+- Rank: 2
+- Z, element & symbol: 14
+- Z, element & symbol: silicon [A]
+- Z, element & symbol: Si
+- Abundance in crust (ppm) by source, Darling: 277,200
+- Abundance in crust (ppm) by source, Barbalace: 277,100
+- Abundance in crust (ppm) by source, WebElements: 270,000
+- Abundance in crust (ppm) by source, Israel Science and Technology: 276,900
+- Abundance in crust (ppm) by source, Jefferson Lab: 282,000
+- Annual production, (2016, tonnes): 7,200,000
+
+- Rank: 3
+- Z, element & symbol: 13
+- Z, element & symbol: aluminium
+- Z, element & symbol: Al
+- Abundance in crust (ppm) by source, Darling: 81,300
+- Abundance in crust (ppm) by source, Barbalace: 82,000
+- Abundance in crust (ppm) by source, WebElements: 82,000
+- Abundance in crust (ppm) by source, Israel Science and Technology: 80,700
+- Abundance in crust (ppm) by source, Jefferson Lab: 82,300
+- Annual production, (2016, tonnes): 57,600,000
+
+- Rank: 4
+- Z, element & symbol: 26
+- Z, element & symbol: iron
+- Z, element & symbol: Fe
+- Abundance in crust (ppm) by source, Darling: 50,000
+- Abundance in crust (ppm) by source, Barbalace: 41,000
+- Abundance in crust (ppm) by source, WebElements: 63,000
+- Abundance in crust (ppm) by source, Israel Science and Technology: 50,500
+- Abundance in crust (ppm) by source, Jefferson Lab: 56,300
+- Annual production, (2016, tonnes): 1,150,000,000
+
+- Rank: 5
+- Z, element & symbol: 20
+- Z, element & symbol: calcium
+- Z, element & symbol: Ca
+- Abundance in crust (ppm) by source, Darling: 36,300
+- Abundance in crust (ppm) by source, Barbalace: 41,000
+- Abundance in crust (ppm) by source, WebElements: 50,000
+- Abundance in crust (ppm) by source, Israel Science and Technology: 36,500
+- Abundance in crust (ppm) by source, Jefferson Lab: 41,500
+
+- Rank: 6
+- Z, element & symbol: 11
+- Z, element & symbol: sodium
+- Z, element & symbol: Na
+- Abundance in crust (ppm) by source, Darling: 28,300
+- Abundance in crust (ppm) by source, Barbalace: 23,000
+- Abundance in crust (ppm) by source, WebElements: 23,000
+- Abundance in crust (ppm) by source, Israel Science and Technology: 27,500
+- Abundance in crust (ppm) by source, Jefferson Lab: 23,600
+- Annual production, (2016, tonnes): 255,000,000
+
+- Rank: 7
+- Z, element & symbol: 19
+- Z, element & symbol: potassium
+- Z, element & symbol: K
+- Abundance in crust (ppm) by source, Darling: 25,900
+- Abundance in crust (ppm) by source, Barbalace: 21,000
+- Abundance in crust (ppm) by source, WebElements: 15,000
+- Abundance in crust (ppm) by source, Israel Science and Technology: 25,800
+- Abundance in crust (ppm) by source, Jefferson Lab: 20,900
+
+- Rank: 8
+- Z, element & symbol: 12
+- Z, element & symbol: magnesium
+- Z, element & symbol: Mg
+- Abundance in crust (ppm) by source, Darling: 20,900
+- Abundance in crust (ppm) by source, Barbalace: 23,000
+- Abundance in crust (ppm) by source, WebElements: 29,000
+- Abundance in crust (ppm) by source, Israel Science and Technology: 20,800
+- Abundance in crust (ppm) by source, Jefferson Lab: 23,300
+- Annual production, (2016, tonnes): 1,010,000
+
+- Rank: 9
+- Z, element & symbol: 22
+- Z, element & symbol: titanium
+- Z, element & symbol: Ti
+- Abundance in crust (ppm) by source, Darling: 4,400
+- Abundance in crust (ppm) by source, Barbalace: 5,600
+- Abundance in crust (ppm) by source, WebElements: 6,600
+- Abundance in crust (ppm) by source, Israel Science and Technology: 6,200
+- Abundance in crust (ppm) by source, Jefferson Lab: 5,600
+- Annual production, (2016, tonnes): 6,600,000
+
+- Rank: 10
+- Z, element & symbol: 1
+- Z, element & symbol: hydrogen
+- Z, element & symbol: H
+- Abundance in crust (ppm) by source, Darling: 1,400
+- Abundance in crust (ppm) by source, WebElements: 1,500
+- Abundance in crust (ppm) by source, Israel Science and Technology: 1,400
+- Abundance in crust (ppm) by source, Jefferson Lab: 1,400
+
+- Rank: 11
+- Z, element & symbol: 15
+- Z, element & symbol: phosphorus
+- Z, element & symbol: P
+- Abundance in crust (ppm) by source, Darling: 1,200
+- Abundance in crust (ppm) by source, Barbalace: 1,000
+- Abundance in crust (ppm) by source, WebElements: 1,000
+- Abundance in crust (ppm) by source, Israel Science and Technology: 1,300
+- Abundance in crust (ppm) by source, Jefferson Lab: 1,050
+
+- Rank: 12
+- Z, element & symbol: 25
+- Z, element & symbol: manganese
+- Z, element & symbol: Mn
+- Abundance in crust (ppm) by source, Darling: 1,000
+- Abundance in crust (ppm) by source, Barbalace: 950
+- Abundance in crust (ppm) by source, WebElements: 1,100
+- Abundance in crust (ppm) by source, Israel Science and Technology: 900
+- Abundance in crust (ppm) by source, Jefferson Lab: 950
+- Annual production, (2016, tonnes): 16,000,000
+
+- Rank: 13
+- Z, element & symbol: 9
+- Z, element & symbol: fluorine
+- Z, element & symbol: F
+- Abundance in crust (ppm) by source, Darling: 800
+- Abundance in crust (ppm) by source, Barbalace: 950
+- Abundance in crust (ppm) by source, WebElements: 540
+- Abundance in crust (ppm) by source, Israel Science and Technology: 290
+- Abundance in crust (ppm) by source, Jefferson Lab: 585
+
+- Rank: 14
+- Z, element & symbol: 56
+- Z, element & symbol: barium
+- Z, element & symbol: Ba
+- Abundance in crust (ppm) by source, Darling: 500
+- Abundance in crust (ppm) by source, Barbalace: 340
+- Abundance in crust (ppm) by source, WebElements: 340
+- Abundance in crust (ppm) by source, Israel Science and Technology: 500
+- Abundance in crust (ppm) by source, Jefferson Lab: 425
+
+- Rank: 15
+- Z, element & symbol: 6
+- Z, element & symbol: carbon
+- Z, element & symbol: C
+- Abundance in crust (ppm) by source, Darling: 300
+- Abundance in crust (ppm) by source, Barbalace: 480
+- Abundance in crust (ppm) by source, WebElements: 1,800
+- Abundance in crust (ppm) by source, Israel Science and Technology: 940
+- Abundance in crust (ppm) by source, Jefferson Lab: 200
+
+- Rank: 16
+- Z, element & symbol: 38
+- Z, element & symbol: strontium
+- Z, element & symbol: Sr
+- Abundance in crust (ppm) by source, Barbalace: 370
+- Abundance in crust (ppm) by source, WebElements: 360
+- Abundance in crust (ppm) by source, Jefferson Lab: 370
+- Annual production, (2016, tonnes): 350,000
+
+- Rank: 17
+- Z, element & symbol: 16
+- Z, element & symbol: sulfur
+- Z, element & symbol: S
+- Abundance in crust (ppm) by source, Darling: 500
+- Abundance in crust (ppm) by source, Barbalace: 260
+- Abundance in crust (ppm) by source, WebElements: 420
+- Abundance in crust (ppm) by source, Israel Science and Technology: 520
+- Abundance in crust (ppm) by source, Jefferson Lab: 350
+- Annual production, (2016, tonnes): 69,300,000
+
+- Rank: 18
+- Z, element & symbol: 40
+- Z, element & symbol: zirconium
+- Z, element & symbol: Zr
+- Abundance in crust (ppm) by source, Barbalace: 190
+- Abundance in crust (ppm) by source, WebElements: 130
+- Abundance in crust (ppm) by source, Israel Science and Technology: 250
+- Abundance in crust (ppm) by source, Jefferson Lab: 165
+- Annual production, (2016, tonnes): 1,460,000
+
+- Rank: 19
+- Z, element & symbol: 74
+- Z, element & symbol: tungsten
+- Z, element & symbol: W
+- Abundance in crust (ppm) by source, Barbalace: 160.6
+- Abundance in crust (ppm) by source, WebElements: 1.1
+- Abundance in crust (ppm) by source, Jefferson Lab: 1.25
+- Annual production, (2016, tonnes): 86,400
+
+- Rank: 20
+- Z, element & symbol: 23
+- Z, element & symbol: vanadium
+- Z, element & symbol: V
+- Abundance in crust (ppm) by source, Darling: 100
+- Abundance in crust (ppm) by source, Barbalace: 160
+- Abundance in crust (ppm) by source, WebElements: 190
+- Abundance in crust (ppm) by source, Jefferson Lab: 120
+- Annual production, (2016, tonnes): 76,000
+
+- Rank: 21
+- Z, element & symbol: 17
+- Z, element & symbol: chlorine
+- Z, element & symbol: Cl
+- Abundance in crust (ppm) by source, Darling: 500
+- Abundance in crust (ppm) by source, Barbalace: 130
+- Abundance in crust (ppm) by source, WebElements: 170
+- Abundance in crust (ppm) by source, Israel Science and Technology: 450
+- Abundance in crust (ppm) by source, Jefferson Lab: 145
+
+- Rank: 22
+- Z, element & symbol: 24
+- Z, element & symbol: chromium
+- Z, element & symbol: Cr
+- Abundance in crust (ppm) by source, Darling: 100
+- Abundance in crust (ppm) by source, Barbalace: 100
+- Abundance in crust (ppm) by source, WebElements: 140
+- Abundance in crust (ppm) by source, Israel Science and Technology: 350
+- Abundance in crust (ppm) by source, Jefferson Lab: 102
+- Annual production, (2016, tonnes): 26,000,000
+
+- Rank: 23
+- Z, element & symbol: 37
+- Z, element & symbol: rubidium
+- Z, element & symbol: Rb
+- Abundance in crust (ppm) by source, Darling: 300
+- Abundance in crust (ppm) by source, Barbalace: 90
+- Abundance in crust (ppm) by source, WebElements: 60
+- Abundance in crust (ppm) by source, Jefferson Lab: 90
+
+- Rank: 24
+- Z, element & symbol: 28
+- Z, element & symbol: nickel
+- Z, element & symbol: Ni
+- Abundance in crust (ppm) by source, Barbalace: 80
+- Abundance in crust (ppm) by source, WebElements: 90
+- Abundance in crust (ppm) by source, Israel Science and Technology: 190
+- Abundance in crust (ppm) by source, Jefferson Lab: 84
+- Annual production, (2016, tonnes): 2,250,000
+
+- Rank: 25
+- Z, element & symbol: 30
+- Z, element & symbol: zinc
+- Z, element & symbol: Zn
+- Abundance in crust (ppm) by source, Barbalace: 75
+- Abundance in crust (ppm) by source, WebElements: 79
+- Abundance in crust (ppm) by source, Jefferson Lab: 70
+- Annual production, (2016, tonnes): 11,900,000
+
+- Rank: 26
+- Z, element & symbol: 29
+- Z, element & symbol: copper
+- Z, element & symbol: Cu
+- Abundance in crust (ppm) by source, Darling: 100
+- Abundance in crust (ppm) by source, Barbalace: 50
+- Abundance in crust (ppm) by source, WebElements: 68
+- Abundance in crust (ppm) by source, Jefferson Lab: 60
+- Annual production, (2016, tonnes): 19,400,000
+
+- Rank: 27
+- Z, element & symbol: 58
+- Z, element & symbol: cerium
+- Z, element & symbol: Ce
+- Abundance in crust (ppm) by source, Barbalace: 68
+- Abundance in crust (ppm) by source, WebElements: 60
+- Abundance in crust (ppm) by source, Jefferson Lab: 66.5
+
+- Rank: 28
+- Z, element & symbol: 60
+- Z, element & symbol: neodymium
+- Z, element & symbol: Nd
+- Abundance in crust (ppm) by source, Barbalace: 38
+- Abundance in crust (ppm) by source, WebElements: 33
+- Abundance in crust (ppm) by source, Jefferson Lab: 41.5
+
+- Rank: 29
+- Z, element & symbol: 57
+- Z, element & symbol: lanthanum
+- Z, element & symbol: La
+- Abundance in crust (ppm) by source, Barbalace: 32
+- Abundance in crust (ppm) by source, WebElements: 34
+- Abundance in crust (ppm) by source, Jefferson Lab: 39
+
+- Rank: 30
+- Z, element & symbol: 39
+- Z, element & symbol: yttrium
+- Z, element & symbol: Y
+- Abundance in crust (ppm) by source, Barbalace: 30
+- Abundance in crust (ppm) by source, WebElements: 29
+- Abundance in crust (ppm) by source, Jefferson Lab: 33
+- Annual production, (2016, tonnes): 6,000
+
+- Rank: 31
+- Z, element & symbol: 7
+- Z, element & symbol: nitrogen
+- Z, element & symbol: N
+- Abundance in crust (ppm) by source, Darling: 50
+- Abundance in crust (ppm) by source, Barbalace: 25
+- Abundance in crust (ppm) by source, WebElements: 20
+- Abundance in crust (ppm) by source, Jefferson Lab: 19
+- Annual production, (2016, tonnes): 140,000,000
+
+- Rank: 32
+- Z, element & symbol: 27
+- Z, element & symbol: cobalt
+- Z, element & symbol: Co
+- Abundance in crust (ppm) by source, Barbalace: 20
+- Abundance in crust (ppm) by source, WebElements: 30
+- Abundance in crust (ppm) by source, Jefferson Lab: 25
+- Annual production, (2016, tonnes): 123,000
+
+- Rank: 33
+- Z, element & symbol: 3
+- Z, element & symbol: lithium
+- Z, element & symbol: Li
+- Abundance in crust (ppm) by source, Barbalace: 20
+- Abundance in crust (ppm) by source, WebElements: 17
+- Abundance in crust (ppm) by source, Jefferson Lab: 20
+- Annual production, (2016, tonnes): 35,000
+
+- Rank: 34
+- Z, element & symbol: 41
+- Z, element & symbol: niobium
+- Z, element & symbol: Nb
+- Abundance in crust (ppm) by source, Barbalace: 20
+- Abundance in crust (ppm) by source, WebElements: 17
+- Abundance in crust (ppm) by source, Jefferson Lab: 20
+- Annual production, (2016, tonnes): 64,000
+
+- Rank: 35
+- Z, element & symbol: 31
+- Z, element & symbol: gallium
+- Z, element & symbol: Ga
+- Abundance in crust (ppm) by source, Barbalace: 18
+- Abundance in crust (ppm) by source, WebElements: 19
+- Abundance in crust (ppm) by source, Jefferson Lab: 19
+
+- Rank: 36
+- Z, element & symbol: 21
+- Z, element & symbol: scandium
+- Z, element & symbol: Sc
+- Abundance in crust (ppm) by source, Barbalace: 16
+- Abundance in crust (ppm) by source, WebElements: 26
+- Abundance in crust (ppm) by source, Jefferson Lab: 22
+
+- Rank: 37
+- Z, element & symbol: 82
+- Z, element & symbol: lead
+- Z, element & symbol: Pb
+- Abundance in crust (ppm) by source, Barbalace: 14
+- Abundance in crust (ppm) by source, WebElements: 10
+- Abundance in crust (ppm) by source, Jefferson Lab: 14
+- Annual production, (2016, tonnes): 4,820,000
+
+- Rank: 38
+- Z, element & symbol: 62
+- Z, element & symbol: samarium
+- Z, element & symbol: Sm
+- Abundance in crust (ppm) by source, Barbalace: 7.9
+- Abundance in crust (ppm) by source, WebElements: 6
+- Abundance in crust (ppm) by source, Jefferson Lab: 7.05
+
+- Rank: 39
+- Z, element & symbol: 90
+- Z, element & symbol: thorium
+- Z, element & symbol: Th
+- Abundance in crust (ppm) by source, Barbalace: 12
+- Abundance in crust (ppm) by source, WebElements: 6
+- Abundance in crust (ppm) by source, Jefferson Lab: 9.6
+
+- Rank: 40
+- Z, element & symbol: 59
+- Z, element & symbol: praseodymium
+- Z, element & symbol: Pr
+- Abundance in crust (ppm) by source, Barbalace: 9.5
+- Abundance in crust (ppm) by source, WebElements: 8.7
+- Abundance in crust (ppm) by source, Jefferson Lab: 9.2
+
+- Rank: 41
+- Z, element & symbol: 5
+- Z, element & symbol: boron
+- Z, element & symbol: B
+- Abundance in crust (ppm) by source, Barbalace: 950
+- Abundance in crust (ppm) by source, WebElements: 8.7
+- Abundance in crust (ppm) by source, Jefferson Lab: 10
+- Annual production, (2016, tonnes): 9,400,000
+
+- Rank: 42
+- Z, element & symbol: 64
+- Z, element & symbol: gadolinium
+- Z, element & symbol: Gd
+- Abundance in crust (ppm) by source, Barbalace: 7.7
+- Abundance in crust (ppm) by source, WebElements: 5.2
+- Abundance in crust (ppm) by source, Jefferson Lab: 6.2
+
+- Rank: 43
+- Z, element & symbol: 66
+- Z, element & symbol: dysprosium
+- Z, element & symbol: Dy
+- Abundance in crust (ppm) by source, Barbalace: 6
+- Abundance in crust (ppm) by source, WebElements: 6.2
+- Abundance in crust (ppm) by source, Jefferson Lab: 5.2
+
+- Rank: 44
+- Z, element & symbol: 72
+- Z, element & symbol: hafnium
+- Z, element & symbol: Hf
+- Abundance in crust (ppm) by source, Barbalace: 5.3
+- Abundance in crust (ppm) by source, WebElements: 3.3
+- Abundance in crust (ppm) by source, Jefferson Lab: 3.0
+
+- Rank: 45
+- Z, element & symbol: 68
+- Z, element & symbol: erbium
+- Z, element & symbol: Er
+- Abundance in crust (ppm) by source, Barbalace: 3.8
+- Abundance in crust (ppm) by source, WebElements: 3.0
+- Abundance in crust (ppm) by source, Jefferson Lab: 3.5
+
+- Rank: 46
+- Z, element & symbol: 70
+- Z, element & symbol: ytterbium
+- Z, element & symbol: Yb
+- Abundance in crust (ppm) by source, Barbalace: 3.3
+- Abundance in crust (ppm) by source, WebElements: 2.8
+- Abundance in crust (ppm) by source, Jefferson Lab: 3.2
+
+- Rank: 47
+- Z, element & symbol: 55
+- Z, element & symbol: caesium
+- Z, element & symbol: Cs
+- Abundance in crust (ppm) by source, Barbalace: 3
+- Abundance in crust (ppm) by source, WebElements: 1.9
+- Abundance in crust (ppm) by source, Jefferson Lab: 3
+
+- Rank: 48
+- Z, element & symbol: 4
+- Z, element & symbol: beryllium
+- Z, element & symbol: Be
+- Abundance in crust (ppm) by source, Barbalace: 2.6
+- Abundance in crust (ppm) by source, WebElements: 1.9
+- Abundance in crust (ppm) by source, Jefferson Lab: 2.8
+- Annual production, (2016, tonnes): 220
+
+- Rank: 49
+- Z, element & symbol: 50
+- Z, element & symbol: tin
+- Z, element & symbol: Sn
+- Abundance in crust (ppm) by source, Darling: 0
+- Abundance in crust (ppm) by source, Barbalace: 2.2
+- Abundance in crust (ppm) by source, WebElements: 2.2
+- Abundance in crust (ppm) by source, Jefferson Lab: 2.3
+- Annual production, (2016, tonnes): 280,000
+
+- Rank: 50
+- Z, element & symbol: 63
+- Z, element & symbol: europium
+- Z, element & symbol: Eu
+- Abundance in crust (ppm) by source, Barbalace: 2.1
+- Abundance in crust (ppm) by source, WebElements: 1.8
+- Abundance in crust (ppm) by source, Jefferson Lab: 2.0
+
+- Rank: 51
+- Z, element & symbol: 92
+- Z, element & symbol: uranium
+- Z, element & symbol: U
+- Abundance in crust (ppm) by source, Barbalace: 0
+- Abundance in crust (ppm) by source, WebElements: 1.8
+- Abundance in crust (ppm) by source, Jefferson Lab: 2.7
+- Annual production, (2016, tonnes): 74,119
+
+- Rank: 52
+- Z, element & symbol: 73
+- Z, element & symbol: tantalum
+- Z, element & symbol: Ta
+- Abundance in crust (ppm) by source, Barbalace: 2
+- Abundance in crust (ppm) by source, WebElements: 1.7
+- Abundance in crust (ppm) by source, Jefferson Lab: 2.0
+- Annual production, (2016, tonnes): 1,100
+
+- Rank: 53
+- Z, element & symbol: 32
+- Z, element & symbol: germanium
+- Z, element & symbol: Ge
+- Abundance in crust (ppm) by source, Barbalace: 1.8
+- Abundance in crust (ppm) by source, WebElements: 1.4
+- Abundance in crust (ppm) by source, Jefferson Lab: 1.5
+- Annual production, (2016, tonnes): 155
+
+- Rank: 54
+- Z, element & symbol: 42
+- Z, element & symbol: molybdenum
+- Z, element & symbol: Mo
+- Abundance in crust (ppm) by source, Barbalace: 1.5
+- Abundance in crust (ppm) by source, WebElements: 1.1
+- Abundance in crust (ppm) by source, Jefferson Lab: 1.2
+- Annual production, (2016, tonnes): 227,000
+
+- Rank: 55
+- Z, element & symbol: 33
+- Z, element & symbol: arsenic
+- Z, element & symbol: As
+- Abundance in crust (ppm) by source, Barbalace: 1.5
+- Abundance in crust (ppm) by source, WebElements: 2.1
+- Abundance in crust (ppm) by source, Jefferson Lab: 1.8
+- Annual production, (2016, tonnes): 36,500
+
+- Rank: 56
+- Z, element & symbol: 67
+- Z, element & symbol: holmium
+- Z, element & symbol: Ho
+- Abundance in crust (ppm) by source, Barbalace: 1.4
+- Abundance in crust (ppm) by source, WebElements: 1.2
+- Abundance in crust (ppm) by source, Jefferson Lab: 1.3
+
+- Rank: 57
+- Z, element & symbol: 65
+- Z, element & symbol: terbium
+- Z, element & symbol: Tb
+- Abundance in crust (ppm) by source, Barbalace: 1.1
+- Abundance in crust (ppm) by source, WebElements: 0.94
+- Abundance in crust (ppm) by source, Jefferson Lab: 1.2
+
+- Rank: 58
+- Z, element & symbol: 69
+- Z, element & symbol: thulium
+- Z, element & symbol: Tm
+- Abundance in crust (ppm) by source, Barbalace: 0.48
+- Abundance in crust (ppm) by source, WebElements: 0.45
+- Abundance in crust (ppm) by source, Jefferson Lab: 0.52
+
+- Rank: 59
+- Z, element & symbol: 35
+- Z, element & symbol: bromine
+- Z, element & symbol: Br
+- Abundance in crust (ppm) by source, Barbalace: 0.37
+- Abundance in crust (ppm) by source, WebElements: 3
+- Abundance in crust (ppm) by source, Jefferson Lab: 2.4
+- Annual production, (2016, tonnes): 391,000
+
+- Rank: 60
+- Z, element & symbol: 81
+- Z, element & symbol: thallium
+- Z, element & symbol: Tl
+- Abundance in crust (ppm) by source, Barbalace: 0.6
+- Abundance in crust (ppm) by source, WebElements: 0.530
+- Abundance in crust (ppm) by source, Jefferson Lab: 0.850
+- Annual production, (2016, tonnes): 10
+
+- Rank: 61
+- Z, element & symbol: 71
+- Z, element & symbol: lutetium
+- Z, element & symbol: Lu
+- Abundance in crust (ppm) by source, Jefferson Lab: 0.5
+
+- Rank: 62
+- Z, element & symbol: 51
+- Z, element & symbol: antimony
+- Z, element & symbol: Sb
+- Abundance in crust (ppm) by source, Barbalace: 0.2
+- Abundance in crust (ppm) by source, WebElements: 0.2
+- Abundance in crust (ppm) by source, Jefferson Lab: 0.2
+- Annual production, (2016, tonnes): 130,000
+
+- Rank: 63
+- Z, element & symbol: 53
+- Z, element & symbol: iodine
+- Z, element & symbol: I
+- Abundance in crust (ppm) by source, Barbalace: 0.14
+- Abundance in crust (ppm) by source, WebElements: 0.490
+- Abundance in crust (ppm) by source, Jefferson Lab: 0.450
+- Annual production, (2016, tonnes): 31,600
+
+- Rank: 64
+- Z, element & symbol: 48
+- Z, element & symbol: cadmium
+- Z, element & symbol: Cd
+- Abundance in crust (ppm) by source, Barbalace: 0.11
+- Abundance in crust (ppm) by source, WebElements: 0.15
+- Abundance in crust (ppm) by source, Jefferson Lab: 0.15
+- Annual production, (2016, tonnes): 23,000
+
+- Rank: 65
+- Z, element & symbol: 47
+- Z, element & symbol: silver
+- Z, element & symbol: Ag
+- Abundance in crust (ppm) by source, Barbalace: 0.070
+- Abundance in crust (ppm) by source, WebElements: 0.080
+- Abundance in crust (ppm) by source, Jefferson Lab: 0.075
+- Annual production, (2016, tonnes): 27,000
+
+- Rank: 66
+- Z, element & symbol: 80
+- Z, element & symbol: mercury
+- Z, element & symbol: Hg
+- Abundance in crust (ppm) by source, Barbalace: 0.05
+- Abundance in crust (ppm) by source, WebElements: 0.067
+- Abundance in crust (ppm) by source, Jefferson Lab: 0.085
+- Annual production, (2016, tonnes): 4,500
+
+- Rank: 67
+- Z, element & symbol: 34
+- Z, element & symbol: selenium
+- Z, element & symbol: Se
+- Abundance in crust (ppm) by source, Barbalace: 0.05
+- Abundance in crust (ppm) by source, WebElements: 0.05
+- Abundance in crust (ppm) by source, Jefferson Lab: 0.05
+- Annual production, (2016, tonnes): 2,200
+
+- Rank: 68
+- Z, element & symbol: 49
+- Z, element & symbol: indium
+- Z, element & symbol: In
+- Abundance in crust (ppm) by source, Barbalace: 0.049
+- Abundance in crust (ppm) by source, WebElements: 0.160
+- Abundance in crust (ppm) by source, Jefferson Lab: 0.250
+- Annual production, (2016, tonnes): 655
+
+- Rank: 69
+- Z, element & symbol: 83
+- Z, element & symbol: bismuth
+- Z, element & symbol: Bi
+- Abundance in crust (ppm) by source, Barbalace: 0.048
+- Abundance in crust (ppm) by source, WebElements: 0.025
+- Abundance in crust (ppm) by source, Jefferson Lab: 0.0085
+- Annual production, (2016, tonnes): 10,200
+
+- Rank: 70
+- Z, element & symbol: 52
+- Z, element & symbol: tellurium
+- Z, element & symbol: Te
+- Abundance in crust (ppm) by source, Barbalace: 0.005
+- Abundance in crust (ppm) by source, WebElements: 0.001
+- Abundance in crust (ppm) by source, Jefferson Lab: 0.001
+- Annual production, (2016, tonnes): 2,200
+
+- Rank: 71
+- Z, element & symbol: 78
+- Z, element & symbol: platinum
+- Z, element & symbol: Pt
+- Abundance in crust (ppm) by source, Barbalace: 0.003
+- Abundance in crust (ppm) by source, WebElements: 0.0037
+- Abundance in crust (ppm) by source, Jefferson Lab: 0.005
+- Annual production, (2016, tonnes): 172
+
+- Rank: 72
+- Z, element & symbol: 79
+- Z, element & symbol: gold
+- Z, element & symbol: Au
+- Abundance in crust (ppm) by source, Barbalace: 0.0011
+- Abundance in crust (ppm) by source, WebElements: 0.0031
+- Abundance in crust (ppm) by source, Jefferson Lab: 0.004
+- Annual production, (2016, tonnes): 3,100
+
+- Rank: 73
+- Z, element & symbol: 44
+- Z, element & symbol: ruthenium
+- Z, element & symbol: Ru
+- Abundance in crust (ppm) by source, Barbalace: 0.001
+- Abundance in crust (ppm) by source, WebElements: 0.001
+- Abundance in crust (ppm) by source, Jefferson Lab: 0.001
+
+- Rank: 74
+- Z, element & symbol: 46
+- Z, element & symbol: palladium
+- Z, element & symbol: Pd
+- Abundance in crust (ppm) by source, Barbalace: 0.0006
+- Abundance in crust (ppm) by source, WebElements: 0.0063
+- Abundance in crust (ppm) by source, Jefferson Lab: 0.015
+- Annual production, (2016, tonnes): 208
+
+- Rank: 75
+- Z, element & symbol: 75
+- Z, element & symbol: rhenium
+- Z, element & symbol: Re
+- Abundance in crust (ppm) by source, Barbalace: 0.0004
+- Abundance in crust (ppm) by source, WebElements: 0.0026
+- Abundance in crust (ppm) by source, Jefferson Lab: 0.0007
+- Annual production, (2016, tonnes): 47.2
+
+- Rank: 76
+- Z, element & symbol: 77
+- Z, element & symbol: iridium
+- Z, element & symbol: Ir
+- Abundance in crust (ppm) by source, Barbalace: 0.0003
+- Abundance in crust (ppm) by source, WebElements: 0.0004
+- Abundance in crust (ppm) by source, Jefferson Lab: 0.001
+
+- Rank: 77
+- Z, element & symbol: 45
+- Z, element & symbol: rhodium
+- Z, element & symbol: Rh
+- Abundance in crust (ppm) by source, Barbalace: 0.0002
+- Abundance in crust (ppm) by source, WebElements: 0.0007
+- Abundance in crust (ppm) by source, Jefferson Lab: 0.001
+
+- Rank: 78
+- Z, element & symbol: 76
+- Z, element & symbol: osmium
+- Z, element & symbol: Os
+- Abundance in crust (ppm) by source, Barbalace: 0.0001
+- Abundance in crust (ppm) by source, WebElements: 0.0018
+- Abundance in crust (ppm) by source, Jefferson Lab: 0.0015
+
+1. ^ 5,000 tonnes of annual production is electronic grade
