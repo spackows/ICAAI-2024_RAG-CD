@@ -111,11 +111,11 @@ Samples related to Content Design (CD) for retrieval-augmented generation (RAG).
 <p>Test whether a change to the RAG solution causes the solution to get better or worse</p>
 </td>
 </tr>
-<!-- 09. Test topics -->
+<!-- 09. Testing topics -->
 <tr>
 <td valign="top">
-<p><b>9.&nbsp;Test&nbsp;topics</b>&nbsp;(&nbsp;<a href="notebooks/09_testing-topics.ipynb">link</a>&nbsp;)</p>
-<p><img src="images/09_testing-topics.png" width="150px" /></p>
+<p><b>9.&nbsp;Testing&nbsp;topics</b>&nbsp;(&nbsp;<a href="notebooks/09_testing-topics.ipynb">link</a>&nbsp;)</p>
+<p><img src="images/09_testing-topics.png" width="350px" /></p>
 <p>&nbsp;</p>
 </td>
 <td valign="top">
