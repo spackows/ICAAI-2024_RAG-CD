@@ -99,8 +99,103 @@ The HTML of the `document_html` field was extracted into a separate HTML file fo
 
 ### Article text
 
-The text of each article was extracted from the HTML using a script:
+The text of each article was extracted from the HTML using [this notebook](../notebooks/10_html-text.ipynb)
 
-- [Article text files](./text)
-- [Extract-text script](./extract-text.js)
+[Article Text files](./txt_org)
 
+### Quick reference
+The following table shows the articles that were extracted for this experiment, with links to:
+- **Wikipedia link** : The URL of the exact version of the article on wikipedia, the `document_url` field from the NQ data set
+- **HTML file** : The HTML in the `document_html` field from the NQ data set
+- **Text file** : The text file generted by our team using [this notebook](../notebooks/10_html-text.ipynb)
+
+<table>
+<tr>
+<th>Title</th>
+<th>Reference</th>
+<th>Wikipedia link</th>
+<th>HTML file</th>
+<th>Text file</th>
+</tr>
+<tr>
+<td valign="top">Abundance of elements in Earth's crust</td>
+<td valign="top">File: <tt>v1.0/train/nq-train-03.jsonl</tt><br/>Line: 3372</td>
+<td valign="top"><a href="https://en.wikipedia.org//w/index.php?title=Abundance_of_elements_in_Earth%27s_crust&oldid=801283417">Wikipedia link</a><br/><tt>oldid=801283417</tt></td>
+<td valign="top"><a href="html/Abundance-of-elements-in-Earths-crust.html">HTML file</a></td><td valign="top"><a href="txt_org/Abundance-of-elements-in-Earths-crust.org.txt">Text file</a></td>
+</tr>
+<tr>
+<td valign="top">Atmosphere of Earth</td>
+<td valign="top">File: <tt>v1.0/train/nq-train-01.jsonl</tt><br/>Line: 3188</td>
+<td valign="top"><a href="https://en.wikipedia.org//w/index.php?title=Atmosphere_of_Earth&oldid=807367681">Wikipedia link</a><br/><tt>oldid=807367681</tt></td>
+<td valign="top"><a href="html/Atmosphere-of-Earth.html">HTML file</a></td><td valign="top"><a href="txt_org/Atmosphere-of-Earth.org.txt">Text file</a></td>
+</tr>
+<tr>
+<td valign="top">Axial precession</td>
+<td valign="top">File: <tt>v1.0/dev/nq-dev-04.jsonl</tt><br/>Line: 135</td>
+<td valign="top"><a href="https://en.wikipedia.org//w/index.php?title=Axial_precession&oldid=821770845">Wikipedia link</a><br/><tt>oldid=821770845</tt></td>
+<td valign="top"><a href="html/Axial-precession.html">HTML file</a></td><td valign="top"><a href="txt_org/Axial-precession.org.txt">Text file</a></td>
+</tr>
+<tr>
+<td valign="top">Carbon cycle</td>
+<td valign="top">File: <tt>v1.0/dev/nq-dev-01.jsonl</tt><br/>Line: 139</td>
+<td valign="top"><a href="https://en.wikipedia.org//w/index.php?title=Carbon_cycle&oldid=837879153">Wikipedia link</a><br/><tt>oldid=837879153</tt></td>
+<td valign="top"><a href="html/Carbon-cycle.html">HTML file</a></td><td valign="top"><a href="txt_org/Carbon-cycle.org.txt">Text file</a></td>
+</tr>
+<tr>
+<td valign="top">Continent</td>
+<td valign="top">File: <tt>v1.0/train/nq-train-02.jsonl</tt><br/>Line: 2384</td>
+<td valign="top"><a href="https://en.wikipedia.org//w/index.php?title=Continent&oldid=808552023">Wikipedia link</a><br/><tt>oldid=808552023</tt></td>
+<td valign="top"><a href="html/Continent.html">HTML file</a></td><td valign="top"><a href="txt_org/Continent.org.txt">Text file</a></td>
+</tr>
+<tr>
+<td valign="top">Earth</td>
+<td valign="top">File: <tt>v1.0/train/nq-train-07.jsonl</tt><br/>Line: 1953</td>
+<td valign="top"><a href="https://en.wikipedia.org//w/index.php?title=Earth&oldid=801344840">Wikipedia link</a><br/><tt>oldid=801344840</tt></td>
+<td valign="top"><a href="html/Earth.html">HTML file</a></td><td valign="top"><a href="txt_org/Earth.org.txt">Text file</a></td>
+</tr>
+<tr>
+<td valign="top">Earth's internal heat budget</td>
+<td valign="top">File: <tt>v1.0/train/nq-train-08.jsonl</tt><br/>Line: 1498</td>
+<td valign="top"><a href="https://en.wikipedia.org//w/index.php?title=Earth%27s_internal_heat_budget&oldid=811248570">Wikipedia link</a><br/><tt>oldid=811248570</tt></td>
+<td valign="top"><a href="html/Earths-internal-heat-budget.html">HTML file</a></td><td valign="top"><a href="txt_org/Earths-internal-heat-budget.org.txt">Text file</a></td>
+</tr>
+<tr>
+<td valign="top">Earth's magnetic field</td>
+<td valign="top">File: <tt>v1.0/train/nq-train-01.jsonl</tt><br/>Line: 2944</td>
+<td valign="top"><a href="https://en.wikipedia.org//w/index.php?title=Earth%27s_magnetic_field&oldid=814256351">Wikipedia link</a><br/><tt>oldid=814256351</tt></td>
+<td valign="top"><a href="html/Earths-magnetic-field.html">HTML file</a></td><td valign="top"><a href="txt_org/Earths-magnetic-field.org.txt">Text file</a></td>
+</tr>
+<tr>
+<td valign="top">Earth's orbit</td>
+<td valign="top">File: <tt>v1.0/dev/nq-dev-04.jsonl</tt><br/>Line: 266</td>
+<td valign="top"><a href="https://en.wikipedia.org//w/index.php?title=Earth%27s_orbit&oldid=834440991">Wikipedia link</a><br/><tt>oldid=834440991</tt></td>
+<td valign="top"><a href="html/Earths-orbit.html">HTML file</a></td><td valign="top"><a href="txt_org/Earths-orbit.org.txt">Text file</a></td>
+</tr>
+<tr>
+<td valign="top">Earth's rotation</td>
+<td valign="top">File: <tt>v1.0/dev/nq-dev-03.jsonl</tt><br/>Line: 1489</td>
+<td valign="top"><a href="https://en.wikipedia.org//w/index.php?title=Earth%27s_rotation&oldid=836804207">Wikipedia link</a><br/><tt>oldid=836804207</tt></td>
+<td valign="top"><a href="html/Earths-rotation.html">HTML file</a></td><td valign="top"><a href="txt_org/Earths-rotation.org.txt">Text file</a></td>
+</tr>
+<tr>
+<td valign="top">Inner core</td>
+<td valign="top">File: <tt>v1.0/dev/nq-dev-02.jsonl</tt><br/>Line: 1073</td>
+<td valign="top"><a href="https://en.wikipedia.org//w/index.php?title=Inner_core&oldid=838408961">Wikipedia link</a><br/><tt>oldid=838408961</tt></td>
+<td valign="top"><a href="html/Inner-core.html">HTML file</a></td><td valign="top"><a href="txt_org/Inner-core.org.txt">Text file</a></td>
+</tr>
+<tr>
+<td valign="top">Structure of the Earth</td>
+<td valign="top">File: <tt>v1.0/train/nq-train-01.jsonl</tt><br/>Line: 5325</td>
+<td valign="top"><a href="https://en.wikipedia.org//w/index.php?title=Structure_of_the_Earth&oldid=866111969">Wikipedia link</a><br/><tt>oldid=866111969</tt></td>
+<td valign="top"><a href="html/Structure-of-the-Earth.html">HTML file</a></td><td valign="top"><a href="txt_org/Structure-of-the-Earth.org.txt">Text file</a></td>
+</tr>
+<tr>
+<td valign="top"></td>
+<td valign="top">File: <tt></tt><br/>Line: </td>
+<td valign="top"><a href="">Wikipedia link</a><br/><tt>oldid=</tt></td>
+<td valign="top"><a href="html/.html">HTML file</a></td>
+<td valign="top"><a href="txt_org/.org.txt">Text file</a></td>
+</tr>
+</table>
+
+<p>&nbsp;</p>
