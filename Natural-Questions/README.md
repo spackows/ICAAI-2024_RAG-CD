@@ -1,10 +1,10 @@
 ## Sample questions and answers
 
-From the [Natural Questions data set and benchmark](https://ai.google.com/research/NaturalQuestions) a sample of 189 questions, expected answes, and grounding article titles about "the Earth" were manually extracted:
+From the [Natural Questions data set and benchmark](https://ai.google.com/research/NaturalQuestions) a sample of 189 questions, expected answes, and grounding article about "the Earth" were manually extracted:
 
 [questions-and-answers.jsonl](questions-and-answers.jsonl)
 
-Example of contents of `questions-and-answers.json`:
+Example contents of `questions-and-answers.json`:
 
 <pre>
 {
@@ -22,9 +22,10 @@ Example of contents of `questions-and-answers.json`:
 
 ### `example_id`, `question_txt`, and `article_title`
 
-Example, line 1394, of file `v1.0/dev/nq-dev-01.jsonl` (notice example ID, question text, and article title are easily available):
+Line 1394, of file `v1.0/dev/nq-dev-01.jsonl` (notice example ID, question text, and article title are easily available):
 
-<pre>{
+<pre>
+{
    "annotations" : [ ... ],
    "document_html" : "<!DOCTYPE html>\\n<HTML class=\"client-js ve-not-available\" lang=\"en\" dir=\"ltr\"><HEAD>\\n\\n<TITLE>Carbon cycle - Wikipedia</TITLE>...",
    "document_title" : "Carbon cycle",
@@ -40,7 +41,7 @@ Example, line 1394, of file `v1.0/dev/nq-dev-01.jsonl` (notice example ID, quest
 
 The expected answer text was assembled by looking up the tokens in the `document_tokens` field listed in `short_answers` in the `annotations` list:
 
-Example, line 1394, of file `v1.0/dev/nq-dev-01.jsonl`:
+Line 1394, of file `v1.0/dev/nq-dev-01.jsonl`:
 
 <pre>{
    "annotations" : [
@@ -91,11 +92,17 @@ Example, line 1394, of file `v1.0/dev/nq-dev-01.jsonl`:
    "question_tokens" : [ ... ]
 }</pre>
 
+<p>&nbsp;</p>
+
+
 ### Article HTML
 
 The HTML of the `document_html` field was extracted into a separate HTML file for each article: 
 
 [Article HTML files](./html)
+
+<p>&nbsp;</p>
+
 
 ### Article text
 
@@ -103,7 +110,10 @@ The text of each article was extracted from the HTML using [this notebook](../no
 
 [Article Text files](./txt_org)
 
-### Quick reference
+<p>&nbsp;</p>
+
+
+## Quick reference
 The following table shows the articles that were extracted for this experiment, with links to:
 - **Wikipedia link** : The URL of the exact version of the article on wikipedia, the `document_url` field from the NQ data set
 - **HTML file** : The HTML in the `document_html` field from the NQ data set
