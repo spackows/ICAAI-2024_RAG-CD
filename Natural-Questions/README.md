@@ -139,7 +139,7 @@ The following table shows the articles that were extracted for this experiment, 
 <td valign="top"><a href="html/Axial-tilt.html">HTML file</a></td><td valign="top"><a href="txt_org/Axial-tilt.org.txt">Text file</a></td></tr>
 <tr>
 <td valign="top">Carbon cycle</td>
-<td valign="top">File: <tt>v1.0/dev/nq-dev-01.jsonl</tt><br/>Line: 139</td>
+<td valign="top">File: <tt>v1.0/dev/nq-dev-01.jsonl</tt><br/>Line: 1394</td>
 <td valign="top"><a href="https://en.wikipedia.org//w/index.php?title=Carbon_cycle&oldid=837879153">Wikipedia link</a><br/><tt>oldid=837879153</tt></td>
 <td valign="top"><a href="html/Carbon-cycle.html">HTML file</a></td><td valign="top"><a href="txt_org/Carbon-cycle.org.txt">Text file</a></td></tr>
 <tr>
