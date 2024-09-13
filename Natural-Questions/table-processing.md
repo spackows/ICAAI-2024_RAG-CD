@@ -178,7 +178,7 @@ Pisces:
 ### Example 3
 [Axial precession](https://en.wikipedia.org//w/index.php?title=Axial_precession&oldid=821770845)
 
-<img src="images/Axial-precession_table-02.png" width="30%" alt="table"/>
+<img src="images/Axial-precession_table-02.png" width="50%" alt="table"/>
 
 #### Content design comments
 - Table has no caption.
