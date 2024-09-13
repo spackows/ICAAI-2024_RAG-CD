@@ -146,6 +146,8 @@ Water vapor(C):
 
 #### Lists
 [Full text](txt_org/Axial-precession.org.txt)
+
+_Note_ : Lack of a table caption and vague column headings make these lists pretty useless
 ```
 Year entering:
 - ( Constellation ) Taurus: 4500 BC
@@ -168,6 +170,50 @@ Aries:
 Pisces:
 - Year entering: 100 BC
 - Year exiting: AD 2700
+```
+
+<p>&nbsp;</p>
+
+
+### Example 3
+[Axial precession](https://en.wikipedia.org//w/index.php?title=Axial_precession&oldid=821770845)
+
+<img src="images/Axial-precession_table-02.png" width="30%" alt="table"/>
+
+#### Content design comments
+- Table has no caption.
+- There should be a first column for "Variable", with rows having the values: Gm, a, e, ω, ϵ, and i
+
+#### Lists
+[Full text](txt_org/Axial-precession.org.txt)
+
+_Note_ : Lack of a table caption and "Variable" column make these lists pretty useless
+```
+Moon:
+- ( Sun ) Gm = 1.3271244×1020 m3/s2: Gm = 4.902799×1012 m3/s2
+- ( Sun ) a = 1.4959802×1011 m: a = 3.833978×108 m
+- ( Sun ) e = 0.016708634: e = 0.05554553
+
+Earth:
+- ( Sun ) Gm = 1.3271244×1020 m3/s2: (C − A)/C = 0.003273763
+- ( Sun ) a = 1.4959802×1011 m: ω = 7.292115×10−5 rad/s
+- ( Sun ) e = 0.016708634: ϵ {\displaystyle \epsilon \,\!} = 23.43928°
+
+Gm = 1.3271244×1020 m3/s2:
+- Moon: Gm = 4.902799×1012 m3/s2
+- Earth: (C − A)/C = 0.003273763
+
+a = 1.4959802×1011 m:
+- Moon: a = 3.833978×108 m
+- Earth: ω = 7.292115×10−5 rad/s
+
+e = 0.016708634:
+- Moon: e = 0.05554553
+- Earth: ϵ {\displaystyle \epsilon \,\!} = 23.43928°
+
+:
+- Moon: i= 5.156690°
+- Earth: 
 ```
 
 <p>&nbsp;</p>
