@@ -1,7 +1,7 @@
 # Table processing examples
 
 ### Example 1
-<a href="https://en.wikipedia.org//w/index.php?title=Abundance_of_elements_in_Earth%27s_crust&oldid=801283417">Abundance of elements in Earth's crust</a>
+[Abundance of elements in Earth's crust](https://en.wikipedia.org//w/index.php?title=Abundance_of_elements_in_Earth%27s_crust&oldid=801283417)
 
 <img src="images/Abundance-of-elements-in-Earths-crust_table-01.png" width="75%" alt="table"/>
 
@@ -13,6 +13,7 @@
 - This table is so large that it's difficult for a reader to navigate and consume.  In general, it's worth exploring other mechanisms for making this information available.
 
 #### Lists
+[Full text](txt_org/Abundance-of-elements-in-Earths-crust.org.txt)
 ```
 ### Abundance of chemical elements in Earth's crust, from various sources:
 
@@ -79,7 +80,7 @@ Annual production (2016, tonnes):
 
 
 ### Example 2
-<a href="https://en.wikipedia.org//w/index.php?title=Atmosphere_of_Earth&oldid=807367681">Atmosphere of Earth</a>
+[Atmosphere of Earth](https://en.wikipedia.org//w/index.php?title=Atmosphere_of_Earth&oldid=807367681)
 
 <img src="images/Atmosphere-of-Earth_table-01.png" width="30%" alt="table"/>
 
@@ -88,6 +89,7 @@ Annual production (2016, tonnes):
 - Similarly, why are the "notes" merged into the table too?
 
 #### Lists
+[Full text](txt_org/Atmosphere-of-Earth.org.txt)
 ```
 ### Major constituents of dry air, by volume:
 
@@ -131,5 +133,45 @@ Water vapor(C):
 ```
 
 <p>&nbsp;</p>
+
+
+### Example 3
+[Axial precession](https://en.wikipedia.org//w/index.php?title=Axial_precession&oldid=821770845)
+
+<img src="images/Axial-precession_table-01.png" width="30%" alt="table"/>
+
+#### Content design comments
+- Table has no caption.
+- The column headings "Year entering" and "Year exiting" are ambiguous.
+
+#### Lists
+[Full text](txt_org/Axial-precession.org.txt)
+```
+Year entering:
+- ( Constellation ) Taurus: 4500 BC
+- ( Constellation ) Aries: 2000 BC
+- ( Constellation ) Pisces: 100 BC
+
+Year exiting:
+- ( Constellation ) Taurus: 2000 BC
+- ( Constellation ) Aries: 100 BC
+- ( Constellation ) Pisces: AD 2700
+
+Taurus:
+- Year entering: 4500 BC
+- Year exiting: 2000 BC
+
+Aries:
+- Year entering: 2000 BC
+- Year exiting: 100 BC
+
+Pisces:
+- Year entering: 100 BC
+- Year exiting: AD 2700
+```
+
+<p>&nbsp;</p>
+
+
 
 
