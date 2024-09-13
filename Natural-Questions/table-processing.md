@@ -147,7 +147,7 @@ Water vapor(C):
 #### Lists
 [Full text](txt_org/Axial-precession.org.txt)
 
-_Note_ : Lack of a table caption and vague column headings make these lists pretty useless
+_Note_ : Lack of a table caption and vague column headings make these lists less useful
 ```
 Year entering:
 - ( Constellation ) Taurus: 4500 BC
@@ -187,7 +187,7 @@ Pisces:
 #### Lists
 [Full text](txt_org/Axial-precession.org.txt)
 
-_Note_ : Lack of a table caption and "Variable" column make these lists pretty useless
+_Note_ : Lack of a table caption and "Variable" column make these lists less usefull
 ```
 Moon:
 - ( Sun ) Gm = 1.3271244×1020 m3/s2: Gm = 4.902799×1012 m3/s2
@@ -250,6 +250,7 @@ NASA, J2000.0 North Pole Dec. (degrees):
 ...
 
 ### Axis and rotation of selected Solar System bodies:
+
 Sun:
 - NASA, J2000.0 Axial tilt (degrees): 7.25
 - NASA, J2000.0 North Pole R.A. (degrees): 286.13
@@ -265,6 +266,82 @@ Sun:
 
 <p>&nbsp;</p>
 
+
+### Example 6
+[Carbon-cycle](https://en.wikipedia.org//w/index.php?title=Carbon_cycle&oldid=837879153)
+
+<img src="images/Carbon-cycle_table-01.png" width="25%" alt="table"/>
+
+#### Content design comments
+- An attempt is made to group carbon pools using indentation to show which pools are a part of a larger pool listed in a row above.  It would be better to use another approach (such as having multiple tables or using lists.)
+
+#### Lists
+[Full text](txt_org/Carbon-cycle.org.txt)
+_Note_: The groupings indicated by indentation in the original table isn't captured or reflected in the lists below
+```
+### Carbon pools in the major reservoirs on earth.:
+
+Quantity (gigatons):
+- ( Pool ) Atmosphere: 720
+- ( Pool ) Ocean (total): 38,400
+...
+
+### Carbon pools in the major reservoirs on earth.:
+
+Atmosphere:
+- Quantity (gigatons): 720
+
+Ocean (total):
+- Quantity (gigatons): 38,400
+
+Total inorganic:
+- Quantity (gigatons): 37,400
+
+...
+```
+
+<p>&nbsp;</p>
+
+
+### Example 7
+[Continent](https://en.wikipedia.org//w/index.php?title=Continent&oldid=808552023)
+
+<img src="images/Continent_table-01.png" width="75%" alt="table"/>
+
+#### Content design comments
+- Table has no caption.
+- The table is being used as a diagram (for example, there's not a consistent number of columns, there are no useful column headings)
+- Also, color coding will not be picked up in the html-to-text transform
+
+#### Lists
+[Full text](txt_org/Continent.org.txt)
+
+_Note_ : Lack of a table caption and column headings make these lists less useful
+```
+Models:
+- ( Models ) Four continents: Afro-Eurasia
+- ( Models ) Five continents: Africa
+...
+
+Models:
+- ( Models ) Four continents: America
+- ( Models ) Five continents: Eurasia
+...
+
+...
+
+Four continents:
+- Afro-Eurasia
+- America
+...
+
+Five continents:
+- Africa
+- Eurasia
+...
+
+...
+```
 
 
 
