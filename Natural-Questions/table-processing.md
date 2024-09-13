@@ -175,7 +175,7 @@ Pisces:
 <p>&nbsp;</p>
 
 
-### Example 3
+### Example 4
 [Axial precession](https://en.wikipedia.org//w/index.php?title=Axial_precession&oldid=821770845)
 
 <img src="images/Axial-precession_table-02.png" width="50%" alt="table"/>
@@ -214,6 +214,53 @@ e = 0.016708634:
 :
 - Moon: i= 5.156690°
 - Earth: 
+```
+
+<p>&nbsp;</p>
+
+
+### Example 5
+[Axial tilt](https://en.wikipedia.org//w/index.php?title=Axial_tilt&oldid=826622273)
+
+<img src="images/Axial-tilt_table-01.png" width="75%" alt="table"/>
+
+#### Content design comments
+- The notes at the bottom should be pulled out of the table.
+
+#### Lists
+[Full text](txt_org/Axial-tilt.org.txt)
+```
+### Axis and rotation of selected Solar System bodies:
+
+NASA, J2000.0 Axial tilt (degrees):
+- ( Body ) Sun: 7.25
+- ( Body ) Mercury: 0.03
+...
+
+NASA, J2000.0 North Pole R.A. (degrees):
+- ( Body ) Sun: 286.13
+- ( Body ) Mercury: 281.01
+...
+
+NASA, J2000.0 North Pole Dec. (degrees):
+- ( Body ) Sun: 63.87
+- ( Body ) Mercury: 61.42
+...
+
+...
+
+### Axis and rotation of selected Solar System bodies:
+Sun:
+- NASA, J2000.0 Axial tilt (degrees): 7.25
+- NASA, J2000.0 North Pole R.A. (degrees): 286.13
+- NASA, J2000.0 North Pole Dec. (degrees): 63.87
+- NASA, J2000.0 Rotation (hours): 609.12B
+- IAU, 0 January 2010, 0h TT Axial tilt (degrees): 7.25A
+- IAU, 0 January 2010, 0h TT North Pole R.A. (degrees): 286.15
+- IAU, 0 January 2010, 0h TT North Pole Dec. (degrees): 63.89
+- IAU, 0 January 2010, 0h TT Rotation (deg/day): 14.18
+
+...
 ```
 
 <p>&nbsp;</p>
