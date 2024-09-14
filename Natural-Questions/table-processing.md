@@ -11,6 +11,7 @@
 - Why are the column headings "Z", "element", and "symbol" merged into one cell?  They should each be in their own column.
 - The column heading "Rank" is ambiguous.  A heading like "Rank by abundance" would be more clear.
 - This table is so large that it's difficult for a reader to navigate and consume.  In general, it's worth exploring other mechanisms for making this information available.
+- Making the element name be the first column would make the lists below make much more sense.
 
 #### Lists
 [Full text](txt_org/Abundance-of-elements-in-Earths-crust.org.txt)
