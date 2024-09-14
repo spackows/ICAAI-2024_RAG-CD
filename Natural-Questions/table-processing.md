@@ -6,7 +6,7 @@
 <img src="images/Abundance-of-elements-in-Earths-crust_table-01.png" width="75%" alt="table"/>
 
 #### Content design comments
-- Why is the column heading "Rank" in the first row instead and nothing but the sorting element on the second row?  Using `rowspan=2` would make more sense.
+- Why is the column heading "Rank" in the first row and the sorting element on the second row?  Putting both in one cell and using `rowspan=2` would make more sense.
 - Similarly, why are the column headings "Z", "element", and "symbol" in the first row?
 - Why are the column headings "Z", "element", and "symbol" merged into one cell?  They should each be in their own column.
 - The column heading "Rank" is ambiguous.  A heading like "Rank by abundance" would be more clear.
@@ -42,37 +42,19 @@ Abundance in crust (ppm) by source Barbalace:
 - ( Rank ) 2: 277,100
 ...
 
-Abundance in crust (ppm) by source WebElements:
-- ( Rank ) 1: 460,000
-- ( Rank ) 2: 270,000
-...
-
-Abundance in crust (ppm) by source Israel Science and Technology:
-- ( Rank ) 1: 467,100
-- ( Rank ) 2: 276,900
-...
-
-Abundance in crust (ppm) by source Jefferson Lab:
-- ( Rank ) 1: 461,000
-- ( Rank ) 2: 282,000
-...
-
-Annual production (2016, tonnes):
-- ( Rank ) 1: 
-- ( Rank ) 2: 7,200,000
 ...
 
 ### Abundance of chemical elements in Earth's crust, from various sources:
 1:
 - Z, element & symbol: 8
 - Z, element & symbol: oxygen
-- Z, element & symbol: O
-- Abundance in crust (ppm) by source Darling: 466,000
-- Abundance in crust (ppm) by source Barbalace: 474,000
-- Abundance in crust (ppm) by source WebElements: 460,000
-- Abundance in crust (ppm) by source Israel Science and Technology: 467,100
-- Abundance in crust (ppm) by source Jefferson Lab: 461,000
-- Annual production (2016, tonnes): 
+...
+
+2:
+- Z, element & symbol: 14
+- Z, element & symbol: silicon [A]
+...
+
 ...
 ```
 
@@ -182,7 +164,8 @@ Pisces:
 
 #### Content design comments
 - Table has no caption.
-- There should be a first column for "Variable", with rows having the values: Gm, a, e, ω, ϵ, and i.
+- This table is basically three lists side-by-side.  The variables aren't even consistent across the rows.
+- There should be a first column for "Variable", with rows having the values for: Gm, a, e, ω, ϵ, and i.
 
 #### Lists
 [Full text](txt_org/Axial-precession.org.txt)
@@ -305,6 +288,37 @@ Total inorganic:
 
 
 ### Example 7
+[Carbon dioxide in Earth's atmosphere](https://en.wikipedia.org//w/index.php?title=Carbon_dioxide_in_Earth%27s_atmosphere&oldid=856951315)
+
+<img src="images/Carbon-dioxide-in-Earths-atmosphere_table-01.png" width="75%" alt="table"/>
+
+#### Content design comments
+- This table is being used to create a "side bar" with an image.  This should not be a table.
+
+#### Lists
+[Full text](txt_org/Carbon-dioxide-in-Earths-atmosphere.org.txt)
+
+_Note_ : These lists are not very useful because the table wasn't being used for any text information.
+```
+### Carbon dioxide in Earth's troposphere:
+
+:
+- (  ) 2011 carbon dioxide mole fraction in the troposphere: 2011 carbon dioxide mole fraction in the troposphere
+
+
+### Carbon dioxide in Earth's troposphere:
+
+2011 carbon dioxide mole fraction in the troposphere:
+- : 2011 carbon dioxide mole fraction in the troposphere
+
+:
+- : 
+```
+
+<p>&nbsp;</p>
+
+
+### Example 8
 [Continent](https://en.wikipedia.org//w/index.php?title=Continent&oldid=808552023)
 
 <img src="images/Continent_table-01.png" width="75%" alt="table"/>
@@ -347,7 +361,7 @@ Five continents:
 <p>&nbsp;</p>
 
 
-### Example 8
+### Example 9
 [Continent](https://en.wikipedia.org//w/index.php?title=Continent&oldid=808552023)
 
 <img src="images/Continent_table-02.png" width="75%" alt="table"/>
@@ -388,7 +402,7 @@ South America:
 <p>&nbsp;</p>
 
 
-### Example 9
+### Example 10
 [Crust (geology)](https://en.wikipedia.org//w/index.php?title=Crust_(geology)&oldid=818260704)
 
 <img src="images/Crust-geology_table-01.png" width="20%" alt="table"/>
@@ -419,7 +433,7 @@ Si:
 <p>&nbsp;</p>
 
 
-### Example 10
+### Example 11
 [Crust (geology)](https://en.wikipedia.org//w/index.php?title=Crust_(geology)&oldid=818260704)
 
 <img src="images/Crust-geology_table-02.png" width="15%" alt="table"/>
@@ -448,7 +462,7 @@ Al2O3:
 <p>&nbsp;</p>
 
 
-### Example 11
+### Example 12
 [Earth](https://en.wikipedia.org//w/index.php?title=Earth&oldid=801344840)
 
 <img src="images/Earth_table-01.png" width="25%" alt="table"/>
@@ -496,7 +510,7 @@ max:
 <p>&nbsp;</p>
 
 
-## Example 12
+## Example 13
 [Earth](https://en.wikipedia.org//w/index.php?title=Earth&oldid=801344840)
 
 <img src="images/Earth_table-02.png" width="25%" alt="table"/>
@@ -532,7 +546,7 @@ alumina:
 <p>&nbsp;</p>
 
 
-## Example 13
+## Example 14
 [Earth](https://en.wikipedia.org//w/index.php?title=Earth&oldid=801344840)
 
 <img src="images/Earth_table-03.png" width="50%" alt="table"/>
@@ -570,7 +584,7 @@ Component layer:
 <p>&nbsp;</p>
 
 
-## Example 14
+## Example 15
 [Earth](https://en.wikipedia.org//w/index.php?title=Earth&oldid=801344840)
 
 <img src="images/Earth_table-04.png" width="50%" alt="table"/>
@@ -613,7 +627,7 @@ Half-life years:
 <p>&nbsp;</p>
 
 
-## Example 15
+## Example 16
 [Earth](https://en.wikipedia.org//w/index.php?title=Earth&oldid=801344840)
 
 <img src="images/Earth_table-05.png" width="25%" alt="table"/>
@@ -644,7 +658,7 @@ African Plate[n 16]:
 <p>&nbsp;</p>
 
 
-## Example 16
+## Example 17
 [Earth](https://en.wikipedia.org//w/index.php?title=Earth&oldid=801344840)
 
 <img src="images/Earth_table-06.png" width="25%" alt="table"/>
@@ -675,7 +689,7 @@ Pastures:
 <p>&nbsp;</p>
 
 
-## Example 17
+## Example 18
 [Earth](https://en.wikipedia.org//w/index.php?title=Earth&oldid=801344840)
 
 <img src="images/Earth_table-07.png" width="20%" alt="table"/>
@@ -704,7 +718,7 @@ Orbital period:
 <p>&nbsp;</p>
 
 
-## Example 18
+## Example 19
 [Earth's orbit](https://en.wikipedia.org//w/index.php?title=Earth%27s_orbit&oldid=834440991)
 
 <img src="images/Earths-orbit_table-01.png" width="30%" alt="table"/>
@@ -728,51 +742,91 @@ aphelion:
 <p>&nbsp;</p>
 
 
-## Example 19
+## Example 20
 [Mantle (geology)](https://en.wikipedia.org//w/index.php?title=Mantle_(geology)&oldid=814508368)
 
 <img src="images/Mantle-geology_table-01.png" width="30%" alt="table"/>
 
 #### Content design comments
-- In the header row, there is a cell containing a space character (`&#160;`) with `rowspan=10` the purpose of which seems to be making a horizontal separation between the element columns and the compound columns.  Thus, there are 5 column headings: "Element", "Amount", " ", "Compound", and "Amount".
+- In the header row, there is a cell containing a space character (`&#160;`) with `rowspan=10` the purpose of which seems to be making a horizontal separation between the element columns and the compound columns.  This should be two tables or that spacer should be removed.
+- It seems like thr compounds are supposed to align with the elements.  For example, information about the compound MgO should be on the same row as the information about the element Mg.  But several compounds are not on the same row as the corresponding element.  That should be corrected.
+- If this information is all to remain in one table, the column heading "Amount" should not be duplicated.  Instead, a more specific heading should be used.
 
 #### Lists
 [Full text](txt_org/Mantle-geology.org.txt)
 ```
-### Composition of Earth's mantle in weight percent:
-
 Amount:
 - ( Element ) O: 44.8
 - ( Element ) Mg: 22.8
+- ( Element ) Si: 21.5
 ...
 
 :
 - ( Element ) O: 
-- ( Element ) Mg: SiO2
+- ( Element ) Mg: 
+- ( Element ) Si: 
 ...
 
 Compound:
 - ( Element ) O: 
-- ( Element ) Mg: 46
+- ( Element ) Mg: SiO2
+- ( Element ) Si: MgO
 ...
 
-
+Amount:
+- ( Element ) O: 
+- ( Element ) Mg: 46
+- ( Element ) Si: 37.8
+...
 
 ### Composition of Earth's mantle in weight percent:
+
 O:
 - Amount: 44.8
 - : 
 - Compound: 
+- Amount: 
 
 Mg:
 - Amount: 22.8
-- : SiO2
-- Compound: 46
+- : 
+- Compound: SiO2
+- Amount: 46
 
-Si:
-- Amount: 21.5
-- : MgO
-- Compound: 37.8
+...
+```
+
+<p>&nbsp;</p>
+
+
+## Example 21
+[Structure of the Earth](https://en.wikipedia.org//w/index.php?title=Structure_of_the_Earth&oldid=866111969)
+
+<img src="images/Structure-of-the-Earth_table-01.png" width="40%" alt="table"/>
+
+#### Content design comments
+- 
+
+#### Lists
+[Full text](txt_org/Structure-of-the-Earth.org.txt)
+```
+Depth Miles:
+- ( Depth Kilometres ) 0–60: 0–37
+- ( Depth Kilometres ) 0–35: 0–22
+...
+
+Layer:
+- ( Depth Kilometres ) 0–60: 
+- ( Depth Kilometres ) 0–35: … Crust (locally varies between 5 and 70 km)
+...
+
+0–60:
+- Depth Miles: 0–37
+- Layer: 
+
+0–35:
+- Depth Miles: 0–22
+- Layer: … Crust (locally varies between 5 and 70 km)
 
 ...
 ```
