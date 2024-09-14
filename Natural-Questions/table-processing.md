@@ -682,6 +682,7 @@ Pastures:
 
 #### Content design comments
 - In general, this topic probably has too much detail about too many differnt subjects.  This table about the moon doesn't say "moon" anywhere in it, which risks readers (or LLMs) thinking "Diameter" etc. refers to the Earth.
+- There are no column headings, so column-wise lists cannot be created.
 
 #### Lists
 [Full text](txt_org/Earth.org.txt)
@@ -701,3 +702,82 @@ Orbital period:
 ```
 
 <p>&nbsp;</p>
+
+
+## Example 18
+[Earth's orbit](https://en.wikipedia.org//w/index.php?title=Earth%27s_orbit&oldid=834440991)
+
+<img src="images/Earths-orbit_table-01.png" width="30%" alt="table"/>
+
+#### Content design comments
+- There are no column headings, so column-wise lists cannot be created.
+
+#### Lists
+[Full text](txt_org/Earths-orbit.org.txt)
+```
+### Orbital characteristics:
+epoch:
+- J2000.0[nb 3]
+
+aphelion:
+- 152.10×10^6 km (94.51×10^6 mi) 1.0167 AU[nb 4]
+
+...
+```
+
+<p>&nbsp;</p>
+
+
+## Example 19
+[Mantle (geology)](https://en.wikipedia.org//w/index.php?title=Mantle_(geology)&oldid=814508368)
+
+<img src="images/Mantle-geology_table-01.png" width="30%" alt="table"/>
+
+#### Content design comments
+- In the header row, there is a cell containing a space character (`&#160;`) with `rowspan=10` the purpose of which seems to be making a horizontal separation between the element columns and the compound columns.  Thus, there are 5 column headings: "Element", "Amount", " ", "Compound", and "Amount".
+
+#### Lists
+[Full text](txt_org/Mantle-geology.org.txt)
+```
+### Composition of Earth's mantle in weight percent:
+
+Amount:
+- ( Element ) O: 44.8
+- ( Element ) Mg: 22.8
+...
+
+:
+- ( Element ) O: 
+- ( Element ) Mg: SiO2
+...
+
+Compound:
+- ( Element ) O: 
+- ( Element ) Mg: 46
+...
+
+
+
+### Composition of Earth's mantle in weight percent:
+O:
+- Amount: 44.8
+- : 
+- Compound: 
+
+Mg:
+- Amount: 22.8
+- : SiO2
+- Compound: 46
+
+Si:
+- Amount: 21.5
+- : MgO
+- Compound: 37.8
+
+...
+```
+
+<p>&nbsp;</p>
+
+
+
