@@ -182,7 +182,7 @@ Pisces:
 
 #### Content design comments
 - Table has no caption.
-- There should be a first column for "Variable", with rows having the values: Gm, a, e, ω, ϵ, and i
+- There should be a first column for "Variable", with rows having the values: Gm, a, e, ω, ϵ, and i.
 
 #### Lists
 [Full text](txt_org/Axial-precession.org.txt)
@@ -270,7 +270,7 @@ Sun:
 ### Example 6
 [Carbon-cycle](https://en.wikipedia.org//w/index.php?title=Carbon_cycle&oldid=837879153)
 
-<img src="images/Carbon-cycle_table-01.png" width="25%" alt="table"/>
+<img src="images/Carbon-cycle_table-01.png" width="30%" alt="table"/>
 
 #### Content design comments
 - An attempt is made to group carbon pools using indentation to show which pools are a part of a larger pool listed in a row above.  It would be better to use another approach (such as having multiple tables or using lists.)
@@ -310,8 +310,8 @@ Total inorganic:
 
 #### Content design comments
 - Table has no caption.
-- The table is being used as a diagram (for example, there's not a consistent number of columns, there are no useful column headings)
-- Also, color coding will not be picked up in the html-to-text transform
+- The table is being used as a diagram (for example, there's not a consistent number of columns, there are no useful column headings.)
+- Also, color coding will not be picked up in the html-to-text transform.
 
 #### Lists
 [Full text](txt_org/Continent.org.txt)
@@ -343,5 +343,107 @@ Five continents:
 ...
 ```
 
+<p>&nbsp;</p>
+
+
+### Example 8
+[Continent](https://en.wikipedia.org//w/index.php?title=Continent&oldid=808552023)
+
+<img src="images/Continent_table-02.png" width="75%" alt="table"/>
+
+#### Content design comments
+- Table has no caption.
+
+#### Lists
+[Full text](txt_org/Continent.org.txt)
+```
+Highest point:
+- ( Continent ) Asia: Mount Everest
+- ( Continent ) South America: Aconcagua
+...
+
+Elevation (m):
+- ( Continent ) Asia: 8,848
+- ( Continent ) South America: 6,960
+...
+
+...
+
+
+Asia:
+- Highest point: Mount Everest
+- Elevation (m): 8,848
+- Elevation (ft): 29,029
+...
+
+South America:
+- Highest point: Aconcagua
+- Elevation (m): 6,960
+...
+
+...
+```
+
+<p>&nbsp;</p>
+
+
+### Example 9
+[Crust (geology)](https://en.wikipedia.org//w/index.php?title=Crust_(geology)&oldid=818260704)
+
+<img src="images/Crust-geology_table-01.png" width="20%" alt="table"/>
+
+#### Content design comments
+- Table has no caption.
+- The heading for the first column is too broad.  It would be better to have a table caption like "Most abundant elements of Earth's crust by percent" and for the first column heading to be simply: "Element".
+
+#### Lists
+[Full text](txt_org/Crust-geology.org.txt)
+```
+Approximate % by weight:
+- ( Most Abundant Elements of Earth's Crust ) O: 46.6
+- ( Most Abundant Elements of Earth's Crust ) Si: 27.7
+...
+
+
+O:
+- Approximate % by weight: 46.6
+
+Si:
+- Approximate % by weight: 27.7
+
+...
+```
+
+
+<p>&nbsp;</p>
+
+
+### Example 10
+[Crust (geology)](https://en.wikipedia.org//w/index.php?title=Crust_(geology)&oldid=818260704)
+
+<img src="images/Crust-geology_table-02.png" width="15%" alt="table"/>
+
+#### Content design comments
+- Table has no caption.
+
+#### Lists
+[Full text](txt_org/Crust-geology.org.txt)
+```
+Percent:
+- ( Oxide ) SiO2: 60.6
+- ( Oxide ) Al2O3: 15.9
+...
+
+
+SiO2:
+- Percent: 60.6
+
+Al2O3:
+- Percent: 15.9
+
+...
+```
+
+<p>&nbsp;</p>
 
 
