@@ -6,7 +6,7 @@
 <img src="images/Abundance-of-elements-in-Earths-crust_table-01.png" width="75%" alt="table"/>
 
 #### Content design comments
-- Why is the column heading "Rank" in the first row instead of on the second row with the sorting element?  Using `rowspan=2` would make more sense.
+- Why is the column heading "Rank" in the first row instead and nothing but the sorting element on the second row?  Using `rowspan=2` would make more sense.
 - Similarly, why are the column headings "Z", "element", and "symbol" in the first row?
 - Why are the column headings "Z", "element", and "symbol" merged into one cell?  They should each be in their own column.
 - The column heading "Rank" is ambiguous.  A heading like "Rank by abundance" would be more clear.
@@ -277,6 +277,7 @@ Sun:
 
 #### Lists
 [Full text](txt_org/Carbon-cycle.org.txt)
+
 _Note_: The groupings indicated by indentation in the original table isn't captured or reflected in the lists below
 ```
 ### Carbon pools in the major reservoirs on earth.:
@@ -447,3 +448,256 @@ Al2O3:
 <p>&nbsp;</p>
 
 
+### Example 11
+[Earth](https://en.wikipedia.org//w/index.php?title=Earth&oldid=801344840)
+
+<img src="images/Earth_table-01.png" width="25%" alt="table"/>
+
+#### Content design comments
+- This table is being used to create something like a side bar.  This should not be a table.
+
+#### Lists
+[Full text](txt_org/Earth.org.txt)
+
+_Note_ : Because of the elborate use of header cells and colspan/rowspan throughout this table, trying to pull out rows and columns just didn't work.
+```
+### Earth:
+
+Orbital characteristics:
+- ( Orbital characteristics ) Aphelion: 152100000 km[n 2] (94500000 mi; 1.017 AU)
+- ( Orbital characteristics ) Perihelion: 147095000 km[n 2] (91401000 mi; 0.98327 AU)
+...
+
+:
+- ( Orbital characteristics ) Surface temp. min mean max Kelvin 184 K 288 K 330 K Celsius −89.2 °C 15 °C 56.7 °C Fahrenheit −128.5 °F 59 °F 134 °F: 59 °F
+
+:
+- ( Orbital characteristics ) Surface temp. min mean max Kelvin 184 K 288 K 330 K Celsius −89.2 °C 15 °C 56.7 °C Fahrenheit −128.5 °F 59 °F 134 °F: 134 °F
+
+...
+
+### Earth:
+Surface temp. min mean max Kelvin 184 K 288 K 330 K Celsius −89.2 °C 15 °C 56.7 °C Fahrenheit −128.5 °F 59 °F 134 °F:
+- 184 K
+- 288 K
+...
+
+max:
+- ( Surface temp. ) Kelvin: 330 K
+- ( Surface temp. ) Celsius: 56.7 °C
+- ( Surface temp. ) Fahrenheit: 134 °F
+
+184 K:
+- min: 288 K
+- mean: 330 K
+
+```
+
+<p>&nbsp;</p>
+
+
+## Example 12
+[Earth](https://en.wikipedia.org//w/index.php?title=Earth&oldid=801344840)
+
+<img src="images/Earth_table-02.png" width="25%" alt="table"/>
+
+#### Content design comments
+- The totals at the bottom should be pulled out of the table.
+
+#### Lists
+[Full text](txt_org/Earth.org.txt)
+```
+### Chemical composition of the crust:
+
+Formula:
+- ( Compound ) silica: SiO2
+- ( Compound ) alumina: Al2O3
+...
+
+### Chemical composition of the crust:
+
+silica:
+- Formula: SiO2
+- Composition Continental: 60.2%
+- Composition Oceanic: 48.6%
+
+alumina:
+- Formula: Al2O3
+- Composition Continental: 15.2%
+- Composition Oceanic: 16.5%
+
+...
+```
+
+<p>&nbsp;</p>
+
+
+## Example 13
+[Earth](https://en.wikipedia.org//w/index.php?title=Earth&oldid=801344840)
+
+<img src="images/Earth_table-03.png" width="50%" alt="table"/>
+
+#### Content design comments
+- The image should be pulled out of the table.
+
+#### Lists
+[Full text](txt_org/Earth.org.txt)
+```
+### Geologic layers of Earth:
+
+Depth km:
+- ( Earth cutaway from core to exosphere. Not to scale. ) 0–60: Lithosphere[n 14]
+- ( Earth cutaway from core to exosphere. Not to scale. ) 0–35: Crust[n 15]
+...
+
+Component layer:
+- ( Earth cutaway from core to exosphere. Not to scale. ) 0–60: —
+- ( Earth cutaway from core to exosphere. Not to scale. ) 0–35: 2.2–2.9
+...
+
+### Geologic layers of Earth:
+0–60:
+- Depth km: Lithosphere[n 14]
+- Component layer: —
+
+0–35:
+- Depth km: Crust[n 15]
+- Component layer: 2.2–2.9
+
+...
+```
+
+<p>&nbsp;</p>
+
+
+## Example 14
+[Earth](https://en.wikipedia.org//w/index.php?title=Earth&oldid=801344840)
+
+<img src="images/Earth_table-04.png" width="50%" alt="table"/>
+
+#### Content design comments
+None
+
+#### Lists
+[Full text](txt_org/Earth.org.txt)
+```
+### Present-day major heat-producing isotopes:
+
+Heat release W/kg isotope:
+- ( Isotope ) 238U: 94.6 × 10−6
+- ( Isotope ) 235U: 569 × 10−6
+...
+
+Half-life years:
+- ( Isotope ) 238U: 4.47 × 109
+- ( Isotope ) 235U: 0.704 × 109
+...
+
+...
+
+### Present-day major heat-producing isotopes:
+
+238U:
+- Heat release W/kg isotope: 94.6 × 10−6
+- Half-life years: 4.47 × 109
+...
+
+235U:
+- Heat release W/kg isotope: 569 × 10−6
+- Half-life years: 0.704 × 109
+...
+
+...
+```
+
+<p>&nbsp;</p>
+
+
+## Example 15
+[Earth](https://en.wikipedia.org//w/index.php?title=Earth&oldid=801344840)
+
+<img src="images/Earth_table-05.png" width="25%" alt="table"/>
+
+#### Content design comments
+None
+
+#### Lists
+[Full text](txt_org/Earth.org.txt)
+```
+### Earth's major plates:
+
+Area 106 km2:
+- ( Plate name ) Pacific Plate: 103.3
+- ( Plate name ) African Plate[n 16]: 78.0
+...
+
+### Earth's major plates:
+Pacific Plate:
+- Area 106 km2: 103.3
+
+African Plate[n 16]:
+- Area 106 km2: 78.0
+
+...
+```
+
+<p>&nbsp;</p>
+
+
+## Example 16
+[Earth](https://en.wikipedia.org//w/index.php?title=Earth&oldid=801344840)
+
+<img src="images/Earth_table-06.png" width="25%" alt="table"/>
+
+#### Content design comments
+None
+
+#### Lists
+[Full text](txt_org/Earth.org.txt)
+```
+### Estimated human land use, 2000:
+
+Mha:
+- ( Land use ) Cropland: 1,510–1,611
+- ( Land use ) Pastures: 2,500–3,410
+...
+
+### Estimated human land use, 2000:
+Cropland:
+- Mha: 1,510–1,611
+
+Pastures:
+- Mha: 2,500–3,410
+
+...
+```
+
+<p>&nbsp;</p>
+
+
+## Example 17
+[Earth](https://en.wikipedia.org//w/index.php?title=Earth&oldid=801344840)
+
+<img src="images/Earth_table-07.png" width="20%" alt="table"/>
+
+#### Content design comments
+- In general, this topic probably has too much detail about too many differnt subjects.  This table about the moon doesn't say "moon" anywhere in it, which risks readers (or LLMs) thinking "Diameter" etc. refers to the Earth.
+
+#### Lists
+[Full text](txt_org/Earth.org.txt)
+```
+### Characteristics:
+Diameter:
+- 3,474.8 km
+
+Mass:
+- 7.349×1022 kg
+
+Semi-major axis:
+- 384,400 km
+
+Orbital period:
+- 27 d 7 h 43.7 m
+```
+
+<p>&nbsp;</p>
