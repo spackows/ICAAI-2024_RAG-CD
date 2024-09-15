@@ -630,7 +630,7 @@ Pastures:
 
 #### Content design comments
 - In general, this topic probably has too much detail about too many differnt subjects.  This table about the moon doesn't say "moon" anywhere in it, which risks readers (or LLMs) thinking "Diameter" etc. refers to the Earth.
-- There are no column headings, so column-wise lists cannot be created.
+- There are no column headings.  There should be headings like: "Characheristic", "Value".
 
 #### Lists
 [Full text](txt_org/Earth.org.txt)
@@ -658,7 +658,7 @@ Orbital period:
 <img src="images/Earths-orbit_table-01.png" width="30%" alt="table"/>
 
 #### Content design comments
-- There are no column headings, so column-wise lists cannot be created.
+- There are no column headings.  There should be headings like: "Characheristic", "Value".
 
 #### Lists
 [Full text](txt_org/Earths-orbit.org.txt)
