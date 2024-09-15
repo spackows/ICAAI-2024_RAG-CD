@@ -6,7 +6,7 @@
 <img src="images/Abundance-of-elements-in-Earths-crust_table-01.png" width="75%" alt="table"/>
 
 #### Content design comments
-- Why is the column heading "Rank" in the first row and the sorting element on the second row?  Putting both in one cell and using `rowspan=2` would make more sense.
+- In the first coloumn, why is the column heading "Rank" in the first row and the sorting element on the second row?  Putting both in one cell and using `rowspan=2` would make more sense.
 - Similarly, why are the column headings "Z", "element", and "symbol" in the first row?
 - Why are the column headings "Z", "element", and "symbol" merged into one cell?  They should each be in their own column.
 - The column heading "Rank" is ambiguous.  A heading like "Rank by abundance" would be more clear.
@@ -15,6 +15,8 @@
 
 #### Lists
 [Full text](txt_org/Abundance-of-elements-in-Earths-crust.org.txt)
+
+_Note_: The fact that the column headings "Z", "element", and "symbol" are merged into one cell makes the lists below less useful.
 ```
 ### Abundance of chemical elements in Earth's crust, from various sources:
 
@@ -36,11 +38,6 @@ Z, element & symbol:
 Abundance in crust (ppm) by source Darling:
 - ( Rank ) 1: 466,000
 - ( Rank ) 2: 277,200
-...
-
-Abundance in crust (ppm) by source Barbalace:
-- ( Rank ) 1: 474,000
-- ( Rank ) 2: 277,100
 ...
 
 ...
@@ -69,7 +66,7 @@ Abundance in crust (ppm) by source Barbalace:
 
 #### Content design comments
 - Why is the water vapor information merged into the dry air table?  The water vapor information should probably be pulled out of the table.
-- Similarly, why are the "notes" merged into the table too?
+- Similarly, why are the "notes" merged into the table?
 
 #### Lists
 [Full text](txt_org/Atmosphere-of-Earth.org.txt)
@@ -125,7 +122,7 @@ Water vapor(C):
 
 #### Content design comments
 - Table has no caption.
-- The column headings "Year entering" and "Year exiting" are ambiguous.
+- The column headings "Year entering" and "Year exiting" are ambiguous (entering and exiting what?)
 
 #### Lists
 [Full text](txt_org/Axial-precession.org.txt)
@@ -165,7 +162,8 @@ Pisces:
 
 #### Content design comments
 - Table has no caption.
-- This table is basically three lists side-by-side.  The variables aren't even consistent across the rows.
+- This table is basically three lists side-by-side.
+- The variables aren't consistent across the rows.
 - There should be a first column for "Variable", with rows having the values for: Gm, a, e, ω, ϵ, and i.
 
 #### Lists
@@ -262,7 +260,7 @@ Sun:
 #### Lists
 [Full text](txt_org/Carbon-cycle.org.txt)
 
-_Note_: The groupings indicated by indentation in the original table isn't captured or reflected in the lists below
+_Note_: The groupings indicated by indentation in the original table isn't captured in the lists below
 ```
 ### Carbon pools in the major reservoirs on earth.:
 
@@ -288,37 +286,6 @@ Total inorganic:
 <p>&nbsp;</p>
 
 
-### Example 7
-[Carbon dioxide in Earth's atmosphere](https://en.wikipedia.org//w/index.php?title=Carbon_dioxide_in_Earth%27s_atmosphere&oldid=856951315)
-
-<img src="images/Carbon-dioxide-in-Earths-atmosphere_table-01.png" width="75%" alt="table"/>
-
-#### Content design comments
-- This table is being used to create a "side bar" with an image.  This should not be a table.
-
-#### Lists
-[Full text](txt_org/Carbon-dioxide-in-Earths-atmosphere.org.txt)
-
-_Note_ : These lists are not very useful because the table wasn't being used for any text information.
-```
-### Carbon dioxide in Earth's troposphere:
-
-:
-- (  ) 2011 carbon dioxide mole fraction in the troposphere: 2011 carbon dioxide mole fraction in the troposphere
-
-
-### Carbon dioxide in Earth's troposphere:
-
-2011 carbon dioxide mole fraction in the troposphere:
-- : 2011 carbon dioxide mole fraction in the troposphere
-
-:
-- : 
-```
-
-<p>&nbsp;</p>
-
-
 ### Example 8
 [Continent](https://en.wikipedia.org//w/index.php?title=Continent&oldid=808552023)
 
@@ -326,7 +293,8 @@ _Note_ : These lists are not very useful because the table wasn't being used for
 
 #### Content design comments
 - Table has no caption.
-- The table is being used as a diagram (for example, there's not a consistent number of columns, there are no useful column headings.)
+- In the first row, a `th` element with `colspan` set to span all the columns is being used as a title for the table. This should be replaced with proper column headings.
+- In the second row, a `td` element with `colspan` set to span all the columns is being used for a banner image.  This image should be pulled out of the table.
 - Also, color coding will not be picked up in the html-to-text transform.
 
 #### Lists
@@ -335,26 +303,31 @@ _Note_ : These lists are not very useful because the table wasn't being used for
 _Note_ : Lack of a table caption and column headings make these lists less useful
 ```
 Models:
+- ( Models ) Color-coded map showing the various continents. Similar shades exhibit areas that may be consolidated or subdivided.: Color-coded map showing the various continents. Similar shades exhibit areas that may be consolidated or subdivided.
 - ( Models ) Four continents: Afro-Eurasia
 - ( Models ) Five continents: Africa
 ...
 
 Models:
-- ( Models ) Four continents: America
+- ( Models ) Color-coded map showing the various continents. Similar shades exhibit areas that may be consolidated or subdivided.: Color-coded map showing the various continents. Similar shades exhibit areas that may be consolidated or subdivided.
+- ( Models ) Four continents: Afro-Eurasia
 - ( Models ) Five continents: Eurasia
 ...
 
 ...
 
 Four continents:
-- Afro-Eurasia
-- America
-...
+- Models: Afro-Eurasia
+- Models: America
+- Models: Antarctica
+- Models: Australia
 
 Five continents:
-- Africa
-- Eurasia
-...
+- Models: Africa
+- Models: Eurasia
+- Models: America
+- Models: Antarctica
+- Models: Australia
 
 ...
 ```
@@ -463,58 +436,10 @@ Al2O3:
 <p>&nbsp;</p>
 
 
-### Example 12
-[Earth](https://en.wikipedia.org//w/index.php?title=Earth&oldid=801344840)
-
-<img src="images/Earth_table-01.png" width="25%" alt="table"/>
-
-#### Content design comments
-- This table is being used to create something like a side bar.  This should not be a table.
-
-#### Lists
-[Full text](txt_org/Earth.org.txt)
-
-_Note_ : Because of the elborate use of header cells and colspan/rowspan throughout this table, trying to pull out rows and columns just didn't work.
-```
-### Earth:
-
-Orbital characteristics:
-- ( Orbital characteristics ) Aphelion: 152100000 km[n 2] (94500000 mi; 1.017 AU)
-- ( Orbital characteristics ) Perihelion: 147095000 km[n 2] (91401000 mi; 0.98327 AU)
-...
-
-:
-- ( Orbital characteristics ) Surface temp. min mean max Kelvin 184 K 288 K 330 K Celsius −89.2 °C 15 °C 56.7 °C Fahrenheit −128.5 °F 59 °F 134 °F: 59 °F
-
-:
-- ( Orbital characteristics ) Surface temp. min mean max Kelvin 184 K 288 K 330 K Celsius −89.2 °C 15 °C 56.7 °C Fahrenheit −128.5 °F 59 °F 134 °F: 134 °F
-
-...
-
-### Earth:
-Surface temp. min mean max Kelvin 184 K 288 K 330 K Celsius −89.2 °C 15 °C 56.7 °C Fahrenheit −128.5 °F 59 °F 134 °F:
-- 184 K
-- 288 K
-...
-
-max:
-- ( Surface temp. ) Kelvin: 330 K
-- ( Surface temp. ) Celsius: 56.7 °C
-- ( Surface temp. ) Fahrenheit: 134 °F
-
-184 K:
-- min: 288 K
-- mean: 330 K
-
-```
-
-<p>&nbsp;</p>
-
-
 ## Example 13
 [Earth](https://en.wikipedia.org//w/index.php?title=Earth&oldid=801344840)
 
-<img src="images/Earth_table-02.png" width="25%" alt="table"/>
+<img src="images/Earth_table-02.png" width="30%" alt="table"/>
 
 #### Content design comments
 - The totals at the bottom should be pulled out of the table.
@@ -527,6 +452,13 @@ max:
 Formula:
 - ( Compound ) silica: SiO2
 - ( Compound ) alumina: Al2O3
+...
+
+Composition Continental:
+- ( Compound ) silica: 60.2%
+- ( Compound ) alumina: 15.2%
+...
+
 ...
 
 ### Chemical composition of the crust:
@@ -560,17 +492,18 @@ alumina:
 ```
 ### Geologic layers of Earth:
 
-Depth km:
-- ( Earth cutaway from core to exosphere. Not to scale. ) 0–60: Lithosphere[n 14]
-- ( Earth cutaway from core to exosphere. Not to scale. ) 0–35: Crust[n 15]
+Component layer:
+- ( Depth km ) 0–60: Lithosphere[n 14]
+- ( Depth km ) 0–35: Crust[n 15]
 ...
 
-Component layer:
-- ( Earth cutaway from core to exosphere. Not to scale. ) 0–60: —
-- ( Earth cutaway from core to exosphere. Not to scale. ) 0–35: 2.2–2.9
+Density g/cm3:
+- ( Depth km ) 0–60: —
+- ( Depth km ) 0–35: 2.2–2.9
 ...
 
 ### Geologic layers of Earth:
+
 0–60:
 - Depth km: Lithosphere[n 14]
 - Component layer: —
@@ -634,7 +567,7 @@ Half-life years:
 <img src="images/Earth_table-05.png" width="25%" alt="table"/>
 
 #### Content design comments
-None
+- The first row has a `td` element that spans all the columns, containing an image.  That image should be pulled out of the table.
 
 #### Lists
 [Full text](txt_org/Earth.org.txt)
