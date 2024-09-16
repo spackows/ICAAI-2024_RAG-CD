@@ -1,6 +1,27 @@
-## Sample questions and answers
+# Content rewriting experiment
+To demonstrate the impact that how knowledge base content is written has on RAG solution success, we ran an experiment:
+1. We extracted 189 questions about the Earth (as well as related articles and expected answers) from the [Natural Questions data set and benchmark](https://ai.google.com/research/NaturalQuestions)
+2. We built a simple RAG solution to answer the questions using the extracted articles as a knowledge base
+3. We rewrote portions of the articles in which answers were grounded, applying our RAG content guidelines
+4. We ran the questions through our RAG solution with the updated knowledge base content
+5. We compared results before and after the content updates
 
-From the [Natural Questions data set and benchmark](https://ai.google.com/research/NaturalQuestions) a sample of 189 questions, expected answes, and grounding article about "the Earth" were manually extracted:
+Quick links:
+- [How we collected the sample questions and answers]()
+- [Article quick reference]()
+- [Notebook for extracting text from article HTML]()
+- [HTML tables deep dive]()
+- [Notebook with our simple RAG solution]()
+- [Results with original article text]()
+- [Corrections]()
+- [Results with rewritten article text]()
+
+<p>&nbsp;</p>
+
+
+## How we collected the sample questions, answers, corresponding article HTML
+
+We searched the [Natural Questions data set and benchmark](https://ai.google.com/research/NaturalQuestions) for questions about "the Earth" and then manually extracted details about those questions into a JSONL file:
 
 [questions-and-answers.jsonl](questions-and-answers.jsonl)
 
@@ -113,11 +134,8 @@ The text of each article was extracted from the HTML using [this notebook](../no
 <p>&nbsp;</p>
 
 
-## Quick reference
-The following table shows the articles that were extracted for this experiment, with links to:
-- **Wikipedia link** : The URL of the exact version of the article on wikipedia, the `document_url` field from the NQ data set
-- **HTML file** : The HTML in the `document_html` field from the NQ data set
-- **Text file** : The text file generted by our team using [this notebook](../notebooks/10_html-text.ipynb)
+## Article quick reference
+The following table shows the articles that were extracted for this experiment.
 
 <table>
 <tr>
