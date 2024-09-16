@@ -1,5 +1,23 @@
-# Content Design for RAG
-Samples related to Content Design (CD) for retrieval-augmented generation (RAG).
+# Optimizing and Evaluating Enterprise Retrieval-Augmented Generation (RAG): A Content Design Perspective
+
+Sarah Packowski ( spackows@ca.ibm.com )<br/>
+Inge Halilovic ( ingeh@us.ibm.com )<br/>
+Jenifer Schlotfeldt ( jschlot@us.ibm.com )<br>
+Trish Smith ( smith@ca.ibm.com )
+
+This repo contains samples and supporting information for a paper presentation at the:<br/>
+**8th International Conference on Advances in Artificial Intelligence (ICAAI 2024)**<br/>
+https://www.icaai.org
+
+<p>&nbsp;</p>
+
+
+## Paper
+[Link to PDF](RAG-A-CD-Perspective.pdf)
+
+<img src="images/paper.png" width="75%" alt="Paper first page" />
+
+<p>&nbsp;</p>
 
 ## Sample notebooks
 <table>
