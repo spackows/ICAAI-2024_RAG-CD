@@ -6,8 +6,10 @@ To demonstrate the impact that how knowledge base content is written has on RAG 
 4. We ran the questions through our RAG solution with the updated knowledge base content
 5. We compared results before and after the content updates
 
-Quick links:
-- [How we collected the sample questions and answers]()
+<p>&nbsp;</p>
+
+**Quick links:**
+- [How we collected the sample questions]()
 - [Article quick reference]()
 - [Notebook for extracting text from article HTML]()
 - [HTML tables deep dive]()
@@ -19,7 +21,7 @@ Quick links:
 <p>&nbsp;</p>
 
 
-## How we collected the sample questions, answers, corresponding article HTML
+## How we collected the sample questions, answers, corresponding article
 
 We searched the [Natural Questions data set and benchmark](https://ai.google.com/research/NaturalQuestions) for questions about "the Earth" and then manually extracted details about those questions into a JSONL file:
 
