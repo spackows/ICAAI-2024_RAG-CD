@@ -11,6 +11,13 @@ https://www.icaai.org
 
 <p>&nbsp;</p>
 
+**Quick links:**
+- [Paper](#paper)
+- [Content rewriting experiment](Natural-Questions/README.md)
+- [Sample notebooks](sample-notebooks)
+
+<p>&nbsp;</p>
+
 
 ## Paper
 [Link to PDF](RAG-A-CD-Perspective.pdf)
