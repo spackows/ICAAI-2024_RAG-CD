@@ -15,8 +15,6 @@
 
 #### Lists
 [Full text](txt_org/Abundance-of-elements-in-Earths-crust.org.txt)
-
-_Note_: The fact that the column headings "Z", "element", and "symbol" are merged into one cell makes the lists below less useful.
 ```
 ### Abundance of chemical elements in Earth's crust, from various sources:
 
@@ -126,8 +124,6 @@ Water vapor(C):
 
 #### Lists
 [Full text](txt_org/Axial-precession.org.txt)
-
-_Note_ : Lack of a table caption and vague column headings make these lists less useful
 ```
 Year entering:
 - ( Constellation ) Taurus: 4500 BC
@@ -168,18 +164,18 @@ Pisces:
 
 #### Lists
 [Full text](txt_org/Axial-precession.org.txt)
-
-_Note_ : Lack of a table caption and "Variable" column make these lists less usefull
 ```
 Moon:
 - ( Sun ) Gm = 1.3271244×1020 m3/s2: Gm = 4.902799×1012 m3/s2
 - ( Sun ) a = 1.4959802×1011 m: a = 3.833978×108 m
 - ( Sun ) e = 0.016708634: e = 0.05554553
+- ( Sun ) : i= 5.156690°
 
 Earth:
 - ( Sun ) Gm = 1.3271244×1020 m3/s2: (C − A)/C = 0.003273763
 - ( Sun ) a = 1.4959802×1011 m: ω = 7.292115×10−5 rad/s
 - ( Sun ) e = 0.016708634: ϵ {\displaystyle \epsilon \,\!} = 23.43928°
+- ( Sun ) : 
 
 Gm = 1.3271244×1020 m3/s2:
 - Moon: Gm = 4.902799×1012 m3/s2
@@ -224,11 +220,6 @@ NASA, J2000.0 North Pole R.A. (degrees):
 - ( Body ) Mercury: 281.01
 ...
 
-NASA, J2000.0 North Pole Dec. (degrees):
-- ( Body ) Sun: 63.87
-- ( Body ) Mercury: 61.42
-...
-
 ...
 
 ### Axis and rotation of selected Solar System bodies:
@@ -236,12 +227,12 @@ NASA, J2000.0 North Pole Dec. (degrees):
 Sun:
 - NASA, J2000.0 Axial tilt (degrees): 7.25
 - NASA, J2000.0 North Pole R.A. (degrees): 286.13
-- NASA, J2000.0 North Pole Dec. (degrees): 63.87
-- NASA, J2000.0 Rotation (hours): 609.12B
-- IAU, 0 January 2010, 0h TT Axial tilt (degrees): 7.25A
-- IAU, 0 January 2010, 0h TT North Pole R.A. (degrees): 286.15
-- IAU, 0 January 2010, 0h TT North Pole Dec. (degrees): 63.89
-- IAU, 0 January 2010, 0h TT Rotation (deg/day): 14.18
+...
+
+Mercury:
+- NASA, J2000.0 Axial tilt (degrees): 0.03
+- NASA, J2000.0 North Pole R.A. (degrees): 281.01
+...
 
 ...
 ```
@@ -259,8 +250,6 @@ Sun:
 
 #### Lists
 [Full text](txt_org/Carbon-cycle.org.txt)
-
-_Note_: The groupings indicated by indentation in the original table isn't captured in the lists below
 ```
 ### Carbon pools in the major reservoirs on earth.:
 
@@ -286,7 +275,7 @@ Total inorganic:
 <p>&nbsp;</p>
 
 
-### Example 8
+### Example 7
 [Continent](https://en.wikipedia.org//w/index.php?title=Continent&oldid=808552023)
 
 <img src="images/Continent_table-01.png" width="75%" alt="table"/>
@@ -299,35 +288,43 @@ Total inorganic:
 
 #### Lists
 [Full text](txt_org/Continent.org.txt)
-
-_Note_ : Lack of a table caption and column headings make these lists less useful
 ```
 Models:
 - ( Models ) Color-coded map showing the various continents. Similar shades exhibit areas that may be consolidated or subdivided.: Color-coded map showing the various continents. Similar shades exhibit areas that may be consolidated or subdivided.
 - ( Models ) Four continents: Afro-Eurasia
-- ( Models ) Five continents: Africa
 ...
 
 Models:
 - ( Models ) Color-coded map showing the various continents. Similar shades exhibit areas that may be consolidated or subdivided.: Color-coded map showing the various continents. Similar shades exhibit areas that may be consolidated or subdivided.
 - ( Models ) Four continents: Afro-Eurasia
-- ( Models ) Five continents: Eurasia
 ...
 
+...
+
+Color-coded map showing the various continents. Similar shades exhibit areas that may be consolidated or subdivided.:
+- Models: Color-coded map showing the various continents. Similar shades exhibit areas that may be consolidated or subdivided.
+- Models: Color-coded map showing the various continents. Similar shades exhibit areas that may be consolidated or subdivided.
 ...
 
 Four continents:
 - Models: Afro-Eurasia
+- Models: Afro-Eurasia
+- Models: Afro-Eurasia
+- Models: America
 - Models: America
 - Models: Antarctica
 - Models: Australia
+- Models: 
 
 Five continents:
 - Models: Africa
 - Models: Eurasia
+- Models: Eurasia
+- Models: America
 - Models: America
 - Models: Antarctica
 - Models: Australia
+- Models: 
 
 ...
 ```
@@ -335,7 +332,7 @@ Five continents:
 <p>&nbsp;</p>
 
 
-### Example 9
+### Example 8
 [Continent](https://en.wikipedia.org//w/index.php?title=Continent&oldid=808552023)
 
 <img src="images/Continent_table-02.png" width="75%" alt="table"/>
@@ -376,7 +373,7 @@ South America:
 <p>&nbsp;</p>
 
 
-### Example 10
+### Example 9
 [Crust (geology)](https://en.wikipedia.org//w/index.php?title=Crust_(geology)&oldid=818260704)
 
 <img src="images/Crust-geology_table-01.png" width="20%" alt="table"/>
@@ -407,7 +404,7 @@ Si:
 <p>&nbsp;</p>
 
 
-### Example 11
+### Example 10
 [Crust (geology)](https://en.wikipedia.org//w/index.php?title=Crust_(geology)&oldid=818260704)
 
 <img src="images/Crust-geology_table-02.png" width="15%" alt="table"/>
@@ -436,7 +433,7 @@ Al2O3:
 <p>&nbsp;</p>
 
 
-## Example 13
+### Example 11
 [Earth](https://en.wikipedia.org//w/index.php?title=Earth&oldid=801344840)
 
 <img src="images/Earth_table-02.png" width="30%" alt="table"/>
@@ -479,7 +476,7 @@ alumina:
 <p>&nbsp;</p>
 
 
-## Example 14
+### Example 12
 [Earth](https://en.wikipedia.org//w/index.php?title=Earth&oldid=801344840)
 
 <img src="images/Earth_table-03.png" width="50%" alt="table"/>
@@ -492,25 +489,27 @@ alumina:
 ```
 ### Geologic layers of Earth:
 
-Component layer:
-- ( Depth km ) 0–60: Lithosphere[n 14]
-- ( Depth km ) 0–35: Crust[n 15]
+Depth km:
+- ( Earth cutaway from core to exosphere. Not to scale. ) : 0–60
+- ( Earth cutaway from core to exosphere. Not to scale. ) : 0–35
 ...
 
-Density g/cm3:
-- ( Depth km ) 0–60: —
-- ( Depth km ) 0–35: 2.2–2.9
+Component layer:
+- ( Earth cutaway from core to exosphere. Not to scale. ) : Lithosphere[n 14]
+- ( Earth cutaway from core to exosphere. Not to scale. ) : Crust[n 15]
 ...
 
 ### Geologic layers of Earth:
 
-0–60:
-- Depth km: Lithosphere[n 14]
-- Component layer: —
+:
+- Depth km: 0–60
+- Component layer: Lithosphere[n 14]
+- Density g/cm3: —
 
-0–35:
-- Depth km: Crust[n 15]
-- Component layer: 2.2–2.9
+:
+- Depth km: 0–35
+- Component layer: Crust[n 15]
+- Density g/cm3: 2.2–2.9
 
 ...
 ```
@@ -518,7 +517,7 @@ Density g/cm3:
 <p>&nbsp;</p>
 
 
-## Example 15
+### Example 13
 [Earth](https://en.wikipedia.org//w/index.php?title=Earth&oldid=801344840)
 
 <img src="images/Earth_table-04.png" width="50%" alt="table"/>
@@ -561,7 +560,7 @@ Half-life years:
 <p>&nbsp;</p>
 
 
-## Example 16
+### Example 14
 [Earth](https://en.wikipedia.org//w/index.php?title=Earth&oldid=801344840)
 
 <img src="images/Earth_table-05.png" width="25%" alt="table"/>
@@ -592,7 +591,7 @@ African Plate[n 16]:
 <p>&nbsp;</p>
 
 
-## Example 17
+### Example 15
 [Earth](https://en.wikipedia.org//w/index.php?title=Earth&oldid=801344840)
 
 <img src="images/Earth_table-06.png" width="25%" alt="table"/>
@@ -623,7 +622,7 @@ Pastures:
 <p>&nbsp;</p>
 
 
-## Example 18
+### Example 16
 [Earth](https://en.wikipedia.org//w/index.php?title=Earth&oldid=801344840)
 
 <img src="images/Earth_table-07.png" width="20%" alt="table"/>
@@ -636,6 +635,10 @@ Pastures:
 [Full text](txt_org/Earth.org.txt)
 ```
 ### Characteristics:
+
+:
+- 
+
 Diameter:
 - 3,474.8 km
 
@@ -652,7 +655,7 @@ Orbital period:
 <p>&nbsp;</p>
 
 
-## Example 19
+### Example 17
 [Earth's orbit](https://en.wikipedia.org//w/index.php?title=Earth%27s_orbit&oldid=834440991)
 
 <img src="images/Earths-orbit_table-01.png" width="30%" alt="table"/>
@@ -676,7 +679,7 @@ aphelion:
 <p>&nbsp;</p>
 
 
-## Example 20
+### Example 18
 [Mantle (geology)](https://en.wikipedia.org//w/index.php?title=Mantle_(geology)&oldid=814508368)
 
 <img src="images/Mantle-geology_table-01.png" width="30%" alt="table"/>
@@ -733,13 +736,13 @@ Mg:
 <p>&nbsp;</p>
 
 
-## Example 21
+### Example 19
 [Structure of the Earth](https://en.wikipedia.org//w/index.php?title=Structure_of_the_Earth&oldid=866111969)
 
 <img src="images/Structure-of-the-Earth_table-01.png" width="40%" alt="table"/>
 
 #### Content design comments
-- 
+- The rows are color-coded and "..." is used to indicate sub-layers that are part of a layer in a row above.  It would be better to use another approach (such as having multiple tables or using lists.)
 
 #### Lists
 [Full text](txt_org/Structure-of-the-Earth.org.txt)
