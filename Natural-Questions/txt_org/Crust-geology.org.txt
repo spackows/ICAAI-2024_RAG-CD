@@ -18,7 +18,7 @@ This is a planet's "original" crust. It forms from solidification of a magma oce
 
 The nature of primary crust is still debated: its chemical, mineralogic, and physical properties are unknown, as are the igneous mechanisms that formed them. This is because it is difficult to study: none of Earth's primary crust has survived to today. Earth's high rates of erosion and crustal recycling from plate tectonics has destroyed all rocks older than about 4 billion years, including whatever primary crust Earth once had.
 
-However, geologists can glean information about primary crust by studying it on other terrestrial planets. Mercury's highlands might represent primary crust, though this is debated. The anorthosite highlands of the Moon are primary crust, formed as plagioclase crystallized out of the Moon's initial magma ocean and floated to the top; however, it is unlikely that Earth followed a similar pattern, as the Moon was a water-less system and Earth had water. The Martian meteorite ALH84001 might represent primary crust of Mars; however, again, this is debated. Like Earth, Venus lacks primary crust, as the entire planet has been repeatedly resurfaced and modified.
+However, geologists can glean information about primary crust by studying it on other terrestrial planets. Mercury's highlands might represent primary crust, though this is debated. The anorthosite highlands of the Moon are primary crust, formed as plagioclase crystallized out of the Moon's initial magma ocean and floated to the top; however, it is unlikely that Earth followed a similar pattern, as the Moon was a water-less system and Earth had water. The Martian meteorite ALH84001 might represent primary crust of Mars; however, again, this is debated . Like Earth, Venus lacks primary crust, as the entire planet has been repeatedly resurfaced and modified.
 
 ### Secondary crust
 
@@ -42,10 +42,6 @@ The crust is a thin shell on the outside of the Earth, accounting for less than 
 
 The crust lies on top of the mantle, a configuration that is stable because the upper mantle is made of peridotite and so is significantly denser than the crust. The boundary between the crust and mantle is conventionally placed at the Mohorovičić discontinuity, a boundary defined by a contrast in seismic velocity.
 
-- : Shield Platform Orogen Basin Large igneous province Extended crust
-- : Oceanic crust: 0–20 Ma 20–65 Ma >65 Ma
-
-
 The crust of the Earth is of two distinctive types:
 1. Oceanic: 5 km (3 mi) to 10 km (6 mi) thick and composed primarily of denser, more mafic rocks, such as basalt, diabase, and gabbro.
 2. Continental: 30 km (20 mi) to 50 km (30 mi) thick and mostly composed of less dense, more felsic rocks, such as granite.
@@ -58,64 +54,91 @@ The temperature of the crust increases with depth, reaching values typically in 
 
 The continental crust has an average composition similar to that of andesite. The most abundant minerals in Earth's continental crust are feldspars, which make up about 41% of the crust by weight, followed by quartz at 12%, and pyroxenes at 11%. Continental crust is enriched in incompatible elements compared to the basaltic ocean crust and much enriched compared to the underlying mantle. Although the continental crust comprises only about 0.6 weight percent of the silicate on Earth, it contains 20% to 70% of the incompatible elements.
 
-- Most Abundant Elements of Earth's Crust: O
+Approximate % by weight:
+- ( Most Abundant Elements of Earth's Crust ) O: 46.6
+- ( Most Abundant Elements of Earth's Crust ) Si: 27.7
+- ( Most Abundant Elements of Earth's Crust ) Al: 8.1
+- ( Most Abundant Elements of Earth's Crust ) Fe: 5.0
+- ( Most Abundant Elements of Earth's Crust ) Ca: 3.6
+- ( Most Abundant Elements of Earth's Crust ) Na: 2.8
+- ( Most Abundant Elements of Earth's Crust ) K: 2.6
+- ( Most Abundant Elements of Earth's Crust ) Mg: 1.5
+
+
+
+O:
 - Approximate % by weight: 46.6
 
-- Most Abundant Elements of Earth's Crust: Si
+Si:
 - Approximate % by weight: 27.7
 
-- Most Abundant Elements of Earth's Crust: Al
+Al:
 - Approximate % by weight: 8.1
 
-- Most Abundant Elements of Earth's Crust: Fe
+Fe:
 - Approximate % by weight: 5.0
 
-- Most Abundant Elements of Earth's Crust: Ca
+Ca:
 - Approximate % by weight: 3.6
 
-- Most Abundant Elements of Earth's Crust: Na
+Na:
 - Approximate % by weight: 2.8
 
-- Most Abundant Elements of Earth's Crust: K
+K:
 - Approximate % by weight: 2.6
 
-- Most Abundant Elements of Earth's Crust: Mg
+Mg:
 - Approximate % by weight: 1.5
 
 
-- Oxide: SiO2
+
+Percent:
+- ( Oxide ) SiO2: 60.6
+- ( Oxide ) Al2O3: 15.9
+- ( Oxide ) CaO: 6.4
+- ( Oxide ) MgO: 4.7
+- ( Oxide ) Na2O: 3.1
+- ( Oxide ) Fe as FeO: 6.7
+- ( Oxide ) K2O: 1.8
+- ( Oxide ) TiO2: 0.7
+- ( Oxide ) P2O5: 0.1
+
+
+
+SiO2:
 - Percent: 60.6
 
-- Oxide: Al2O3
+Al2O3:
 - Percent: 15.9
 
-- Oxide: CaO
+CaO:
 - Percent: 6.4
 
-- Oxide: MgO
+MgO:
 - Percent: 4.7
 
-- Oxide: Na2O
+Na2O:
 - Percent: 3.1
 
-- Oxide: Fe as FeO
+Fe as FeO:
 - Percent: 6.7
 
-- Oxide: K2O
+K2O:
 - Percent: 1.8
 
-- Oxide: TiO2
+TiO2:
 - Percent: 0.7
 
-- Oxide: P2O5
+P2O5:
 - Percent: 0.1
+
 
 
 All the other constituents except water occur only in very small quantities and total less than 1%. Estimates of average density for the upper crust range between 2.69 and 2.74 g/cm3 and for lower crust between 3.0 and 3.25 g/cm3.
 
 ### Formation and evolution
 
-Earth formed approximately 4.6 billion years ago from a disk of dust and gas orbiting the newly formed Sun. It formed via accretion, where planetesimals and other smaller rocky bodies collided and stuck, gradually growing into a planet. This process generated an enormous amount of heat, which caused early Earth to melt completely. As planetary accretion slowed, Earth began to cool, forming its first crust, called a primary or primordial crust. This crust was likely repeatedly destroyed by large impacts, then reformed from the magma ocean left by the impact. None of Earth's primary crust has survived to today; all was destroyed by erosion, impacts, and plate tectonics over the past several billion years.
+Earth formed approximately 4.6 billion years ago from a disk of dust and gas orbiting the newly-formed Sun. It formed via accretion, where planetesimals and other smaller rocky bodies collided and stuck, gradually growing into a planet. This process generated an enormous amount of heat, which caused early Earth to melt completely. As planetary accretion slowed, Earth began to cool, forming its first crust, called a primary or primordial crust. This crust was likely repeatedly destroyed by large impacts, then reformed from the magma ocean left by the impact. None of Earth's primary crust has survived to today; all was destroyed by erosion, impacts, and plate tectonics over the past several billion years.
 
 Since then, Earth has been forming secondary and tertiary crust. Secondary crust forms at mid-ocean spreading centers, where partial-melting of the underlying mantle yields basaltic magmas and new ocean crust forms. This "ridge push" is one of the driving forces of plate tectonics, and it is constantly creating new ocean crust. That means that old crust must be destroyed somewhere, so, opposite a spreading center, there is usually a subduction zone: a trench where an ocean plate is being shoved back into the mantle. This constant process of creating new ocean crust and destroying old ocean crust means that the oldest ocean crust on Earth today is only about 200 million years old.
 

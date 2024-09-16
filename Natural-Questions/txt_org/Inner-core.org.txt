@@ -2,13 +2,13 @@
 
 # Inner core
 
-The Earth's inner core is the Earth's innermost part. It is primarily a solid ball with a radius of about 1,220 kilometres (760 miles), which is about 70% of the Moon's radius. It is composed of an iron–nickel alloy and some light elements. The temperature at the inner core boundary is approximately 5700 K (5400 °C).
+The Earth's inner core is the Earth's innermost part. It is primarily a solid ball with a radius of about 1,220 kilometres (760 miles), which is about 70% of the Moon's radius. It is composed of an iron–nickel alloy and some other elements. The temperature at the inner core's surface is approximately 5,700 K (5,430 °C), which is about the temperature at the surface of the Sun.
 
 ## Discovery
 
-The Earth was discovered to have a solid inner core distinct from its liquid outer core in 1936, by the Danish seismologist Inge Lehmann, who deduced its presence by studying seismograms from earthquakes in New Zealand. She observed that the seismic waves reflect off the boundary of the inner core and can be detected by sensitive seismographs on the Earth's surface. This boundary is known as the Bullen discontinuity, or sometimes as the Lehmann discontinuity. A few years later, in 1940, it was hypothesized that this inner core was made of solid iron; its rigidity was confirmed in 1971.
+The Earth was discovered to have a solid inner core distinct from its molten outer core in 1936, by the Danish seismologist Inge Lehmann, who deduced its presence by studying seismograms from earthquakes in New Zealand. She observed that the seismic waves reflect off the boundary of the inner core and can be detected by sensitive seismographs on the Earth's surface. This boundary is known as the Bullen discontinuity, or sometimes as the Lehmann discontinuity. A few years later, in 1940, it was hypothesized that this inner core was made of solid iron; its rigidity was confirmed in 1971.
 
-The outer core was determined to be liquid from observations showing that compressional waves pass through it, but elastic shear waves do not – or do so only very weakly. The solidity of the inner core had been difficult to establish because the elastic shear waves that are expected to pass through a solid mass are very weak and difficult for seismographs on the Earth's surface to detect, since they become so attenuated on their way from the inner core to the surface by their passage through the liquid outer core. Dziewonski and Gilbert established that measurements of normal modes of vibration of Earth caused by large earthquakes were consistent with a liquid outer core. It has recently been claimed that shear waves have been detected passing through the inner core; these claims were initially controversial, but are now gaining acceptance.
+The outer core was determined to be molten from observations showing that compressional waves pass through it, but elastic shear waves do not – or do so only very weakly. The solidity of the inner core had been difficult to establish because the elastic shear waves that are expected to pass through a solid mass are very weak and difficult for seismographs on the Earth's surface to detect, since they become so attenuated on their way from the inner core to the surface by their passage through the liquid outer core. Dziewonski and Gilbert established that measurements of normal modes of vibration of Earth caused by large earthquakes were consistent with a liquid outer core. It has recently been claimed that shear waves have been detected passing through the inner core; these claims were initially controversial, but are now gaining acceptance.
 
 ## Composition
 
@@ -22,7 +22,7 @@ It then necessarily follows that all, or almost all, of these denser elements we
 
 The temperature of the inner core can be estimated by considering both the theoretical and the experimentally demonstrated constraints on the melting temperature of impure iron at the pressure which iron is under at the boundary of the inner core (about 330 GPa). These considerations suggest that its temperature is about 5,700 K (5,400 °C; 9,800 °F). The pressure in the Earth's inner core is slightly higher than it is at the boundary between the outer and inner cores: it ranges from about 330 to 360 gigapascals (3,300,000 to 3,600,000 atm). Iron can be solid at such high temperatures only because its melting temperature increases dramatically at pressures of that magnitude (see the Clausius–Clapeyron relation).
 
-A report published in the journal Science concludes that the melting temperature of iron at the inner core boundary is 6230 ± 500 K, roughly 1000 K higher than previous estimates.
+A report published in the journal Science concludes that the melting temperature of iron at the inner core boundary is 6230 ± 500 K.
 
 ## Dynamics
 

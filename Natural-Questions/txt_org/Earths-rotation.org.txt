@@ -6,7 +6,7 @@ Earth's rotation is the rotation of Planet Earth around its own axis. Earth rota
 
 The North Pole, also known as the Geographic North Pole or Terrestrial North Pole, is the point in the Northern Hemisphere where Earth's axis of rotation meets its surface. This point is distinct from Earth's North Magnetic Pole. The South Pole is the other point where Earth's axis of rotation intersects its surface, in Antarctica.
 
-Earth rotates once in about 24 hours with respect to the Sun, but once every 23 hours, 56 minutes, and 4 seconds with respect to the stars (see below). Earth's rotation is slowing slightly with time; thus, a day was shorter in the past. This is due to the tidal effects the Moon has on Earth's rotation. Atomic clocks show that a modern day is longer by about 1.7 milliseconds than a century ago, slowly increasing the rate at which UTC is adjusted by leap seconds. Analysis of historical astronomical records shows a slowing trend of about 2.3 milliseconds per century since the 8th century BCE.
+Earth rotates once in about 24 hours with respect to the Sun, but once every 23 hours, 56 minutes, and 4 seconds with respect to the stars (see below). Earth's rotation is slowing slightly with time; thus, a day was shorter in the past. This is due to the tidal effects the Moon has on Earth's rotation. Atomic clocks show that a modern day is longer by about 1.7 milliseconds than a century ago, slowly increasing the rate at which UTC is adjusted by leap seconds. Analysis of historical astronomical records shows a slowing trend of 2.3 milliseconds per century since the 8th century BCE.
 
 ## History
 
@@ -34,7 +34,7 @@ Hooke, following a 1679 suggestion from Newton, tried unsuccessfully to verify t
 
 The most celebrated test of Earth's rotation is the Foucault pendulum first built by physicist Léon Foucault in 1851, which consisted of a lead-filled brass sphere suspended 67 m from the top of the Panthéon in Paris. Because of the Earth's rotation under the swinging pendulum, the pendulum's plane of oscillation appears to rotate at a rate depending on latitude. At the latitude of Paris the predicted and observed shift was about 11 degrees clockwise per hour. Foucault pendulums now swing in museums around the world.
 
-## Periods
+## Rotation period
 
 ### True solar day
 
@@ -60,15 +60,15 @@ The angular speed of Earth's rotation in inertial space is (7.2921150 ± 0.00000
 
 The tangential speed of Earth's rotation at a point on Earth can be approximated by multiplying the speed at the equator by the cosine of the latitude. For example, the Kennedy Space Center is located at latitude 28.59° N, which yields a speed of: cos 28.59° × 1,674.4 km/h (1,040.4 mph; 465.1 m/s) = 1,470.23 km/h (913.56 mph; 408.40 m/s)
 
-## Changes
+## Changes in rotation
 
-### In rotational axis
+### Change in rotational axis
 
 The Earth's rotation axis moves with respect to the fixed stars (inertial space); the components of this motion are precession and nutation. It also moves with respect to the Earth's crust; this is called polar motion.
 
 Precession is a rotation of the Earth's rotation axis, caused primarily by external torques from the gravity of the Sun, Moon and other bodies. The polar motion is primarily due to free core nutation and the Chandler wobble.
 
-### In rotational velocity
+### Change in rotational velocity
 
 #### Tidal interactions
 

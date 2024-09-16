@@ -1,3 +1,5 @@
+
+
 # Axial precession
 
 In astronomy, axial precession is a gravity-induced, slow, and continuous change in the orientation of an astronomical body's rotational axis. In particular, it can refer to the gradual shift in the orientation of Earth's axis of rotation, which, similar to a wobbling top, traces out a pair of cones joined at their apices in a cycle of approximately 26,000 years. The term "precession" typically refers only to this largest part of the motion; other changes in the alignment of Earth's axis—nutation and polar motion—are much smaller in magnitude.
@@ -141,17 +143,30 @@ Still pictures like these are only first approximations, as they do not take int
 
 The precessional eras of each constellation, often known as Great Months, are approximately:
 
-- Constellation: Taurus
+Year entering:
+- ( Constellation ) Taurus: 4500 BC
+- ( Constellation ) Aries: 2000 BC
+- ( Constellation ) Pisces: 100 BC
+
+Year exiting:
+- ( Constellation ) Taurus: 2000 BC
+- ( Constellation ) Aries: 100 BC
+- ( Constellation ) Pisces: AD 2700
+
+
+
+Taurus:
 - Year entering: 4500 BC
 - Year exiting: 2000 BC
 
-- Constellation: Aries
+Aries:
 - Year entering: 2000 BC
 - Year exiting: 100 BC
 
-- Constellation: Pisces
+Pisces:
 - Year entering: 100 BC
 - Year exiting: AD 2700
+
 
 
 ## Cause
@@ -211,19 +226,36 @@ where a is the equatorial radius (6378137 m) and c is the polar radius (6356752 
 
 Applicable parameters for J2000.0 rounded to seven significant digits (excluding leading 1) are:
 
-- Sun: Gm = 1.3271244×1020 m3/s2
+Moon:
+- ( Sun ) Gm = 1.3271244×1020 m3/s2: Gm = 4.902799×1012 m3/s2
+- ( Sun ) a = 1.4959802×1011 m: a = 3.833978×108 m
+- ( Sun ) e = 0.016708634: e = 0.05554553
+- ( Sun ) : i= 5.156690°
+
+Earth:
+- ( Sun ) Gm = 1.3271244×1020 m3/s2: (C − A)/C = 0.003273763
+- ( Sun ) a = 1.4959802×1011 m: ω = 7.292115×10−5 rad/s
+- ( Sun ) e = 0.016708634: ϵ {\displaystyle \epsilon \,\!} = 23.43928°
+- ( Sun ) : 
+
+
+
+Gm = 1.3271244×1020 m3/s2:
 - Moon: Gm = 4.902799×1012 m3/s2
 - Earth: (C − A)/C = 0.003273763
 
-- Sun: a = 1.4959802×1011 m
+a = 1.4959802×1011 m:
 - Moon: a = 3.833978×108 m
 - Earth: ω = 7.292115×10−5 rad/s
 
-- Sun: e = 0.016708634
+e = 0.016708634:
 - Moon: e = 0.05554553
 - Earth: ϵ {\displaystyle \epsilon \,\!} = 23.43928°
 
+:
 - Moon: i= 5.156690°
+- Earth: 
+
 
 
 which yield

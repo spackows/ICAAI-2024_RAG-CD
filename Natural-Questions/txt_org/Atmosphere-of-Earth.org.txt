@@ -1,3 +1,5 @@
+
+
 # Atmosphere of Earth
 
 The atmosphere of Earth is the layer of gases, commonly known as air, that surrounds the planet Earth and is retained by Earth's gravity. The atmosphere of Earth protects life on Earth by creating pressure allowing for liquid water to exist on the Earth's surface, absorbing ultraviolet solar radiation, warming the surface through heat retention (greenhouse effect), and reducing temperature extremes between day and night (the diurnal temperature variation).
@@ -10,49 +12,100 @@ The study of Earth's atmosphere and its processes is called atmospheric science 
 
 ## Composition
 
-The three major constituents of Earth's atmosphere are nitrogen, oxygen, and argon. Water vapor accounts for roughly 0.25% of the atmosphere by mass. The concentration of water vapor (a greenhouse gas) varies significantly from around 10 ppm by volume in the coldest portions of the atmosphere to as much as 5% by volume in hot, humid air masses, and concentrations of other atmospheric gases are typically quoted in terms of dry air (without water vapor). The remaining gases are often referred to as trace gases, among which are the greenhouse gases, principally carbon dioxide, methane, nitrous oxide, and ozone. Filtered air includes trace amounts of many other chemical compounds. Many substances of natural origin may be present in locally and seasonally variable small amounts as aerosols in an unfiltered air sample, including dust of mineral and organic composition, pollen and spores, sea spray, and volcanic ash. Various industrial pollutants also may be present as gases or aerosols, such as chlorine (elemental or in compounds), fluorine compounds and elemental mercury vapor. Sulfur compounds such as hydrogen sulfide and sulfur dioxide (SO2) may be derived from natural sources or from industrial air pollution.
+The three major constituents of air, and therefore of Earth's atmosphere, are nitrogen, oxygen, and argon. Water vapor accounts for roughly 0.25% of the atmosphere by mass. The concentration of water vapor (a greenhouse gas) varies significantly from around 10 ppm by volume in the coldest portions of the atmosphere to as much as 5% by volume in hot, humid air masses, and concentrations of other atmospheric gases are typically quoted in terms of dry air (without water vapor). The remaining gases are often referred to as trace gases, among which are the greenhouse gases, principally carbon dioxide, methane, nitrous oxide, and ozone. Filtered air includes trace amounts of many other chemical compounds. Many substances of natural origin may be present in locally and seasonally variable small amounts as aerosols in an unfiltered air sample, including dust of mineral and organic composition, pollen and spores, sea spray, and volcanic ash. Various industrial pollutants also may be present as gases or aerosols, such as chlorine (elemental or in compounds), fluorine compounds and elemental mercury vapor. Sulfur compounds such as hydrogen sulfide and sulfur dioxide (SO2) may be derived from natural sources or from industrial air pollution.
 
-Major constituents of dry air, by volume:
+### Major constituents of dry air, by volume:
 
-- Gas, Name: Nitrogen
-- Gas, Formula: N2
-- Volume(A), in ppmv(B): 780,840
-- Volume(A), in %: 78.084
+Gas Formula:
+- ( Gas Name ) Nitrogen: N2
+- ( Gas Name ) Oxygen: O2
+- ( Gas Name ) Argon: Ar
+- ( Gas Name ) Carbon dioxide: CO2
+- ( Gas Name ) Neon: Ne
+- ( Gas Name ) Helium: He
+- ( Gas Name ) Methane: CH4
+- ( Gas Name ) Not included in above dry atmosphere:: Not included in above dry atmosphere:
+- ( Gas Name ) Water vapor(C): H2O
+- ( Gas Name ) notes: (A) volume fraction is equal to mole fraction for ideal gas only, also see volume (thermodynamics) (B) ppmv: parts per million by volume (C) Water vapor is about 0.25% by mass over full atmosphere (D) Water vapor strongly varies locally: notes: (A) volume fraction is equal to mole fraction for ideal gas only, also see volume (thermodynamics) (B) ppmv: parts per million by volume (C) Water vapor is about 0.25% by mass over full atmosphere (D) Water vapor strongly varies locally
 
-- Gas, Name: Oxygen
-- Gas, Formula: O2
-- Volume(A), in ppmv(B): 209,460
-- Volume(A), in %: 20.946
+Volume(A) in ppmv(B):
+- ( Gas Name ) Nitrogen: 780,840
+- ( Gas Name ) Oxygen: 209,460
+- ( Gas Name ) Argon: 9,340
+- ( Gas Name ) Carbon dioxide: 400
+- ( Gas Name ) Neon: 18.18
+- ( Gas Name ) Helium: 5.24
+- ( Gas Name ) Methane: 1.79
+- ( Gas Name ) Not included in above dry atmosphere:: Not included in above dry atmosphere:
+- ( Gas Name ) Water vapor(C): 10–50,000(D)
+- ( Gas Name ) notes: (A) volume fraction is equal to mole fraction for ideal gas only, also see volume (thermodynamics) (B) ppmv: parts per million by volume (C) Water vapor is about 0.25% by mass over full atmosphere (D) Water vapor strongly varies locally: notes: (A) volume fraction is equal to mole fraction for ideal gas only, also see volume (thermodynamics) (B) ppmv: parts per million by volume (C) Water vapor is about 0.25% by mass over full atmosphere (D) Water vapor strongly varies locally
 
-- Gas, Name: Argon
-- Gas, Formula: Ar
-- Volume(A), in ppmv(B): 9,340
-- Volume(A), in %: 0.9340
+Volume(A) in %:
+- ( Gas Name ) Nitrogen: 78.084
+- ( Gas Name ) Oxygen: 20.946
+- ( Gas Name ) Argon: 0.9340
+- ( Gas Name ) Carbon dioxide: 0.04
+- ( Gas Name ) Neon: 0.001818
+- ( Gas Name ) Helium: 0.000524
+- ( Gas Name ) Methane: 0.000179
+- ( Gas Name ) Not included in above dry atmosphere:: Not included in above dry atmosphere:
+- ( Gas Name ) Water vapor(C): 0.001%–5%(D)
+- ( Gas Name ) notes: (A) volume fraction is equal to mole fraction for ideal gas only, also see volume (thermodynamics) (B) ppmv: parts per million by volume (C) Water vapor is about 0.25% by mass over full atmosphere (D) Water vapor strongly varies locally: notes: (A) volume fraction is equal to mole fraction for ideal gas only, also see volume (thermodynamics) (B) ppmv: parts per million by volume (C) Water vapor is about 0.25% by mass over full atmosphere (D) Water vapor strongly varies locally
 
-- Gas, Name: Carbon dioxide
-- Gas, Formula: CO2
-- Volume(A), in ppmv(B): 400
-- Volume(A), in %: 0.04
 
-- Gas, Name: Neon
-- Gas, Formula: Ne
-- Volume(A), in ppmv(B): 18.18
-- Volume(A), in %: 0.001818
 
-- Gas, Name: Helium
-- Gas, Formula: He
-- Volume(A), in ppmv(B): 5.24
-- Volume(A), in %: 0.000524
+### Major constituents of dry air, by volume:
 
-- Gas, Name: Methane
-- Gas, Formula: CH4
-- Volume(A), in ppmv(B): 1.79
-- Volume(A), in %: 0.000179
+Nitrogen:
+- Gas Formula: N2
+- Volume(A) in ppmv(B): 780,840
+- Volume(A) in %: 78.084
 
-- Gas, Name: Water vapor(C)
-- Gas, Formula: H2O
-- Volume(A), in ppmv(B): 10–50,000(D)
-- Volume(A), in %: 0.001%–5%(D)
+Oxygen:
+- Gas Formula: O2
+- Volume(A) in ppmv(B): 209,460
+- Volume(A) in %: 20.946
+
+Argon:
+- Gas Formula: Ar
+- Volume(A) in ppmv(B): 9,340
+- Volume(A) in %: 0.9340
+
+Carbon dioxide:
+- Gas Formula: CO2
+- Volume(A) in ppmv(B): 400
+- Volume(A) in %: 0.04
+
+Neon:
+- Gas Formula: Ne
+- Volume(A) in ppmv(B): 18.18
+- Volume(A) in %: 0.001818
+
+Helium:
+- Gas Formula: He
+- Volume(A) in ppmv(B): 5.24
+- Volume(A) in %: 0.000524
+
+Methane:
+- Gas Formula: CH4
+- Volume(A) in ppmv(B): 1.79
+- Volume(A) in %: 0.000179
+
+Not included in above dry atmosphere::
+- Gas Formula: Not included in above dry atmosphere:
+- Volume(A) in ppmv(B): Not included in above dry atmosphere:
+- Volume(A) in %: Not included in above dry atmosphere:
+
+Water vapor(C):
+- Gas Formula: H2O
+- Volume(A) in ppmv(B): 10–50,000(D)
+- Volume(A) in %: 0.001%–5%(D)
+
+notes: (A) volume fraction is equal to mole fraction for ideal gas only, also see volume (thermodynamics) (B) ppmv: parts per million by volume (C) Water vapor is about 0.25% by mass over full atmosphere (D) Water vapor strongly varies locally:
+- Gas Formula: notes: (A) volume fraction is equal to mole fraction for ideal gas only, also see volume (thermodynamics) (B) ppmv: parts per million by volume (C) Water vapor is about 0.25% by mass over full atmosphere (D) Water vapor strongly varies locally
+- Volume(A) in ppmv(B): notes: (A) volume fraction is equal to mole fraction for ideal gas only, also see volume (thermodynamics) (B) ppmv: parts per million by volume (C) Water vapor is about 0.25% by mass over full atmosphere (D) Water vapor strongly varies locally
+- Volume(A) in %: notes: (A) volume fraction is equal to mole fraction for ideal gas only, also see volume (thermodynamics) (B) ppmv: parts per million by volume (C) Water vapor is about 0.25% by mass over full atmosphere (D) Water vapor strongly varies locally
+
 
 
 (A) volume fraction is equal to mole fraction for ideal gas only, also see volume (thermodynamics) (B) ppmv: parts per million by volume (C) Water vapor is about 0.25% by mass over full atmosphere (D) Water vapor strongly varies locally
@@ -92,7 +145,7 @@ The mesosphere is the third highest layer of Earth's atmosphere, occupying the r
 
 Temperatures drop with increasing altitude to the mesopause that marks the top of this middle layer of the atmosphere. It is the coldest place on Earth and has an average temperature around −85 °C (−120 °F; 190 K).
 
-Just below the mesopause, the air is so cold that even the very scarce water vapor at this altitude can be sublimated into polar-mesospheric noctilucent clouds. These are the highest clouds in the atmosphere and may be visible to the naked eye if sunlight reflects off them about an hour or two after sunset or a similar length of time before sunrise. They are most readily visible when the Sun is around 4 to 16 degrees below the horizon. Lightning-induced discharges known as transient luminous events (TLEs) occasionally form in the mesosphere above tropospheric thunderclouds. The mesosphere is also the layer where most meteors burn up upon atmospheric entrance. It is too high above Earth to be accessible to jet-powered aircraft and balloons, and too low to permit orbital spacecraft. The mesosphere is mainly accessed by sounding rockets and rocket-powered aircraft.
+Just below the mesopause, the air is so cold that even the very scarce water vapor at this altitude can be sublimated into polar-mesospheric noctilucent clouds. These are the highest clouds in the atmosphere and may be visible to the naked eye if sunlight reflects off them about an hour or two after sunset or a similar length of time before sunrise. They are most readily visible when the Sun is around 4 to 16 degrees below the horizon. A type of lightning referred to as either sprites or ELVES occasionally forms far above tropospheric thunderclouds. The mesosphere is also the layer where most meteors burn up upon atmospheric entrance. It is too high above Earth to be accessible to jet-powered aircraft and balloons, and too low to permit orbital spacecraft. The mesosphere is mainly accessed by sounding rockets and rocket-powered aircraft.
 
 #### Stratosphere
 
@@ -104,9 +157,9 @@ The stratospheric temperature profile creates very stable atmospheric conditions
 
 #### Troposphere
 
-The troposphere is the lowest layer of Earth's atmosphere. It extends from Earth's surface to an average height of about 12 km (7.5 mi; 39,000 ft), although this altitude varies from about 9 km (5.6 mi; 30,000 ft) at the geographic poles to 17 km (11 mi; 56,000 ft) at the Equator, with some variation due to weather. The troposphere is bounded above by the tropopause, a boundary marked in most places by a temperature inversion (i.e. a layer of relatively warm air above a colder one), and in others by a zone which is isothermal with height.
+The troposphere is the lowest layer of Earth's atmosphere. It extends from Earth's surface to an average height of about 12 km, although this altitude actually varies from about 9 km (30,000 ft) at the poles to 17 km (56,000 ft) at the equator, with some variation due to weather. The troposphere is bounded above by the tropopause, a boundary marked in most places by a temperature inversion (i.e. a layer of relatively warm air above a colder one), and in others by a zone which is isothermal with height.
 
-Although variations do occur, the temperature usually declines with increasing altitude in the troposphere because the troposphere is mostly heated through energy transfer from the surface. Thus, the lowest part of the troposphere (i.e. Earth's surface) is typically the warmest section of the troposphere. This promotes vertical mixing (hence, the origin of its name in the Greek word τρόπος, tropos, meaning "turn"). The troposphere contains roughly 80% of the mass of Earth's atmosphere. The troposphere is denser than all its overlying atmospheric layers because a larger atmospheric weight sits on top of the troposphere and causes it to be most severely compressed. Fifty percent of the total mass of the atmosphere is located in the lower 5.6 km (3.5 mi; 18,000 ft) of the troposphere.
+Although variations do occur, the temperature usually declines with increasing altitude in the troposphere because the troposphere is mostly heated through energy transfer from the surface. Thus, the lowest part of the troposphere (i.e. Earth's surface) is typically the warmest section of the troposphere. This promotes vertical mixing (hence the origin of its name in the Greek word τρόπος, tropos, meaning "turn"). The troposphere contains roughly 80% of the mass of Earth's atmosphere. The troposphere is denser than all its overlying atmospheric layers because a larger atmospheric weight sits on top of the troposphere and causes it to be most severely compressed. Fifty percent of the total mass of the atmosphere is located in the lower 5.6 km (18,000 ft) of the troposphere.
 
 Nearly all atmospheric water vapor or moisture is found in the troposphere, so it is the layer where most of Earth's weather takes place. It has basically all the weather-associated cloud genus types generated by active wind circulation, although very tall cumulonimbus thunder clouds can penetrate the tropopause from below and rise into the lower part of the stratosphere. Most conventional aviation activity takes place in the troposphere, and it is the only layer that can be accessed by propeller-driven aircraft.
 
@@ -134,7 +187,7 @@ In summary, the mass of Earth's atmosphere is distributed approximately as follo
 - 90% is below 16 km (52,000 ft).
 - 99.99997% is below 100 km (62 mi; 330,000 ft), the Kármán line. By international convention, this marks the beginning of space where human travelers are considered astronauts.
 
-By comparison, the summit of Mt. Everest is at 8,848 m (29,029 ft); commercial airliners typically cruise between 10 and 13 km (33,000 and 43,000 ft) where the thinner air improves fuel economy; weather balloons reach 30.4 km (100,000 ft) and above; and the highest X-15 flight in 1963 reached 108.0 km (354,300 ft).
+By comparison, the summit of Mt. Everest is at 8,848 m (29,029 ft); commercial airliners typically cruise between 10 km (33,000 ft) and 13 km (43,000 ft) where the thinner air improves fuel economy; weather balloons reach 30.4 km (100,000 ft) and above; and the highest X-15 flight in 1963 reached 108.0 km (354,300 ft).
 
 Even above the Kármán line, significant atmospheric effects such as auroras still occur. Meteors begin to glow in this region, though the larger ones may not burn up until they penetrate more deeply. The various layers of Earth's ionosphere, important to HF radio propagation, begin below 100 km and extend beyond 500 km. By comparison, the International Space Station and Space Shuttle typically orbit at 350–400 km, within the F-layer of the ionosphere where they encounter enough atmospheric drag to require reboosts every few months. Depending on solar activity, satellites can experience noticeable atmospheric drag at altitudes as high as 700–800 km.
 
@@ -186,15 +239,15 @@ Atmospheric circulation is the large-scale movement of air through the troposphe
 
 ### Earliest atmosphere
 
-The first atmosphere consisted of gases in the solar nebula, primarily hydrogen. There were probably simple hydrides such as those now found in the gas giants (Jupiter and Saturn), notably water vapor, methane and ammonia.
+The first atmosphere consisted of gases in the solar nebula, primarily hydrogen. There were probably simple hydrides such as those now found in the gas giants (Jupiter and Saturn), notably water vapor, methane and ammonia. As the solar nebula dissipated, these gases escaped, partly driven off by the solar wind.
 
 ### Second atmosphere
 
-Outgassing from volcanism, supplemented by gases produced during the late heavy bombardment of Earth by huge asteroids, produced the next atmosphere, consisting largely of nitrogen plus carbon dioxide and inert gases. A major part of carbon-dioxide emissions dissolved in water and reacted with metals such as calcium and magnesium during weathering of crustal rocks to form carbonates that were deposited as sediments. Water-related sediments have been found that date from as early as 3.8 billion years ago.
+Outgassing from volcanism, supplemented by gases produced during the late heavy bombardment of Earth by huge asteroids, produced the next atmosphere, consisting largely of nitrogen plus carbon dioxide and inert gases. A major part of carbon-dioxide emissions soon dissolved in water and built up carbonate sediments.[clarification needed]
 
-About 3.4 billion years ago, nitrogen formed the major part of the then stable "second atmosphere". The influence of life has to be taken into account rather soon in the history of the atmosphere, because hints of early life-forms appear as early as 3.5 billion years ago. How Earth at that time maintained a climate warm enough for liquid water and life, if the early Sun put out 30% lower solar radiance than today, is a puzzle known as the "faint young Sun paradox".
+Researchers have found water-related sediments dating from as early as 3.8 billion years ago. About 3.4 billion years ago, nitrogen formed the major part of the then stable "second atmosphere". An influence of life has to be taken into account rather soon in the history of the atmosphere, because hints of early life-forms appear as early as 3.5 billion years ago. How Earth at that time maintained a climate warm enough for liquid water and life, if the early Sun put out 30% lower solar radiance than today, is a puzzle known as the "faint young Sun paradox".
 
-The geological record however shows a continuous relatively warm surface during the complete early temperature record of Earth – with the exception of one cold glacial phase about 2.4 billion years ago. In the late Archean Eon an oxygen-containing atmosphere began to develop, apparently produced by photosynthesizing cyanobacteria (see Great Oxygenation Event), which have been found as stromatolite fossils from 2.7 billion years ago. The early basic carbon isotopy (isotope ratio proportions) strongly suggests conditions similar to the current, and that the fundamental features of the carbon cycle became established as early as 4 billion years ago.
+The geological record however shows a continually relatively warm surface during the complete early temperature record of Earth - with the exception of one cold glacial phase about 2.4 billion years ago. In the late Archean Eon an oxygen-containing atmosphere began to develop, apparently produced by photosynthesizing cyanobacteria (see Great Oxygenation Event), which have been found as stromatolite fossils from 2.7 billion years ago. The early basic carbon isotopy (isotope ratio proportions) strongly suggests conditions similar to the current, and that the fundamental features of the carbon cycle became established as early as 4 billion years ago.
 
 Ancient sediments in the Gabon dating from between about 2,150 and 2,080 million years ago provide a record of Earth's dynamic oxygenation evolution. These fluctuations in oxygenation were likely driven by the Lomagundi carbon isotope excursion.
 
@@ -204,14 +257,25 @@ The constant re-arrangement of continents by plate tectonics influences the long
 
 Before this time, any oxygen produced by photosynthesis was consumed by oxidation of reduced materials, notably iron. Molecules of free oxygen did not start to accumulate in the atmosphere until the rate of production of oxygen began to exceed the availability of reducing materials that removed oxygen. This point signifies a shift from a reducing atmosphere to an oxidizing atmosphere. O2 showed major variations until reaching a steady state of more than 15% by the end of the Precambrian. The following time span from 541 million years ago to the present day is the Phanerozoic Eon, during the earliest period of which, the Cambrian, oxygen-requiring metazoan life forms began to appear.
 
-The amount of oxygen in the atmosphere has fluctuated over the last 600 million years, reaching a peak of about 30% around 280 million years ago, significantly higher than today's 21%. Two main processes govern changes in the atmosphere: Plants use carbon dioxide from the atmosphere, releasing oxygen. Breakdown of pyrite and volcanic eruptions release sulfur into the atmosphere, which oxidizes and hence reduces the amount of oxygen in the atmosphere. However, volcanic eruptions also release carbon dioxide, which plants can convert to oxygen. The exact cause of the variation of the amount of oxygen in the atmosphere is not known. Periods with much oxygen in the atmosphere are associated with rapid development of animals. Today's atmosphere contains 21% oxygen, which is great enough for this rapid development of animals.
+The amount of oxygen in the atmosphere has fluctuated over the last 600 million years, reaching a peak of about 30% around 280 million years ago, significantly higher than today's 21%. Two main processes govern changes in the atmosphere: Plants use carbon dioxide from the atmosphere, releasing oxygen. Breakdown of pyrite and volcanic eruptions release sulfur into the atmosphere, which oxidizes and hence reduces the amount of oxygen in the atmosphere. However, volcanic eruptions also release carbon dioxide, which plants can convert to oxygen. The exact cause of the variation of the amount of oxygen in the atmosphere is not known. Periods with much oxygen in the atmosphere are associated with rapid development of animals. Today's atmosphere contains 21% oxygen, which is high enough for this rapid development of animals.
+
+The scientific consensus is that the anthropogenic greenhouse gases currently accumulating in the atmosphere are the main cause of global warming.
 
 ### Air pollution
 
 Air pollution is the introduction into the atmosphere of chemicals, particulate matter or biological materials that cause harm or discomfort to organisms. Stratospheric ozone depletion is caused by air pollution, chiefly from chlorofluorocarbons and other ozone-depleting substances.
 
-The scientific consensus is that the anthropogenic greenhouse gases currently accumulating in the atmosphere are the main cause of global warming.
-
 ## Images from space
 
 On October 19, 2015 NASA started a website containing daily images of the full sunlit side of Earth on http://epic.gsfc.nasa.gov/. The images are taken from the Deep Space Climate Observatory (DSCOVR) and show Earth as it rotates during a day.
+
+
+
+
+
+
+
+
+
+
+

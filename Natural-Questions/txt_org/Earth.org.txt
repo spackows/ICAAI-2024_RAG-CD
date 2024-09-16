@@ -2,168 +2,6 @@
 
 # Earth
 
-Earth:
-
-- Orbital characteristics: The Blue Marble photograph of Earth, taken during the Apollo 17 lunar mission in 1972
-
-- Orbital characteristics: Epoch J2000[n 1]
-
-- Orbital characteristics: Aphelion
-- Orbital characteristics: 152100000 km[n 2] (94500000 mi; 1.017 AU)
-
-- Orbital characteristics: Perihelion
-- Orbital characteristics: 147095000 km[n 2] (91401000 mi; 0.98327 AU)
-
-- Orbital characteristics: Semi-major axis
-- Orbital characteristics: 149598023 km (92955902 mi; 1.00000102 AU)
-
-- Orbital characteristics: Eccentricity
-- Orbital characteristics: 0.0167086
-
-- Orbital characteristics: Orbital period
-- Orbital characteristics: 365.256363004 d (1.00001742096 yr)
-
-- Orbital characteristics: Average orbital speed
-- Orbital characteristics: 29.78 km/s (107200 km/h; 66600 mph)
-
-- Orbital characteristics: Mean anomaly
-- Orbital characteristics: 358.617°
-
-- Orbital characteristics: Inclination
-- Orbital characteristics: 7.155° to the Sun's equator; 1.57869° to invariable plane; 0.00005° to J2000 ecliptic
-
-- Orbital characteristics: Longitude of ascending node
-- Orbital characteristics: −11.26064° to J2000 ecliptic
-
-- Orbital characteristics: Argument of perihelion
-- Orbital characteristics: 114.20783°
-
-- Orbital characteristics: Satellites
-- Orbital characteristics: 1 natural satellite: the Moon 5 quasi-satellites >1 400 operational artificial satellites >16 000 space debris[n 3]
-
-- Orbital characteristics: Mean radius
-- Orbital characteristics: 6371.0 km (3958.8 mi)
-
-- Orbital characteristics: Equatorial radius
-- Orbital characteristics: 6378.1 km (3963.2 mi)
-
-- Orbital characteristics: Polar radius
-- Orbital characteristics: 6356.8 km (3949.9 mi)
-
-- Orbital characteristics: Flattening
-- Orbital characteristics: 0.0033528 1/298.257222101 (ETRS89)
-
-- Orbital characteristics: Circumference
-- Orbital characteristics: 40075.017 km equatorial (24901.461 mi) 40007.86 km meridional (24859.73 mi)
-
-- Orbital characteristics: Surface area
-- Orbital characteristics: 510072000 km2 (196940000 sq mi) [n 4] 148940000 km2 land (57510000 sq mi; 29.2%) 361132000 km2 water (139434000 sq mi; 70.8%)
-
-- Orbital characteristics: Volume
-- Orbital characteristics: 1.08321×1012 km3 (2.59876×1011 cu mi)
-
-- Orbital characteristics: Mass
-- Orbital characteristics: 5.97237×1024 kg (1.31668×1025 lb) (3.0×10−6 M☉)
-
-- Orbital characteristics: Mean density
-- Orbital characteristics: 5.514 g/cm3 (0.1992 lb/cu in)
-
-- Orbital characteristics: Surface gravity
-- Orbital characteristics: 9.807 m/s2 (1 g; 32.18 ft/s2)
-
-- Orbital characteristics: Moment of inertia factor
-- Orbital characteristics: 0.3307
-
-- Orbital characteristics: Escape velocity
-- Orbital characteristics: 11.186 km/s (40270 km/h; 25020 mph)
-
-- Orbital characteristics: Sidereal rotation period
-- Orbital characteristics: 0.99726968 d (23h 56m 4.100s)
-
-- Orbital characteristics: Equatorial rotation velocity
-- Orbital characteristics: 0.4651 km/s (1674.4 km/h; 1040.4 mph)
-
-- Orbital characteristics: Axial tilt
-- Orbital characteristics: 23.4392811°
-
-- Orbital characteristics: Albedo
-- Orbital characteristics: 0.367 geometric 0.306 Bond
-
-- Orbital characteristics: Surface temp. min mean max Kelvin 184 K 288 K 330 K Celsius −89.2 °C 15 °C 56.7 °C Fahrenheit −128.5 °F 59 °F 134 °F
-- Orbital characteristics: Surface temp.
-- : min
-- : mean
-- : max
-- : Kelvin
-- : 184 K
-- : 288 K
-- : 330 K
-- : Celsius
-- : −89.2 °C
-- : 15 °C
-- : 56.7 °C
-- : Fahrenheit
-- : −128.5 °F
-- : 59 °F
-- : 134 °F
-
-- Orbital characteristics: Kelvin
-- Orbital characteristics: 184 K
-- : 288 K
-- : 330 K
-
-- Orbital characteristics: Celsius
-- Orbital characteristics: −89.2 °C
-- : 15 °C
-- : 56.7 °C
-
-- Orbital characteristics: Fahrenheit
-- Orbital characteristics: −128.5 °F
-- : 59 °F
-- : 134 °F
-
-- Orbital characteristics: Surface pressure
-- Orbital characteristics: 101.325 kPa (at MSL)
-
-- Orbital characteristics: Composition by volume
-- Orbital characteristics: 78.08% nitrogen (N2; dry air) 20.95% oxygen (O2) 0.930% argon 0.0402% carbon dioxide ~ 1% water vapor (climate-variable)
-
-- 7.155° to the Sun's equator;
-- 1.57869° to invariable plane;
-- 0.00005° to J2000 ecliptic
-- 1 natural satellite: the Moon
-- 5 quasi-satellites
-- >1 400 operational artificial satellites
-- >16 000 space debris[n 3]
-- 40075.017 km equatorial (24901.461 mi)
-- 40007.86 km meridional (24859.73 mi)
-- 510072000 km2 (196940000 sq mi) [n 4]
-- 148940000 km2 land (57510000 sq mi; 29.2%)
-- 361132000 km2 water (139434000 sq mi; 70.8%)
-- 0.367 geometric
-- 0.306 Bond
-
-- Surface temp.: Kelvin
-- min: 184 K
-- mean: 288 K
-- max: 330 K
-
-- Surface temp.: Celsius
-- min: −89.2 °C
-- mean: 15 °C
-- max: 56.7 °C
-
-- Surface temp.: Fahrenheit
-- min: −128.5 °F
-- mean: 59 °F
-- max: 134 °F
-
-- 78.08% nitrogen (N2; dry air)
-- 20.95% oxygen (O2)
-- 0.930% argon
-- 0.0402% carbon dioxide
-- ~ 1% water vapor (climate-variable)
-
 Earth is the third planet from the Sun and the only object in the Universe known to harbor life. According to radiometric dating and other sources of evidence, Earth formed over 4 billion years ago. Earth's gravity interacts with other objects in space, especially the Sun and the Moon, Earth's only natural satellite. Earth revolves around the Sun in 365.26 days, a period known as an Earth year. During this time, Earth rotates about its axis about 366.26 times.[n 5]
 
 Earth's axis of rotation is tilted, producing seasonal variations on the planet's surface. The gravitational interaction between the Earth and Moon causes ocean tides, stabilizes the Earth's orientation on its axis, and gradually slows its rotation. Earth is the densest planet in the Solar System and the largest of the four terrestrial planets.
@@ -216,67 +54,122 @@ In geodesy, the exact shape that Earth's oceans would adopt in the absence of la
 
 ### Chemical composition
 
-Chemical composition of the crust:
+### Chemical composition of the crust:
 
-- Compound, Continental: silica
-- Formula, Oceanic: SiO2
-- Composition: 60.2%
-- Composition: 48.6%
+Formula:
+- ( Compound ) silica: SiO2
+- ( Compound ) alumina: Al2O3
+- ( Compound ) lime: CaO
+- ( Compound ) magnesia: MgO
+- ( Compound ) iron(II) oxide: FeO
+- ( Compound ) sodium oxide: Na2O
+- ( Compound ) potassium oxide: K2O
+- ( Compound ) iron(III) oxide: Fe2O3
+- ( Compound ) water: H2O
+- ( Compound ) carbon dioxide: CO2
+- ( Compound ) titanium dioxide: TiO2
+- ( Compound ) phosphorus pentoxide: P2O5
+- ( Compound ) Total: Total
 
-- Compound, Continental: alumina
-- Formula, Oceanic: Al2O3
-- Composition: 15.2%
-- Composition: 16.5%
+Composition Continental:
+- ( Compound ) silica: 60.2%
+- ( Compound ) alumina: 15.2%
+- ( Compound ) lime: 5.5%
+- ( Compound ) magnesia: 3.1%
+- ( Compound ) iron(II) oxide: 3.8%
+- ( Compound ) sodium oxide: 3.0%
+- ( Compound ) potassium oxide: 2.8%
+- ( Compound ) iron(III) oxide: 2.5%
+- ( Compound ) water: 1.4%
+- ( Compound ) carbon dioxide: 1.2%
+- ( Compound ) titanium dioxide: 0.7%
+- ( Compound ) phosphorus pentoxide: 0.2%
+- ( Compound ) Total: 99.6%
 
-- Compound, Continental: lime
-- Formula, Oceanic: CaO
-- Composition: 5.5%
-- Composition: 12.3%
+Composition Oceanic:
+- ( Compound ) silica: 48.6%
+- ( Compound ) alumina: 16.5%
+- ( Compound ) lime: 12.3%
+- ( Compound ) magnesia: 6.8%
+- ( Compound ) iron(II) oxide: 6.2%
+- ( Compound ) sodium oxide: 2.6%
+- ( Compound ) potassium oxide: 0.4%
+- ( Compound ) iron(III) oxide: 2.3%
+- ( Compound ) water: 1.1%
+- ( Compound ) carbon dioxide: 1.4%
+- ( Compound ) titanium dioxide: 1.4%
+- ( Compound ) phosphorus pentoxide: 0.3%
+- ( Compound ) Total: 99.9%
 
-- Compound, Continental: magnesia
-- Formula, Oceanic: MgO
-- Composition: 3.1%
-- Composition: 6.8%
 
-- Compound, Continental: iron(II) oxide
-- Formula, Oceanic: FeO
-- Composition: 3.8%
-- Composition: 6.2%
 
-- Compound, Continental: sodium oxide
-- Formula, Oceanic: Na2O
-- Composition: 3.0%
-- Composition: 2.6%
+### Chemical composition of the crust:
 
-- Compound, Continental: potassium oxide
-- Formula, Oceanic: K2O
-- Composition: 2.8%
-- Composition: 0.4%
+silica:
+- Formula: SiO2
+- Composition Continental: 60.2%
+- Composition Oceanic: 48.6%
 
-- Compound, Continental: iron(III) oxide
-- Formula, Oceanic: Fe2O3
-- Composition: 2.5%
-- Composition: 2.3%
+alumina:
+- Formula: Al2O3
+- Composition Continental: 15.2%
+- Composition Oceanic: 16.5%
 
-- Compound, Continental: water
-- Formula, Oceanic: H2O
-- Composition: 1.4%
-- Composition: 1.1%
+lime:
+- Formula: CaO
+- Composition Continental: 5.5%
+- Composition Oceanic: 12.3%
 
-- Compound, Continental: carbon dioxide
-- Formula, Oceanic: CO2
-- Composition: 1.2%
-- Composition: 1.4%
+magnesia:
+- Formula: MgO
+- Composition Continental: 3.1%
+- Composition Oceanic: 6.8%
 
-- Compound, Continental: titanium dioxide
-- Formula, Oceanic: TiO2
-- Composition: 0.7%
-- Composition: 1.4%
+iron(II) oxide:
+- Formula: FeO
+- Composition Continental: 3.8%
+- Composition Oceanic: 6.2%
 
-- Compound, Continental: phosphorus pentoxide
-- Formula, Oceanic: P2O5
-- Composition: 0.2%
-- Composition: 0.3%
+sodium oxide:
+- Formula: Na2O
+- Composition Continental: 3.0%
+- Composition Oceanic: 2.6%
+
+potassium oxide:
+- Formula: K2O
+- Composition Continental: 2.8%
+- Composition Oceanic: 0.4%
+
+iron(III) oxide:
+- Formula: Fe2O3
+- Composition Continental: 2.5%
+- Composition Oceanic: 2.3%
+
+water:
+- Formula: H2O
+- Composition Continental: 1.4%
+- Composition Oceanic: 1.1%
+
+carbon dioxide:
+- Formula: CO2
+- Composition Continental: 1.2%
+- Composition Oceanic: 1.4%
+
+titanium dioxide:
+- Formula: TiO2
+- Composition Continental: 0.7%
+- Composition Oceanic: 1.4%
+
+phosphorus pentoxide:
+- Formula: P2O5
+- Composition Continental: 0.2%
+- Composition Oceanic: 0.3%
+
+Total:
+- Formula: Total
+- Composition Continental: 99.6%
+- Composition Oceanic: 99.9%
+
 
 
 Earth's mass is approximately 5.97×1024 kg (5,970 Yg). It is composed mostly of iron (32.1%), oxygen (30.1%), silicon (15.1%), magnesium (13.9%), sulfur (2.9%), nickel (1.8%), calcium (1.5%), and aluminium (1.4%), with the remaining 1.2% consisting of trace amounts of other elements. Due to mass segregation, the core region is estimated to be primarily composed of iron (88.8%), with smaller amounts of nickel (5.8%), sulfur (4.5%), and less than 1% trace elements.
@@ -287,94 +180,180 @@ The most common rock constituents of the crust are nearly all oxides: chlorine, 
 
 Earth's interior, like that of the other terrestrial planets, is divided into layers by their chemical or physical (rheological) properties. The outer layer is a chemically distinct silicate solid crust, which is underlain by a highly viscous solid mantle. The crust is separated from the mantle by the Mohorovičić discontinuity. The thickness of the crust varies from about 6 km (kilometers) under the oceans to 30–50 km for the continents. The crust and the cold, rigid, top of the upper mantle are collectively known as the lithosphere, and it is of the lithosphere that the tectonic plates are composed. Beneath the lithosphere is the asthenosphere, a relatively low-viscosity layer on which the lithosphere rides. Important changes in crystal structure within the mantle occur at 410 and 660 km below the surface, spanning a transition zone that separates the upper and lower mantle. Beneath the mantle, an extremely low viscosity liquid outer core lies above a solid inner core. The Earth's inner core might rotate at a slightly higher angular velocity than the remainder of the planet, advancing by 0.1–0.5° per year. The radius of the inner core is about one fifth of that of Earth.
 
-Geologic layers of Earth:
+### Geologic layers of Earth:
 
-- Earth cutaway from core to exosphere. Not to scale.: 0–60
-- Depth km: Lithosphere[n 14]
-- Component layer: —
+Depth km:
+- ( Earth cutaway from core to exosphere. Not to scale. ) : 0–60
+- ( Earth cutaway from core to exosphere. Not to scale. ) : 0–35
+- ( Earth cutaway from core to exosphere. Not to scale. ) : 35–60
+- ( Earth cutaway from core to exosphere. Not to scale. ) : 35–2890
+- ( Earth cutaway from core to exosphere. Not to scale. ) : 100–700
+- ( Earth cutaway from core to exosphere. Not to scale. ) : 2890–5100
+- ( Earth cutaway from core to exosphere. Not to scale. ) : 5100–6378
 
-- Earth cutaway from core to exosphere. Not to scale.: 0–35
-- Depth km: Crust[n 15]
-- Component layer: 2.2–2.9
+Component layer:
+- ( Earth cutaway from core to exosphere. Not to scale. ) : Lithosphere[n 14]
+- ( Earth cutaway from core to exosphere. Not to scale. ) : Crust[n 15]
+- ( Earth cutaway from core to exosphere. Not to scale. ) : Upper mantle
+- ( Earth cutaway from core to exosphere. Not to scale. ) : Mantle
+- ( Earth cutaway from core to exosphere. Not to scale. ) : Asthenosphere
+- ( Earth cutaway from core to exosphere. Not to scale. ) : Outer core
+- ( Earth cutaway from core to exosphere. Not to scale. ) : Inner core
 
-- Earth cutaway from core to exosphere. Not to scale.: 35–60
-- Depth km: Upper mantle
-- Component layer: 3.4–4.4
+Density g/cm3:
+- ( Earth cutaway from core to exosphere. Not to scale. ) : —
+- ( Earth cutaway from core to exosphere. Not to scale. ) : 2.2–2.9
+- ( Earth cutaway from core to exosphere. Not to scale. ) : 3.4–4.4
+- ( Earth cutaway from core to exosphere. Not to scale. ) : 3.4–5.6
+- ( Earth cutaway from core to exosphere. Not to scale. ) : —
+- ( Earth cutaway from core to exosphere. Not to scale. ) : 9.9–12.2
+- ( Earth cutaway from core to exosphere. Not to scale. ) : 12.8–13.1
 
-- Earth cutaway from core to exosphere. Not to scale.: 35–2890
-- Depth km: Mantle
-- Component layer: 3.4–5.6
 
-- Earth cutaway from core to exosphere. Not to scale.: 100–700
-- Depth km: Asthenosphere
-- Component layer: —
 
-- Earth cutaway from core to exosphere. Not to scale.: 2890–5100
-- Depth km: Outer core
-- Component layer: 9.9–12.2
+### Geologic layers of Earth:
 
-- Earth cutaway from core to exosphere. Not to scale.: 5100–6378
-- Depth km: Inner core
-- Component layer: 12.8–13.1
+:
+- Depth km: 0–60
+- Component layer: Lithosphere[n 14]
+- Density g/cm3: —
+
+:
+- Depth km: 0–35
+- Component layer: Crust[n 15]
+- Density g/cm3: 2.2–2.9
+
+:
+- Depth km: 35–60
+- Component layer: Upper mantle
+- Density g/cm3: 3.4–4.4
+
+:
+- Depth km: 35–2890
+- Component layer: Mantle
+- Density g/cm3: 3.4–5.6
+
+:
+- Depth km: 100–700
+- Component layer: Asthenosphere
+- Density g/cm3: —
+
+:
+- Depth km: 2890–5100
+- Component layer: Outer core
+- Density g/cm3: 9.9–12.2
+
+:
+- Depth km: 5100–6378
+- Component layer: Inner core
+- Density g/cm3: 12.8–13.1
+
 
 
 ### Heat
 
 Earth's internal heat comes from a combination of residual heat from planetary accretion (about 20%) and heat produced through radioactive decay (80%). The major heat-producing isotopes within Earth are potassium-40, uranium-238, and thorium-232. At the center, the temperature may be up to 6,000 °C (10,830 °F), and the pressure could reach 360 GPa. Because much of the heat is provided by radioactive decay, scientists postulate that early in Earth's history, before isotopes with short half-lives were depleted, Earth's heat production was much higher. At approximately 3 Ga, twice the present-day heat would have been produced, increasing the rates of mantle convection and plate tectonics, and allowing the production of uncommon igneous rocks such as komatiites that are rarely formed today.
 
-Present-day major heat-producing isotopes:
+### Present-day major heat-producing isotopes:
 
-- Isotope: 238U
+Heat release W/kg isotope:
+- ( Isotope ) 238U: 94.6 × 10−6
+- ( Isotope ) 235U: 569 × 10−6
+- ( Isotope ) 232Th: 26.4 × 10−6
+- ( Isotope ) 40K: 29.2 × 10−6
+
+Half-life years:
+- ( Isotope ) 238U: 4.47 × 109
+- ( Isotope ) 235U: 0.704 × 109
+- ( Isotope ) 232Th: 14.0 × 109
+- ( Isotope ) 40K: 1.25 × 109
+
+Mean mantle concentration kg isotope/kg mantle:
+- ( Isotope ) 238U: 30.8 × 10−9
+- ( Isotope ) 235U: 0.22 × 10−9
+- ( Isotope ) 232Th: 124 × 10−9
+- ( Isotope ) 40K: 36.9 × 10−9
+
+Heat release W/kg mantle:
+- ( Isotope ) 238U: 2.91 × 10−12
+- ( Isotope ) 235U: 0.125 × 10−12
+- ( Isotope ) 232Th: 3.27 × 10−12
+- ( Isotope ) 40K: 1.08 × 10−12
+
+
+
+### Present-day major heat-producing isotopes:
+
+238U:
 - Heat release W/kg isotope: 94.6 × 10−6
 - Half-life years: 4.47 × 109
 - Mean mantle concentration kg isotope/kg mantle: 30.8 × 10−9
 - Heat release W/kg mantle: 2.91 × 10−12
 
-- Isotope: 235U
+235U:
 - Heat release W/kg isotope: 569 × 10−6
 - Half-life years: 0.704 × 109
 - Mean mantle concentration kg isotope/kg mantle: 0.22 × 10−9
 - Heat release W/kg mantle: 0.125 × 10−12
 
-- Isotope: 232Th
+232Th:
 - Heat release W/kg isotope: 26.4 × 10−6
 - Half-life years: 14.0 × 109
 - Mean mantle concentration kg isotope/kg mantle: 124 × 10−9
 - Heat release W/kg mantle: 3.27 × 10−12
 
-- Isotope: 40K
+40K:
 - Heat release W/kg isotope: 29.2 × 10−6
 - Half-life years: 1.25 × 109
 - Mean mantle concentration kg isotope/kg mantle: 36.9 × 10−9
 - Heat release W/kg mantle: 1.08 × 10−12
 
 
+
 The mean heat loss from Earth is 87 mW m−2, for a global heat loss of 4.42 × 1013 W. A portion of the core's thermal energy is transported toward the crust by mantle plumes, a form of convection consisting of upwellings of higher-temperature rock. These plumes can produce hotspots and flood basalts. More of the heat in Earth is lost through plate tectonics, by mantle upwelling associated with mid-ocean ridges. The final major mode of heat loss is through conduction through the lithosphere, the majority of which occurs under the oceans because the crust there is much thinner than that of the continents.
 
 ### Tectonic plates
 
-Earth's major plates:
+### Earth's major plates:
 
-- Plate name: Pacific Plate
+Area 106 km2:
+- ( Plate name ) Plate name: Area 106 km2
+- ( Plate name ) Pacific Plate: 103.3
+- ( Plate name ) African Plate[n 16]: 78.0
+- ( Plate name ) North American Plate: 75.9
+- ( Plate name ) Eurasian Plate: 67.8
+- ( Plate name ) Antarctic Plate: 60.9
+- ( Plate name ) Indo-Australian Plate: 47.2
+- ( Plate name ) South American Plate: 43.6
+
+
+
+### Earth's major plates:
+
+Plate name:
+- Area 106 km2: Area 106 km2
+
+Pacific Plate:
 - Area 106 km2: 103.3
 
-- Plate name: African Plate[n 16]
+African Plate[n 16]:
 - Area 106 km2: 78.0
 
-- Plate name: North American Plate
+North American Plate:
 - Area 106 km2: 75.9
 
-- Plate name: Eurasian Plate
+Eurasian Plate:
 - Area 106 km2: 67.8
 
-- Plate name: Antarctic Plate
+Antarctic Plate:
 - Area 106 km2: 60.9
 
-- Plate name: Indo-Australian Plate
+Indo-Australian Plate:
 - Area 106 km2: 47.2
 
-- Plate name: South American Plate
+South American Plate:
 - Area 106 km2: 43.6
+
 
 
 The mechanically rigid outer layer of Earth, the lithosphere, is divided into pieces called tectonic plates. These plates are rigid segments that move in relation to one another at one of three types of plate boundaries: convergent boundaries, at which two plates come together, divergent boundaries, at which two plates are pulled apart, and transform boundaries, in which two plates slide past one another laterally. Earthquakes, volcanic activity, mountain-building, and oceanic trench formation can occur along these plate boundaries. The tectonic plates ride on top of the asthenosphere, the solid but less-viscous part of the upper mantle that can flow and move along with the plates.
@@ -493,25 +472,38 @@ In July 2016, scientists reported identifying a set of 355 genes from the Last U
 
 ### Natural resources and land use
 
-Estimated human land use, 2000:
+### Estimated human land use, 2000:
 
-- Land use: Cropland
+Mha:
+- ( Land use ) Cropland: 1,510–1,611
+- ( Land use ) Pastures: 2,500–3,410
+- ( Land use ) Natural forests: 3,143–3,871
+- ( Land use ) Planted forests: 126–215
+- ( Land use ) Urban areas: 66–351
+- ( Land use ) Unused, productive land: 356–445
+
+
+
+### Estimated human land use, 2000:
+
+Cropland:
 - Mha: 1,510–1,611
 
-- Land use: Pastures
+Pastures:
 - Mha: 2,500–3,410
 
-- Land use: Natural forests
+Natural forests:
 - Mha: 3,143–3,871
 
-- Land use: Planted forests
+Planted forests:
 - Mha: 126–215
 
-- Land use: Urban areas
+Urban areas:
 - Mha: 66–351
 
-- Land use: Unused, productive land
+Unused, productive land:
 - Mha: 356–445
+
 
 
 Earth has resources that have been exploited by humans. Those termed non-renewable resources, such as fossil fuels, only renew over geological timescales.
@@ -530,18 +522,6 @@ There is a scientific consensus linking human activities to global warming due t
 
 ## Human geography
 
-- : North America South America Antarctica
-- : Europe Africa
-- : Asia Australia
-
-- North America
-- South America
-- Antarctica
-- Europe
-- Africa
-- Asia
-- Australia
-
 Cartography, the study and practice of map-making, and geography, the study of the lands, features, inhabitants and phenomena on Earth, have historically been the disciplines devoted to depicting Earth. Surveying, the determination of locations and distances, and to a lesser extent navigation, the determination of position and direction, have developed alongside cartography and geography, providing and suitably quantifying the requisite information.
 
 Earth's human population reached approximately seven billion on 31 October 2011. Projections indicate that the world's human population will reach 9.2 billion in 2050. Most of the growth is expected to take place in developing nations. Human population density varies widely around the world, but a majority live in Asia. By 2020, 60% of the world's population is expected to be living in urban, rather than rural, areas.
@@ -556,19 +536,27 @@ The first human to orbit Earth was Yuri Gagarin on 12 April 1961. In total, abou
 
 ## Moon
 
-Characteristics:
+### Characteristics:
 
-- : Diameter
-- : 3,474.8 km
 
-- : Mass
-- : 7.349×1022 kg
 
-- : Semi-major axis
-- : 384,400 km
+### Characteristics:
 
-- : Orbital period
-- : 27 d 7 h 43.7 m
+:
+- 
+
+Diameter:
+- 3,474.8 km
+
+Mass:
+- 7.349×1022 kg
+
+Semi-major axis:
+- 384,400 km
+
+Orbital period:
+- 27 d 7 h 43.7 m
+
 
 
 The Moon is a relatively large, terrestrial, planet-like natural satellite, with a diameter about one-quarter of Earth's. It is the largest moon in the Solar System relative to the size of its planet, although Charon is larger relative to the dwarf planet Pluto. The natural satellites of other planets are also referred to as "moons", after Earth's.

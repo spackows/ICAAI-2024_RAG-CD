@@ -10,11 +10,6 @@ Over the course of an orbit, the obliquity usually does not change considerably,
 
 ## Standards
 
-- : The positive pole of a planet is defined by the right-hand rule: if the fingers of the right hand are curled in the direction of the rotation then the thumb points to the positive pole. The axial tilt is defined as the angle between the direction of the positive pole and the normal to the orbital plane. The angles for Earth, Uranus and Venus are approximately 23°, 97°, and 177° respectively.
-
-
-The positive pole of a planet is defined by the right-hand rule: if the fingers of the right hand are curled in the direction of the rotation then the thumb points to the positive pole. The axial tilt is defined as the angle between the direction of the positive pole and the normal to the orbital plane. The angles for Earth, Uranus and Venus are approximately 23°, 97°, and 177° respectively.
-
 There are two standard methods of specifying tilt. The International Astronomical Union (IAU) defines the north pole of a planet as that which lies on Earth's north side of the invariable plane of the Solar System; under this system, Venus is tilted 3° and spins retrograde, opposite that of most of the other planets.
 
 The IAU also uses the right-hand rule to define a positive pole for the purpose of determining orientation. Using this convention, Venus is tilted 177° ("upside down").
@@ -73,117 +68,244 @@ All four of the innermost, rocky planets of the Solar System may have had large 
 
 The obliquities of the outer planets are considered relatively stable.
 
-Axis and rotation of selected Solar System bodies:
+### Axis and rotation of selected Solar System bodies:
 
-- Body, Axial tilt (degrees), R.A. (degrees): Sun
-- NASA, J2000.0, North Pole, Dec. (degrees): 7.25
-- NASA, J2000.0, North Pole, R.A. (degrees): 286.13
-- NASA, J2000.0, Rotation (hours), Dec. (degrees): 63.87
-- NASA, J2000.0, Axial tilt (degrees): 609.12B
-- IAU, 0 January 2010, 0h TT, North Pole: 7.25A
-- IAU, 0 January 2010, 0h TT, North Pole: 286.15
-- IAU, 0 January 2010, 0h TT, Rotation (deg/day): 63.89
-- IAU, 0 January 2010, 0h TT: 14.18
+NASA, J2000.0 Axial tilt (degrees):
+- ( Body ) Sun: 7.25
+- ( Body ) Mercury: 0.03
+- ( Body ) Venus: 2.64
+- ( Body ) Earth: 23.44
+- ( Body ) Moon: 6.68
+- ( Body ) Mars: 25.19
+- ( Body ) Jupiter: 3.13
+- ( Body ) Saturn: 26.73
+- ( Body ) Uranus: 82.23
+- ( Body ) Neptune: 28.32
+- ( Body ) PlutoE: 57.47
+- ( Body ) A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.: A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.
 
-- Body, Axial tilt (degrees), R.A. (degrees): Mercury
-- NASA, J2000.0, North Pole, Dec. (degrees): 0.03
-- NASA, J2000.0, North Pole, R.A. (degrees): 281.01
-- NASA, J2000.0, Rotation (hours), Dec. (degrees): 61.42
-- NASA, J2000.0, Axial tilt (degrees): 1407.6
-- IAU, 0 January 2010, 0h TT, North Pole: 0.01
-- IAU, 0 January 2010, 0h TT, North Pole: 281.01
-- IAU, 0 January 2010, 0h TT, Rotation (deg/day): 61.45
-- IAU, 0 January 2010, 0h TT: 6.14
+NASA, J2000.0 North Pole R.A. (degrees):
+- ( Body ) Sun: 286.13
+- ( Body ) Mercury: 281.01
+- ( Body ) Venus: 272.76
+- ( Body ) Earth: 0.00
+- ( Body ) Moon: —
+- ( Body ) Mars: 317.68
+- ( Body ) Jupiter: 268.05
+- ( Body ) Saturn: 40.60
+- ( Body ) Uranus: 257.43
+- ( Body ) Neptune: 299.36
+- ( Body ) PlutoE: (312.99)
+- ( Body ) A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.: A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.
 
-- Body, Axial tilt (degrees), R.A. (degrees): Venus
-- NASA, J2000.0, North Pole, Dec. (degrees): 2.64
-- NASA, J2000.0, North Pole, R.A. (degrees): 272.76
-- NASA, J2000.0, Rotation (hours), Dec. (degrees): 67.16
-- NASA, J2000.0, Axial tilt (degrees): –5832.6
-- IAU, 0 January 2010, 0h TT, North Pole: 2.64
-- IAU, 0 January 2010, 0h TT, North Pole: 272.76
-- IAU, 0 January 2010, 0h TT, Rotation (deg/day): 67.16
-- IAU, 0 January 2010, 0h TT: −1.48
+NASA, J2000.0 North Pole Dec. (degrees):
+- ( Body ) Sun: 63.87
+- ( Body ) Mercury: 61.42
+- ( Body ) Venus: 67.16
+- ( Body ) Earth: 90.00
+- ( Body ) Moon: —
+- ( Body ) Mars: 52.89
+- ( Body ) Jupiter: 64.49
+- ( Body ) Saturn: 83.54
+- ( Body ) Uranus: –15.10
+- ( Body ) Neptune: 43.46
+- ( Body ) PlutoE: (6.16)
+- ( Body ) A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.: A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.
 
-- Body, Axial tilt (degrees), R.A. (degrees): Earth
-- NASA, J2000.0, North Pole, Dec. (degrees): 23.44
-- NASA, J2000.0, North Pole, R.A. (degrees): 0.00
-- NASA, J2000.0, Rotation (hours), Dec. (degrees): 90.00
-- NASA, J2000.0, Axial tilt (degrees): 23.93
-- IAU, 0 January 2010, 0h TT, North Pole: 23.44
-- IAU, 0 January 2010, 0h TT, North Pole: undef.
-- IAU, 0 January 2010, 0h TT, Rotation (deg/day): 90.00
-- IAU, 0 January 2010, 0h TT: 360.99
+NASA, J2000.0 Rotation (hours):
+- ( Body ) Sun: 609.12B
+- ( Body ) Mercury: 1407.6
+- ( Body ) Venus: –5832.6
+- ( Body ) Earth: 23.93
+- ( Body ) Moon: 655.73
+- ( Body ) Mars: 24.62
+- ( Body ) Jupiter: 9.93D
+- ( Body ) Saturn: 10.66D
+- ( Body ) Uranus: –17.24D
+- ( Body ) Neptune: 16.11D
+- ( Body ) PlutoE: –153.29
+- ( Body ) A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.: A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.
 
-- Body, Axial tilt (degrees), R.A. (degrees): Moon
-- NASA, J2000.0, North Pole, Dec. (degrees): 6.68
-- NASA, J2000.0, North Pole, R.A. (degrees): —
-- NASA, J2000.0, Rotation (hours), Dec. (degrees): —
-- NASA, J2000.0, Axial tilt (degrees): 655.73
-- IAU, 0 January 2010, 0h TT, North Pole: 1.54C
-- IAU, 0 January 2010, 0h TT, North Pole: 270.00
-- IAU, 0 January 2010, 0h TT, Rotation (deg/day): 66.54
-- IAU, 0 January 2010, 0h TT: 13.18
+IAU, 0 January 2010, 0h TT Axial tilt (degrees):
+- ( Body ) Sun: 7.25A
+- ( Body ) Mercury: 0.01
+- ( Body ) Venus: 2.64
+- ( Body ) Earth: 23.44
+- ( Body ) Moon: 1.54C
+- ( Body ) Mars: 25.19
+- ( Body ) Jupiter: 3.12
+- ( Body ) Saturn: 26.73
+- ( Body ) Uranus: 82.23
+- ( Body ) Neptune: 28.33
+- ( Body ) PlutoE: 60.41
+- ( Body ) A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.: A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.
 
-- Body, Axial tilt (degrees), R.A. (degrees): Mars
-- NASA, J2000.0, North Pole, Dec. (degrees): 25.19
-- NASA, J2000.0, North Pole, R.A. (degrees): 317.68
-- NASA, J2000.0, Rotation (hours), Dec. (degrees): 52.89
-- NASA, J2000.0, Axial tilt (degrees): 24.62
-- IAU, 0 January 2010, 0h TT, North Pole: 25.19
-- IAU, 0 January 2010, 0h TT, North Pole: 317.67
-- IAU, 0 January 2010, 0h TT, Rotation (deg/day): 52.88
-- IAU, 0 January 2010, 0h TT: 350.89
+IAU, 0 January 2010, 0h TT North Pole R.A. (degrees):
+- ( Body ) Sun: 286.15
+- ( Body ) Mercury: 281.01
+- ( Body ) Venus: 272.76
+- ( Body ) Earth: undef.
+- ( Body ) Moon: 270.00
+- ( Body ) Mars: 317.67
+- ( Body ) Jupiter: 268.06
+- ( Body ) Saturn: 40.59
+- ( Body ) Uranus: 257.31
+- ( Body ) Neptune: 299.40
+- ( Body ) PlutoE: 312.99
+- ( Body ) A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.: A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.
 
-- Body, Axial tilt (degrees), R.A. (degrees): Jupiter
-- NASA, J2000.0, North Pole, Dec. (degrees): 3.13
-- NASA, J2000.0, North Pole, R.A. (degrees): 268.05
-- NASA, J2000.0, Rotation (hours), Dec. (degrees): 64.49
-- NASA, J2000.0, Axial tilt (degrees): 9.93D
-- IAU, 0 January 2010, 0h TT, North Pole: 3.12
-- IAU, 0 January 2010, 0h TT, North Pole: 268.06
-- IAU, 0 January 2010, 0h TT, Rotation (deg/day): 64.50
-- IAU, 0 January 2010, 0h TT: 870.54D
+IAU, 0 January 2010, 0h TT North Pole Dec. (degrees):
+- ( Body ) Sun: 63.89
+- ( Body ) Mercury: 61.45
+- ( Body ) Venus: 67.16
+- ( Body ) Earth: 90.00
+- ( Body ) Moon: 66.54
+- ( Body ) Mars: 52.88
+- ( Body ) Jupiter: 64.50
+- ( Body ) Saturn: 83.54
+- ( Body ) Uranus: −15.18
+- ( Body ) Neptune: 42.95
+- ( Body ) PlutoE: 6.16
+- ( Body ) A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.: A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.
 
-- Body, Axial tilt (degrees), R.A. (degrees): Saturn
-- NASA, J2000.0, North Pole, Dec. (degrees): 26.73
-- NASA, J2000.0, North Pole, R.A. (degrees): 40.60
-- NASA, J2000.0, Rotation (hours), Dec. (degrees): 83.54
-- NASA, J2000.0, Axial tilt (degrees): 10.66D
-- IAU, 0 January 2010, 0h TT, North Pole: 26.73
-- IAU, 0 January 2010, 0h TT, North Pole: 40.59
-- IAU, 0 January 2010, 0h TT, Rotation (deg/day): 83.54
-- IAU, 0 January 2010, 0h TT: 810.79D
+IAU, 0 January 2010, 0h TT Rotation (deg/day):
+- ( Body ) Sun: 
+- ( Body ) Mercury: 6.14
+- ( Body ) Venus: −1.48
+- ( Body ) Earth: 360.99
+- ( Body ) Moon: 13.18
+- ( Body ) Mars: 350.89
+- ( Body ) Jupiter: 870.54D
+- ( Body ) Saturn: 810.79D
+- ( Body ) Uranus: −501.16D
+- ( Body ) Neptune: 536.31D
+- ( Body ) PlutoE: −56.36
+- ( Body ) A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.: A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.
 
-- Body, Axial tilt (degrees), R.A. (degrees): Uranus
-- NASA, J2000.0, North Pole, Dec. (degrees): 82.23
-- NASA, J2000.0, North Pole, R.A. (degrees): 257.43
-- NASA, J2000.0, Rotation (hours), Dec. (degrees): –15.10
-- NASA, J2000.0, Axial tilt (degrees): –17.24D
-- IAU, 0 January 2010, 0h TT, North Pole: 82.23
-- IAU, 0 January 2010, 0h TT, North Pole: 257.31
-- IAU, 0 January 2010, 0h TT, Rotation (deg/day): −15.18
-- IAU, 0 January 2010, 0h TT: −501.16D
 
-- Body, Axial tilt (degrees), R.A. (degrees): Neptune
-- NASA, J2000.0, North Pole, Dec. (degrees): 28.32
-- NASA, J2000.0, North Pole, R.A. (degrees): 299.36
-- NASA, J2000.0, Rotation (hours), Dec. (degrees): 43.46
-- NASA, J2000.0, Axial tilt (degrees): 16.11D
-- IAU, 0 January 2010, 0h TT, North Pole: 28.33
-- IAU, 0 January 2010, 0h TT, North Pole: 299.40
-- IAU, 0 January 2010, 0h TT, Rotation (deg/day): 42.95
-- IAU, 0 January 2010, 0h TT: 536.31D
 
-- Body, Axial tilt (degrees), R.A. (degrees): PlutoE
-- NASA, J2000.0, North Pole, Dec. (degrees): 57.47
-- NASA, J2000.0, North Pole, R.A. (degrees): (312.99)
-- NASA, J2000.0, Rotation (hours), Dec. (degrees): (6.16)
-- NASA, J2000.0, Axial tilt (degrees): –153.29
-- IAU, 0 January 2010, 0h TT, North Pole: 60.41
-- IAU, 0 January 2010, 0h TT, North Pole: 312.99
-- IAU, 0 January 2010, 0h TT, Rotation (deg/day): 6.16
-- IAU, 0 January 2010, 0h TT: −56.36
+### Axis and rotation of selected Solar System bodies:
+
+Sun:
+- NASA, J2000.0 Axial tilt (degrees): 7.25
+- NASA, J2000.0 North Pole R.A. (degrees): 286.13
+- NASA, J2000.0 North Pole Dec. (degrees): 63.87
+- NASA, J2000.0 Rotation (hours): 609.12B
+- IAU, 0 January 2010, 0h TT Axial tilt (degrees): 7.25A
+- IAU, 0 January 2010, 0h TT North Pole R.A. (degrees): 286.15
+- IAU, 0 January 2010, 0h TT North Pole Dec. (degrees): 63.89
+- IAU, 0 January 2010, 0h TT Rotation (deg/day): 
+
+Mercury:
+- NASA, J2000.0 Axial tilt (degrees): 0.03
+- NASA, J2000.0 North Pole R.A. (degrees): 281.01
+- NASA, J2000.0 North Pole Dec. (degrees): 61.42
+- NASA, J2000.0 Rotation (hours): 1407.6
+- IAU, 0 January 2010, 0h TT Axial tilt (degrees): 0.01
+- IAU, 0 January 2010, 0h TT North Pole R.A. (degrees): 281.01
+- IAU, 0 January 2010, 0h TT North Pole Dec. (degrees): 61.45
+- IAU, 0 January 2010, 0h TT Rotation (deg/day): 6.14
+
+Venus:
+- NASA, J2000.0 Axial tilt (degrees): 2.64
+- NASA, J2000.0 North Pole R.A. (degrees): 272.76
+- NASA, J2000.0 North Pole Dec. (degrees): 67.16
+- NASA, J2000.0 Rotation (hours): –5832.6
+- IAU, 0 January 2010, 0h TT Axial tilt (degrees): 2.64
+- IAU, 0 January 2010, 0h TT North Pole R.A. (degrees): 272.76
+- IAU, 0 January 2010, 0h TT North Pole Dec. (degrees): 67.16
+- IAU, 0 January 2010, 0h TT Rotation (deg/day): −1.48
+
+Earth:
+- NASA, J2000.0 Axial tilt (degrees): 23.44
+- NASA, J2000.0 North Pole R.A. (degrees): 0.00
+- NASA, J2000.0 North Pole Dec. (degrees): 90.00
+- NASA, J2000.0 Rotation (hours): 23.93
+- IAU, 0 January 2010, 0h TT Axial tilt (degrees): 23.44
+- IAU, 0 January 2010, 0h TT North Pole R.A. (degrees): undef.
+- IAU, 0 January 2010, 0h TT North Pole Dec. (degrees): 90.00
+- IAU, 0 January 2010, 0h TT Rotation (deg/day): 360.99
+
+Moon:
+- NASA, J2000.0 Axial tilt (degrees): 6.68
+- NASA, J2000.0 North Pole R.A. (degrees): —
+- NASA, J2000.0 North Pole Dec. (degrees): —
+- NASA, J2000.0 Rotation (hours): 655.73
+- IAU, 0 January 2010, 0h TT Axial tilt (degrees): 1.54C
+- IAU, 0 January 2010, 0h TT North Pole R.A. (degrees): 270.00
+- IAU, 0 January 2010, 0h TT North Pole Dec. (degrees): 66.54
+- IAU, 0 January 2010, 0h TT Rotation (deg/day): 13.18
+
+Mars:
+- NASA, J2000.0 Axial tilt (degrees): 25.19
+- NASA, J2000.0 North Pole R.A. (degrees): 317.68
+- NASA, J2000.0 North Pole Dec. (degrees): 52.89
+- NASA, J2000.0 Rotation (hours): 24.62
+- IAU, 0 January 2010, 0h TT Axial tilt (degrees): 25.19
+- IAU, 0 January 2010, 0h TT North Pole R.A. (degrees): 317.67
+- IAU, 0 January 2010, 0h TT North Pole Dec. (degrees): 52.88
+- IAU, 0 January 2010, 0h TT Rotation (deg/day): 350.89
+
+Jupiter:
+- NASA, J2000.0 Axial tilt (degrees): 3.13
+- NASA, J2000.0 North Pole R.A. (degrees): 268.05
+- NASA, J2000.0 North Pole Dec. (degrees): 64.49
+- NASA, J2000.0 Rotation (hours): 9.93D
+- IAU, 0 January 2010, 0h TT Axial tilt (degrees): 3.12
+- IAU, 0 January 2010, 0h TT North Pole R.A. (degrees): 268.06
+- IAU, 0 January 2010, 0h TT North Pole Dec. (degrees): 64.50
+- IAU, 0 January 2010, 0h TT Rotation (deg/day): 870.54D
+
+Saturn:
+- NASA, J2000.0 Axial tilt (degrees): 26.73
+- NASA, J2000.0 North Pole R.A. (degrees): 40.60
+- NASA, J2000.0 North Pole Dec. (degrees): 83.54
+- NASA, J2000.0 Rotation (hours): 10.66D
+- IAU, 0 January 2010, 0h TT Axial tilt (degrees): 26.73
+- IAU, 0 January 2010, 0h TT North Pole R.A. (degrees): 40.59
+- IAU, 0 January 2010, 0h TT North Pole Dec. (degrees): 83.54
+- IAU, 0 January 2010, 0h TT Rotation (deg/day): 810.79D
+
+Uranus:
+- NASA, J2000.0 Axial tilt (degrees): 82.23
+- NASA, J2000.0 North Pole R.A. (degrees): 257.43
+- NASA, J2000.0 North Pole Dec. (degrees): –15.10
+- NASA, J2000.0 Rotation (hours): –17.24D
+- IAU, 0 January 2010, 0h TT Axial tilt (degrees): 82.23
+- IAU, 0 January 2010, 0h TT North Pole R.A. (degrees): 257.31
+- IAU, 0 January 2010, 0h TT North Pole Dec. (degrees): −15.18
+- IAU, 0 January 2010, 0h TT Rotation (deg/day): −501.16D
+
+Neptune:
+- NASA, J2000.0 Axial tilt (degrees): 28.32
+- NASA, J2000.0 North Pole R.A. (degrees): 299.36
+- NASA, J2000.0 North Pole Dec. (degrees): 43.46
+- NASA, J2000.0 Rotation (hours): 16.11D
+- IAU, 0 January 2010, 0h TT Axial tilt (degrees): 28.33
+- IAU, 0 January 2010, 0h TT North Pole R.A. (degrees): 299.40
+- IAU, 0 January 2010, 0h TT North Pole Dec. (degrees): 42.95
+- IAU, 0 January 2010, 0h TT Rotation (deg/day): 536.31D
+
+PlutoE:
+- NASA, J2000.0 Axial tilt (degrees): 57.47
+- NASA, J2000.0 North Pole R.A. (degrees): (312.99)
+- NASA, J2000.0 North Pole Dec. (degrees): (6.16)
+- NASA, J2000.0 Rotation (hours): –153.29
+- IAU, 0 January 2010, 0h TT Axial tilt (degrees): 60.41
+- IAU, 0 January 2010, 0h TT North Pole R.A. (degrees): 312.99
+- IAU, 0 January 2010, 0h TT North Pole Dec. (degrees): 6.16
+- IAU, 0 January 2010, 0h TT Rotation (deg/day): −56.36
+
+A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.:
+- NASA, J2000.0 Axial tilt (degrees): A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.
+- NASA, J2000.0 North Pole R.A. (degrees): A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.
+- NASA, J2000.0 North Pole Dec. (degrees): A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.
+- NASA, J2000.0 Rotation (hours): A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.
+- IAU, 0 January 2010, 0h TT Axial tilt (degrees): A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.
+- IAU, 0 January 2010, 0h TT North Pole R.A. (degrees): A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.
+- IAU, 0 January 2010, 0h TT North Pole Dec. (degrees): A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.
+- IAU, 0 January 2010, 0h TT Rotation (deg/day): A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.
+
 
 
 ## Extrasolar planets
