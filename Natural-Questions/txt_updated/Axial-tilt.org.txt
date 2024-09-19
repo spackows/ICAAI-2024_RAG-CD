@@ -1,0 +1,315 @@
+
+
+# Axial tilt
+
+In astronomy, axial tilt, also known as obliquity, is the angle between an object's rotational axis and its orbital axis, or, equivalently, the angle between its equatorial plane and orbital plane. It differs from orbital inclination.
+
+At an obliquity of zero, the two axes point in the same direction; i.e., the rotational axis is perpendicular to the orbital plane. Earth's obliquity oscillates between 22.1 and 24.5 degrees on a 41,000-year cycle; the earth's mean obliquity is currently 23°26′12.9″ (or 23.43693°) and decreasing.
+
+Over the course of an orbit, the obliquity usually does not change considerably, and the orientation of the axis remains the same relative to the background stars. This causes one pole to be directed more toward the Sun on one side of the orbit, and the other pole on the other side—the cause of the seasons on the Earth.
+
+## Standards
+
+There are two standard methods of specifying tilt. The International Astronomical Union (IAU) defines the north pole of a planet as that which lies on Earth's north side of the invariable plane of the Solar System; under this system, Venus is tilted 3° and spins retrograde, opposite that of most of the other planets.
+
+The IAU also uses the right-hand rule to define a positive pole for the purpose of determining orientation. Using this convention, Venus is tilted 177° ("upside down").
+
+## Earth
+
+Earth's orbital plane is known as the ecliptic plane, and Earth's tilt is known to astronomers as the obliquity of the ecliptic, being the angle between the ecliptic and the celestial equator on the celestial sphere. It is denoted by the Greek letter ε.
+
+Earth currently has an axial tilt of about 23.4°. This value remains about the same relative to a stationary orbital plane throughout the cycles of axial precession. But the ecliptic (i.e., Earth's orbit) moves due to planetary perturbations, and the obliquity of the ecliptic is not a fixed quantity. At present, it is decreasing at a rate of about 47″ per century (see details in Short term below).
+
+### History
+
+Earth's obliquity may have been reasonably accurately measured as early as 1100 BC in India and China. The ancient Greeks had good measurements of the obliquity since about 350 BC, when Pytheas of Marseilles measured the shadow of a gnomon at the summer solstice. About 830 AD, the Caliph Al-Mamun of Baghdad directed his astronomers to measure the obliquity, and the result was used in the Arab world for many years. In 1437, Ulugh Beg determined the Earth's axial tilt as 23°30′17″ (23.5047°).
+
+It was widely believed, during the Middle Ages, that both precession and Earth's obliquity oscillated around a mean value, with a period of 672 years, an idea known as trepidation of the equinoxes. Perhaps the first to realize this was incorrect (during historic time) was Ibn al-Shatir in the fourteenth century and the first to realize that the obliquity is decreasing at a relatively constant rate was Fracastoro in 1538. The first accurate, modern, western observations of the obliquity were probably those of Tycho Brahe from Denmark, about 1584, although observations by several others, including al-Ma'mun, al-Tusi, Purbach, Regiomontanus, and Walther, could have provided similar information.
+
+### Seasons
+
+Earth's axis remains tilted in the same direction with reference to the background stars throughout a year (regardless of where it is in its orbit). This means that one pole (and the associated hemisphere of Earth) will be directed away from the Sun at one side of the orbit, and half an orbit later (half a year later) this pole will be directed towards the Sun. This is the cause of Earth's seasons. Summer occurs in the Northern hemisphere when the north pole is directed toward the Sun. Variations in Earth's axial tilt can influence the seasons and is likely a factor in long-term climate change (also see Milankovitch cycles).
+
+### Oscillation
+
+#### Short term
+
+The exact angular value of the obliquity is found by observation of the motions of Earth and planets over many years. Astronomers produce new fundamental ephemerides as the accuracy of observation improves and as the understanding of the dynamics increases, and from these ephemerides various astronomical values, including the obliquity, are derived.
+
+Annual almanacs are published listing the derived values and methods of use. Until 1983, the Astronomical Almanac's angular value of the mean obliquity for any date was calculated based on the work of Newcomb, who analyzed positions of the planets until about 1895:
+ε = 23° 27′ 8.26″ − 46.845″ T − 0.0059″ T2 + 0.00181″ T3
+
+where ε is the obliquity and T is tropical centuries from B1900.0 to the date in question.
+
+From 1984, the Jet Propulsion Laboratory's DE series of computer-generated ephemerides took over as the fundamental ephemeris of the Astronomical Almanac. Obliquity based on DE200, which analyzed observations from 1911 to 1979, was calculated:
+ε = 23° 26′ 21.45″ − 46.815″ T − 0.0006″ T2 + 0.00181″ T3
+
+where hereafter T is Julian centuries from J2000.0.
+
+JPL's fundamental ephemerides have been continually updated. For instance, the Astronomical Almanac for 2010 specifies:
+ε = 23° 26′ 21.406″ − 46.836769″ T − 0.0001831″ T2 + 0.00200340″ T3 − 5.76″ × 10−7 T4 − 4.34″ × 10−8 T5
+
+These expressions for the obliquity are intended for high precision over a relatively short time span, perhaps ± several centuries. J. Laskar computed an expression to order T10 good to 0.02″ over 1000 years and several arcseconds over 10,000 years.
+ε = 23° 26′ 21.448″ − 4680.93″ t − 1.55″ t2 + 1999.25″ t3 − 51.38″ t4 − 249.67″ t5 − 39.05″ t6 + 7.12″ t7 + 27.87″ t8 + 5.79″ t9 + 2.45″ t10
+
+where here t is multiples of 10,000 Julian years from J2000.0.
+
+These expressions are for the so-called mean obliquity, that is, the obliquity free from short-term variations. Periodic motions of the Moon and of Earth in its orbit cause much smaller (9.2 arcseconds) short-period (about 18.6 years) oscillations of the rotation axis of Earth, known as nutation, which add a periodic component to Earth's obliquity. The true or instantaneous obliquity includes this nutation.
+
+#### Long term
+
+Using numerical methods to simulate Solar System behavior, long-term changes in Earth's orbit, and hence its obliquity, have been investigated over a period of several million years. For the past 5 million years, Earth's obliquity has varied between 22° 2′ 33″ and 24° 30′ 16″, with a mean period of 41,040 years. This cycle is a combination of precession and the largest term in the motion of the ecliptic. For the next 1 million years, the cycle will carry the obliquity between 22° 13′ 44″ and 24° 20′ 50″.
+
+The Moon has a stabilizing effect on Earth's obliquity. Frequency map analysis conducted in 1993 suggested that, in the absence of the Moon, the obliquity can change rapidly due to orbital resonances and chaotic behavior of the Solar System, reaching as high as 90° in as little as a few million years (also see Orbit of the Moon). However, more recent numerical simulations made in 2011 indicated that even in the absence of the Moon, Earth's obliquity might not be quite so unstable; varying only by about 20–25°. To resolve this contradiction, diffusion rate of obliquity has been calculated, and it was found that it takes more than billions of years for Earth's obliquity to reach near 90° . The Moon's stabilizing effect will continue for less than 2 billion years. As the Moon continues to recede from Earth due to tidal acceleration, resonances may occur which will cause large oscillations of the obliquity.
+
+## Solar System bodies
+
+All four of the innermost, rocky planets of the Solar System may have had large variations of their obliquity in the past. Since obliquity is the angle between the axis of rotation and the direction perpendicular to the orbital plane, it changes as the orbital plane changes due to the influence of other planets. But the axis of rotation can also move (axial precession), due to torque exerted by the sun on a planet's equatorial bulge. Like Earth, all of the rocky planets show axial precession. If the precession rate were very fast the obliquity would actually remain fairly constant even as the orbital plane changes. The rate varies due to tidal dissipation and core-mantle interaction, among other things. When a planet's precession rate approaches certain values, orbital resonances may cause large changes in obliquity. The amplitude of the contribution having one of the resonant rates is divided by the difference between the resonant rate and the precession rate, so it becomes large when the two are similar. Mercury and Venus have most likely been stabilized by the tidal dissipation of the Sun. Earth was stabilized by the Moon, as mentioned above, but before its capture, Earth, too, could have passed through times of instability. Mars's obliquity is quite variable over millions of years and may be in a chaotic state; it varies as much as 0° to 60° over some millions of years, depending on perturbations of the planets. Some authors dispute that Mars's obliquity is chaotic, and show that tidal dissipation and viscous core-mantle coupling are adequate for it to have reached a fully damped state, similar to Mercury and Venus. The occasional shifts in the axial tilt of Mars have been suggested as an explanation for the appearance and disappearance of rivers and lakes over the course of the existence of Mars. A shift could cause a burst of methane into the atmosphere, causing warming, but then the methane would be destroyed and the climate would become arid again.
+
+The obliquities of the outer planets are considered relatively stable.
+
+### Axis and rotation of selected Solar System bodies:
+
+NASA, J2000.0 Axial tilt (degrees):
+- ( Body ) Sun: 7.25
+- ( Body ) Mercury: 0.03
+- ( Body ) Venus: 2.64
+- ( Body ) Earth: 23.44
+- ( Body ) Moon: 6.68
+- ( Body ) Mars: 25.19
+- ( Body ) Jupiter: 3.13
+- ( Body ) Saturn: 26.73
+- ( Body ) Uranus: 82.23
+- ( Body ) Neptune: 28.32
+- ( Body ) PlutoE: 57.47
+- ( Body ) A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.: A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.
+
+NASA, J2000.0 North Pole R.A. (degrees):
+- ( Body ) Sun: 286.13
+- ( Body ) Mercury: 281.01
+- ( Body ) Venus: 272.76
+- ( Body ) Earth: 0.00
+- ( Body ) Moon: —
+- ( Body ) Mars: 317.68
+- ( Body ) Jupiter: 268.05
+- ( Body ) Saturn: 40.60
+- ( Body ) Uranus: 257.43
+- ( Body ) Neptune: 299.36
+- ( Body ) PlutoE: (312.99)
+- ( Body ) A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.: A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.
+
+NASA, J2000.0 North Pole Dec. (degrees):
+- ( Body ) Sun: 63.87
+- ( Body ) Mercury: 61.42
+- ( Body ) Venus: 67.16
+- ( Body ) Earth: 90.00
+- ( Body ) Moon: —
+- ( Body ) Mars: 52.89
+- ( Body ) Jupiter: 64.49
+- ( Body ) Saturn: 83.54
+- ( Body ) Uranus: –15.10
+- ( Body ) Neptune: 43.46
+- ( Body ) PlutoE: (6.16)
+- ( Body ) A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.: A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.
+
+NASA, J2000.0 Rotation (hours):
+- ( Body ) Sun: 609.12B
+- ( Body ) Mercury: 1407.6
+- ( Body ) Venus: –5832.6
+- ( Body ) Earth: 23.93
+- ( Body ) Moon: 655.73
+- ( Body ) Mars: 24.62
+- ( Body ) Jupiter: 9.93D
+- ( Body ) Saturn: 10.66D
+- ( Body ) Uranus: –17.24D
+- ( Body ) Neptune: 16.11D
+- ( Body ) PlutoE: –153.29
+- ( Body ) A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.: A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.
+
+IAU, 0 January 2010, 0h TT Axial tilt (degrees):
+- ( Body ) Sun: 7.25A
+- ( Body ) Mercury: 0.01
+- ( Body ) Venus: 2.64
+- ( Body ) Earth: 23.44
+- ( Body ) Moon: 1.54C
+- ( Body ) Mars: 25.19
+- ( Body ) Jupiter: 3.12
+- ( Body ) Saturn: 26.73
+- ( Body ) Uranus: 82.23
+- ( Body ) Neptune: 28.33
+- ( Body ) PlutoE: 60.41
+- ( Body ) A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.: A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.
+
+IAU, 0 January 2010, 0h TT North Pole R.A. (degrees):
+- ( Body ) Sun: 286.15
+- ( Body ) Mercury: 281.01
+- ( Body ) Venus: 272.76
+- ( Body ) Earth: undef.
+- ( Body ) Moon: 270.00
+- ( Body ) Mars: 317.67
+- ( Body ) Jupiter: 268.06
+- ( Body ) Saturn: 40.59
+- ( Body ) Uranus: 257.31
+- ( Body ) Neptune: 299.40
+- ( Body ) PlutoE: 312.99
+- ( Body ) A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.: A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.
+
+IAU, 0 January 2010, 0h TT North Pole Dec. (degrees):
+- ( Body ) Sun: 63.89
+- ( Body ) Mercury: 61.45
+- ( Body ) Venus: 67.16
+- ( Body ) Earth: 90.00
+- ( Body ) Moon: 66.54
+- ( Body ) Mars: 52.88
+- ( Body ) Jupiter: 64.50
+- ( Body ) Saturn: 83.54
+- ( Body ) Uranus: −15.18
+- ( Body ) Neptune: 42.95
+- ( Body ) PlutoE: 6.16
+- ( Body ) A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.: A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.
+
+IAU, 0 January 2010, 0h TT Rotation (deg/day):
+- ( Body ) Sun: 
+- ( Body ) Mercury: 6.14
+- ( Body ) Venus: −1.48
+- ( Body ) Earth: 360.99
+- ( Body ) Moon: 13.18
+- ( Body ) Mars: 350.89
+- ( Body ) Jupiter: 870.54D
+- ( Body ) Saturn: 810.79D
+- ( Body ) Uranus: −501.16D
+- ( Body ) Neptune: 536.31D
+- ( Body ) PlutoE: −56.36
+- ( Body ) A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.: A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.
+
+
+
+### Axis and rotation of selected Solar System bodies:
+
+Sun:
+- NASA, J2000.0 Axial tilt (degrees): 7.25
+- NASA, J2000.0 North Pole R.A. (degrees): 286.13
+- NASA, J2000.0 North Pole Dec. (degrees): 63.87
+- NASA, J2000.0 Rotation (hours): 609.12B
+- IAU, 0 January 2010, 0h TT Axial tilt (degrees): 7.25A
+- IAU, 0 January 2010, 0h TT North Pole R.A. (degrees): 286.15
+- IAU, 0 January 2010, 0h TT North Pole Dec. (degrees): 63.89
+- IAU, 0 January 2010, 0h TT Rotation (deg/day): 
+
+Mercury:
+- NASA, J2000.0 Axial tilt (degrees): 0.03
+- NASA, J2000.0 North Pole R.A. (degrees): 281.01
+- NASA, J2000.0 North Pole Dec. (degrees): 61.42
+- NASA, J2000.0 Rotation (hours): 1407.6
+- IAU, 0 January 2010, 0h TT Axial tilt (degrees): 0.01
+- IAU, 0 January 2010, 0h TT North Pole R.A. (degrees): 281.01
+- IAU, 0 January 2010, 0h TT North Pole Dec. (degrees): 61.45
+- IAU, 0 January 2010, 0h TT Rotation (deg/day): 6.14
+
+Venus:
+- NASA, J2000.0 Axial tilt (degrees): 2.64
+- NASA, J2000.0 North Pole R.A. (degrees): 272.76
+- NASA, J2000.0 North Pole Dec. (degrees): 67.16
+- NASA, J2000.0 Rotation (hours): –5832.6
+- IAU, 0 January 2010, 0h TT Axial tilt (degrees): 2.64
+- IAU, 0 January 2010, 0h TT North Pole R.A. (degrees): 272.76
+- IAU, 0 January 2010, 0h TT North Pole Dec. (degrees): 67.16
+- IAU, 0 January 2010, 0h TT Rotation (deg/day): −1.48
+
+Earth:
+- NASA, J2000.0 Axial tilt (degrees): 23.44
+- NASA, J2000.0 North Pole R.A. (degrees): 0.00
+- NASA, J2000.0 North Pole Dec. (degrees): 90.00
+- NASA, J2000.0 Rotation (hours): 23.93
+- IAU, 0 January 2010, 0h TT Axial tilt (degrees): 23.44
+- IAU, 0 January 2010, 0h TT North Pole R.A. (degrees): undef.
+- IAU, 0 January 2010, 0h TT North Pole Dec. (degrees): 90.00
+- IAU, 0 January 2010, 0h TT Rotation (deg/day): 360.99
+
+Moon:
+- NASA, J2000.0 Axial tilt (degrees): 6.68
+- NASA, J2000.0 North Pole R.A. (degrees): —
+- NASA, J2000.0 North Pole Dec. (degrees): —
+- NASA, J2000.0 Rotation (hours): 655.73
+- IAU, 0 January 2010, 0h TT Axial tilt (degrees): 1.54C
+- IAU, 0 January 2010, 0h TT North Pole R.A. (degrees): 270.00
+- IAU, 0 January 2010, 0h TT North Pole Dec. (degrees): 66.54
+- IAU, 0 January 2010, 0h TT Rotation (deg/day): 13.18
+
+Mars:
+- NASA, J2000.0 Axial tilt (degrees): 25.19
+- NASA, J2000.0 North Pole R.A. (degrees): 317.68
+- NASA, J2000.0 North Pole Dec. (degrees): 52.89
+- NASA, J2000.0 Rotation (hours): 24.62
+- IAU, 0 January 2010, 0h TT Axial tilt (degrees): 25.19
+- IAU, 0 January 2010, 0h TT North Pole R.A. (degrees): 317.67
+- IAU, 0 January 2010, 0h TT North Pole Dec. (degrees): 52.88
+- IAU, 0 January 2010, 0h TT Rotation (deg/day): 350.89
+
+Jupiter:
+- NASA, J2000.0 Axial tilt (degrees): 3.13
+- NASA, J2000.0 North Pole R.A. (degrees): 268.05
+- NASA, J2000.0 North Pole Dec. (degrees): 64.49
+- NASA, J2000.0 Rotation (hours): 9.93D
+- IAU, 0 January 2010, 0h TT Axial tilt (degrees): 3.12
+- IAU, 0 January 2010, 0h TT North Pole R.A. (degrees): 268.06
+- IAU, 0 January 2010, 0h TT North Pole Dec. (degrees): 64.50
+- IAU, 0 January 2010, 0h TT Rotation (deg/day): 870.54D
+
+Saturn:
+- NASA, J2000.0 Axial tilt (degrees): 26.73
+- NASA, J2000.0 North Pole R.A. (degrees): 40.60
+- NASA, J2000.0 North Pole Dec. (degrees): 83.54
+- NASA, J2000.0 Rotation (hours): 10.66D
+- IAU, 0 January 2010, 0h TT Axial tilt (degrees): 26.73
+- IAU, 0 January 2010, 0h TT North Pole R.A. (degrees): 40.59
+- IAU, 0 January 2010, 0h TT North Pole Dec. (degrees): 83.54
+- IAU, 0 January 2010, 0h TT Rotation (deg/day): 810.79D
+
+Uranus:
+- NASA, J2000.0 Axial tilt (degrees): 82.23
+- NASA, J2000.0 North Pole R.A. (degrees): 257.43
+- NASA, J2000.0 North Pole Dec. (degrees): –15.10
+- NASA, J2000.0 Rotation (hours): –17.24D
+- IAU, 0 January 2010, 0h TT Axial tilt (degrees): 82.23
+- IAU, 0 January 2010, 0h TT North Pole R.A. (degrees): 257.31
+- IAU, 0 January 2010, 0h TT North Pole Dec. (degrees): −15.18
+- IAU, 0 January 2010, 0h TT Rotation (deg/day): −501.16D
+
+Neptune:
+- NASA, J2000.0 Axial tilt (degrees): 28.32
+- NASA, J2000.0 North Pole R.A. (degrees): 299.36
+- NASA, J2000.0 North Pole Dec. (degrees): 43.46
+- NASA, J2000.0 Rotation (hours): 16.11D
+- IAU, 0 January 2010, 0h TT Axial tilt (degrees): 28.33
+- IAU, 0 January 2010, 0h TT North Pole R.A. (degrees): 299.40
+- IAU, 0 January 2010, 0h TT North Pole Dec. (degrees): 42.95
+- IAU, 0 January 2010, 0h TT Rotation (deg/day): 536.31D
+
+PlutoE:
+- NASA, J2000.0 Axial tilt (degrees): 57.47
+- NASA, J2000.0 North Pole R.A. (degrees): (312.99)
+- NASA, J2000.0 North Pole Dec. (degrees): (6.16)
+- NASA, J2000.0 Rotation (hours): –153.29
+- IAU, 0 January 2010, 0h TT Axial tilt (degrees): 60.41
+- IAU, 0 January 2010, 0h TT North Pole R.A. (degrees): 312.99
+- IAU, 0 January 2010, 0h TT North Pole Dec. (degrees): 6.16
+- IAU, 0 January 2010, 0h TT Rotation (deg/day): −56.36
+
+A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.:
+- NASA, J2000.0 Axial tilt (degrees): A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.
+- NASA, J2000.0 North Pole R.A. (degrees): A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.
+- NASA, J2000.0 North Pole Dec. (degrees): A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.
+- NASA, J2000.0 Rotation (hours): A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.
+- IAU, 0 January 2010, 0h TT Axial tilt (degrees): A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.
+- IAU, 0 January 2010, 0h TT North Pole R.A. (degrees): A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.
+- IAU, 0 January 2010, 0h TT North Pole Dec. (degrees): A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.
+- IAU, 0 January 2010, 0h TT Rotation (deg/day): A with respect to the ecliptic of 1850 B at 16° latitude; the Sun's rotation varies with latitude C with respect to the ecliptic; the Moon's orbit is inclined 5.16° to the ecliptic D from the origin of the radio emissions; the visible clouds generally rotate at different rate E NASA lists the coordinates of Pluto's positive pole; values in (parentheses) have been reinterpreted to correspond to the north/negative pole.
+
+
+
+## Extrasolar planets
+
+The stellar obliquity ψs, i.e. the axial tilt of a star with respect to the orbital plane of one of its planets, has been determined for only a few systems. But for 49 stars as of today, the sky-projected spin-orbit misalignment λ has been observed, which serves as a lower limit to ψs. Most of these measurements rely on the Rossiter–McLaughlin effect. So far, it has not been possible to constrain the obliquity of an extrasolar planet. But the rotational flattening of the planet and the entourage of moons and/or rings, which are traceable with high-precision photometry, e.g. by the space-based Kepler spacecraft, could provide access to ψp in the near future.
+
+Astrophysicists have applied tidal theories to predict the obliquity of extrasolar planets. It has been shown that the obliquities of exoplanets in the habitable zone around low-mass stars tend to be eroded in less than 109 years, which means that they would not have seasons as Earth has.
