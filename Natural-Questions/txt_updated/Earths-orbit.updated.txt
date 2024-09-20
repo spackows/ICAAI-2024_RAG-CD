@@ -2,11 +2,7 @@
 
 # Earth's orbit
 
-Earth's orbit is the trajectory along which Earth travels around the Sun. The shape of Earth's orbit is an ellipse.  The average distance between the Earth and the Sun is 149.60 million km (92.96 million mi). One complete orbit takes 365.256 days (1 sidereal year). The Earth's orbit around the sun is a distance of 940 million km (584 million mi) with the Earth travellign 29.78 km in a second. Earth's orbit has an eccentricity of 0.0167.
-
-As seen from Earth, the planet's orbital prograde motion makes the Sun appear to move with respect to other stars at a rate of about 1° (or a Sun or Moon diameter every 12 hours) eastward per solar day.[nb 1] Earth's orbital speed averages about 30 km/s (108,000 km/h; 67,000 mph), which is fast enough to cover the planet's diameter in 7 minutes and the distance to the Moon in 4 hours.
-
-From a vantage point above the north pole of either the Sun or Earth, Earth would appear to revolve in a counterclockwise direction (rotation) around the Sun. From the same vantage point, both the Earth and the Sun would appear to rotate also in a counterclockwise direction about their respective axes.
+Earth's orbit is the trajectory along which Earth travels around the Sun. The shape of Earth's orbit is an ellipse with an eccentricity of 0.0167. On average, the radius of Earth's orbit is 149.60 million km (92.96 million mi) and the diameter is 292 million km (185.92 million mi). The distance the Earth travels around the sun is 940 million km (584 million mi). One complete orbit takes 365.256 days (1 sidereal year) with the Earth traveling 29.78 km in a second (108,000 km/h; 67,000 mph). That is fast enough to cover the planet's diameter in 7 minutes and the distance to the Moon in 4 hours. From a vantage point above the north pole of either the Sun or Earth, Earth would appear to revolve in a counterclockwise direction (rotation) around the Sun.
 
 ## History of study
 
