@@ -48,7 +48,7 @@ The crust of the Earth is of two distinctive types:
 
 Because both continental and oceanic crust are less dense than the mantle below, both types of crust "float" on the mantle. This is isostasy, and it's also one of the reasons continental crust is higher than oceanic: continental is less dense and so "floats" higher. As a result, water pools in above the oceanic crust, forming the oceans.
 
-The temperature of the crust increases with depth, reaching values typically in the range from about 200 °C (392 °F) to 400 °C (752 °F) at the boundary with the underlying mantle. The temperature increases by as much as 30 °C (54 °F) for every kilometer locally in the upper part of the crust, but the geothermal gradient is smaller in deeper crust.
+The average temperature of the crust ranges from about 200 °C (392 °F) to 400 °C (752 °F).  The temperature of the crust increasig with depth, increasing by as much as 30 °C (54 °F) for every kilometer locally in the upper part of the crust, but the geothermal gradient is smaller in deeper crust.
 
 ### Composition of Earth's crust
 
