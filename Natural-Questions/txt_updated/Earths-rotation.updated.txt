@@ -2,7 +2,7 @@
 
 # Earth's rotation
 
-Earth's rotation is the rotation of Planet Earth around its own axis. Earth rotates eastward, in prograde motion. As viewed from the north pole star Polaris, Earth turns counter clockwise.
+Earth's rotation is the rotation of Planet Earth around its own axis. Earth rotates eastward, in prograde motion. As viewed from the north pole star, Polaris, Earth turns counter clockwise around its axis and its rotation around the sun is also counter clockwise.
 
 The North Pole, also known as the Geographic North Pole or Terrestrial North Pole, is the point in the Northern Hemisphere where Earth's axis of rotation meets its surface. This point is distinct from Earth's North Magnetic Pole. The South Pole is the other point where Earth's axis of rotation intersects its surface, in Antarctica.
 
