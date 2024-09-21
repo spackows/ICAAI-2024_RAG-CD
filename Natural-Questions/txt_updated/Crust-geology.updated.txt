@@ -38,7 +38,7 @@ The only known example of tertiary crust is the continental crust of the Earth. 
 
 ### Structure of Earth's crust
 
-The crust is a thin shell on the outside of the Earth. By volume, less than 1 percentage of the Earth is crust. It is the top component of lithosphere: a division of Earth's layers that includes the crust and the upper part of the mantle. The lithosphere is broken into tectonic plates that move, allowing heat to escape from the interior of the Earth into space.
+The crust is a thin shell on the outside of the Earth. It is the top component of lithosphere: a division of Earth's layers that includes the crust and the upper part of the mantle. The lithosphere is broken into tectonic plates that move, allowing heat to escape from the interior of the Earth into space.
 
 The crust lies on top of the mantle, a configuration that is stable because the upper mantle is made of peridotite and so is significantly denser than the crust. The boundary between the crust and mantle is conventionally placed at the Mohorovičić discontinuity, a boundary defined by a contrast in seismic velocity.
 
@@ -54,7 +54,7 @@ The average temperature of the crust ranges from about 200 °C (392 °F) to 400 
 
 ### Composition of Earth's crust
 
-The Earth's continental crust has an average composition similar to that of andesite. The most abundant minerals in Earth's continental crust are feldspars, which make up about 41% of the crust by weight, followed by quartz at 12%, and pyroxenes at 11%. Continental crust is enriched in incompatible elements compared to the basaltic ocean crust and much enriched compared to the underlying mantle. Although the continental crust comprises only about 0.6 weight percent of the silicate on Earth, it contains 20% to 70% of the incompatible elements.
+The Earth's continental crust has an average composition similar to that of andesite. The most abundant minerals in Earth's continental crust are feldspars, which make up about 41% of the crust by weight, followed by quartz at 12%, and pyroxenes at 11%. Continental crust is enriched in incompatible elements compared to the basaltic ocean crust and much enriched compared to the underlying mantle. The continental crust comprises only about 0.6 weight percent of the silicate on Earth, but it contains 20% to 70% of the incompatible elements - even though, by volume, less than 1 percentage of the Earth is crust.
 
 Approximate % by weight:
 - ( Most Abundant Elements of Earth's Crust ) O (non-metal): 46.6
