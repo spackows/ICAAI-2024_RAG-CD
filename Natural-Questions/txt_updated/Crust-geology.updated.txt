@@ -56,85 +56,38 @@ The average temperature of the crust ranges from about 200 °C (392 °F) to 400 
 
 The Earth's continental crust has an average composition similar to that of andesite. The most abundant minerals in Earth's continental crust are feldspars, which make up about 41% of the crust by weight, followed by quartz at 12%, and pyroxenes at 11%. Continental crust is enriched in incompatible elements compared to the basaltic ocean crust and much enriched compared to the underlying mantle. The continental crust comprises only about 0.6 weight percent of the silicate on Earth, but it contains 20% to 70% of the incompatible elements - even though, by volume, less than 1% of the Earth is crust.
 
-Approximate % by weight:
-- ( Most Abundant Elements of Earth's Crust ) O (non-metal): 46.6
-- ( Most Abundant Elements of Earth's Crust ) Si (non-metal): 27.7
-- ( Most Abundant Elements of Earth's Crust ) Al (metal): 8.1
-- ( Most Abundant Elements of Earth's Crust ) Fe (metal): 5.0
-- ( Most Abundant Elements of Earth's Crust ) Ca (metal): 3.6
-- ( Most Abundant Elements of Earth's Crust ) Na (metal): 2.8
-- ( Most Abundant Elements of Earth's Crust ) K (metal): 2.6
-- ( Most Abundant Elements of Earth's Crust ) Mg (metal): 1.5
+Most abundant elements of Earth's crust (approximate % by weight):
+- O: 46.6% 
+- Si: 27.7%
+- Al: 8.1%
+- Fe: 5.0% 
+- Ca: 3.6% 
+- Na: 2.8% 
+- K: 2.6% 
+- Mg: 1.5% 
 
+Most abundant metals of Earth's crust (approximate % by weight):
+- Al: 8.1%
+- Fe: 5.0% 
+- Ca: 3.6% 
+- Na: 2.8% 
+- K: 2.6% 
+- Mg: 1.5% 
 
+Most abundant non-metals of Earth's crust (approximate % by weight):
+- O: 46.6% 
+- Si: 27.7%
 
-O (non-metal):
-- Approximate % by weight: 46.6
-
-Si (non-metal):
-- Approximate % by weight: 27.7
-
-Al (metal):
-- Approximate % by weight: 8.1
-
-Fe (metal):
-- Approximate % by weight: 5.0
-
-Ca (metal):
-- Approximate % by weight: 3.6
-
-Na (metal):
-- Approximate % by weight: 2.8
-
-K (metal):
-- Approximate % by weight: 2.6
-
-Mg (metal):
-- Approximate % by weight: 1.5
-
-
-
-Percent:
-- ( Oxide ) SiO2: 60.6
-- ( Oxide ) Al2O3: 15.9
-- ( Oxide ) CaO: 6.4
-- ( Oxide ) MgO: 4.7
-- ( Oxide ) Na2O: 3.1
-- ( Oxide ) Fe as FeO: 6.7
-- ( Oxide ) K2O: 1.8
-- ( Oxide ) TiO2: 0.7
-- ( Oxide ) P2O5: 0.1
-
-
-
-SiO2:
-- Percent: 60.6
-
-Al2O3:
-- Percent: 15.9
-
-CaO:
-- Percent: 6.4
-
-MgO:
-- Percent: 4.7
-
-Na2O:
-- Percent: 3.1
-
-Fe as FeO:
-- Percent: 6.7
-
-K2O:
-- Percent: 1.8
-
-TiO2:
-- Percent: 0.7
-
-P2O5:
-- Percent: 0.1
-
-
+Most abundant oxides of Earth's crust (approximate % by weight):
+- SiO2: 60.6% 
+- Al2O3: 15.9% 
+- CaO: 6.4% 
+- MgO: 4.7% 
+- Na2O: 3.1% 
+- Fe as FeO: 6.7% 
+- K2O: 1.8% 
+- TiO2: 0.7% 
+- P2O5: 0.1% 
 
 All the other constituents except water occur only in very small quantities and total less than 1%. Estimates of average density for the upper crust range between 2.69 and 2.74 g/cm3 and for lower crust between 3.0 and 3.25 g/cm3.
 
