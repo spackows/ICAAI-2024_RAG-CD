@@ -42,7 +42,7 @@ The crust is a thin shell on the outside of the Earth. It is the top component o
 
 The crust lies on top of the mantle, a configuration that is stable because the upper mantle is made of peridotite and so is significantly denser than the crust. The boundary between the crust and mantle is conventionally placed at the Mohorovičić discontinuity, a boundary defined by a contrast in seismic velocity.
 
-The Earth's crust has two distinct types and what can be found in them are different:
+The Earth's crust has two distinct types and what is found in the Earth's crust depends on crust type:
 1. Oceanic: 5 km (3 mi) to 10 km (6 mi) thick and composed primarily of denser, more mafic rocks, such as basalt, diabase, and gabbro.
 2. Continental: 30 km (20 mi) to 50 km (30 mi) thick and mostly composed of less dense, more felsic rocks, such as granite.
 
