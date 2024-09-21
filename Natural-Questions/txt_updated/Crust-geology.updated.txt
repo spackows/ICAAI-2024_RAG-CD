@@ -54,7 +54,7 @@ The average temperature of the crust ranges from about 200 °C (392 °F) to 400 
 
 ### Composition of Earth's crust
 
-The Earth's continental crust has an average composition similar to that of andesite. The most abundant minerals in Earth's continental crust are feldspars, which make up about 41% of the crust by weight, followed by quartz at 12%, and pyroxenes at 11%. Continental crust is enriched in incompatible elements compared to the basaltic ocean crust and much enriched compared to the underlying mantle. The continental crust comprises only about 0.6 weight percent of the silicate on Earth, but it contains 20% to 70% of the incompatible elements - even though, by volume, less than 1 percentage of the Earth is crust.
+The Earth's continental crust has an average composition similar to that of andesite. The most abundant minerals in Earth's continental crust are feldspars, which make up about 41% of the crust by weight, followed by quartz at 12%, and pyroxenes at 11%. Continental crust is enriched in incompatible elements compared to the basaltic ocean crust and much enriched compared to the underlying mantle. The continental crust comprises only about 0.6 weight percent of the silicate on Earth, but it contains 20% to 70% of the incompatible elements - even though, by volume, less than 1% of the Earth is crust.
 
 Approximate % by weight:
 - ( Most Abundant Elements of Earth's Crust ) O (non-metal): 46.6
