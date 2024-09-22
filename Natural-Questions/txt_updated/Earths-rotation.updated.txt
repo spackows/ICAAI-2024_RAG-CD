@@ -24,19 +24,6 @@ In medieval Europe, Thomas Aquinas accepted Aristotle's view and so, reluctantly
 
 Tycho Brahe, who produced accurate observations on which Kepler based his laws, used Copernicus's work as the basis of a system assuming a stationary earth. In 1600, William Gilbert strongly supported the earth's rotation in his treatise on the earth's magnetism and thereby influenced many of his contemporaries. Those like Gilbert who did not openly support or reject the motion of the earth about the sun are often called "semi-Copernicans". A century after Copernicus, Riccioli disputed the model of a rotating earth due to the lack of then-observable eastward deflections in falling bodies; such deflections would later be called the Coriolis effect. However, the contributions of Kepler, Galileo and Newton gathered support for the theory of the rotation of the Earth.
 
-### Timeline
-- 470 BCE: Philolaus proposed a counter-earth rotating daily about a central fire
-- 400 BCE: Aristotle established the idea of a sphere of fixed stars that rotated about the earth
-- 400 BCE: Hicetas, Heraclides and Ecphantus assumed that the earth rotated but did not suggest that the earth revolved about the sun
-- 300 BCE: Aristarchus of Samos suggested the sun's central place
-- 200 CE: Claudius Ptolemy thought the earth would be devastated by gales if it rotated
-- 499 CE: Aryabhata wrote that the spherical earth rotates about its axis daily
-- 1020 CE: Abu Sa'id al-Sijzi invented an astrolabe called al-zūraqī
-- 1201 CE: Tusi discussed the Earth's rotation
-- 1403 CE: Qushji discussed the Earth's rotation
-- 1543 CE: Nicolaus Copernicus adopted a heliocentric world system
-- 1600 CE: William Gilbert strongly supported the earth's rotation
-
 ### Empirical tests
 
 The earth's rotation implies that the equator bulges and the poles are flattened. In his Principia, Newton predicted this flattening would occur in the ratio of 1:230, and pointed to the 1673 pendulum measurements by Richer as corroboration of the change in gravity, but initial measurements of meridian lengths by Picard and Cassini at the end of the 17th century suggested the opposite. However measurements by Maupertuis and the French Geodesic Mission in the 1730s established the flattening, thus confirming both Newton and the Copernican position.

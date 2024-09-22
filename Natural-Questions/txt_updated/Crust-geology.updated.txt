@@ -38,7 +38,7 @@ The only known example of tertiary crust is the continental crust of the Earth. 
 
 ### Structure of Earth's crust
 
-The crust is a thin shell on the outside of the Earth. It is the top component of lithosphere: a division of Earth's layers that includes the crust and the upper part of the mantle. The lithosphere is broken into tectonic plates that move, allowing heat to escape from the interior of the Earth into space.
+The crust is a thin shell on the outside of the Earth, accounting for less than 1% of Earth's volume. It is the top component of lithosphere: a division of Earth's layers that includes the crust and the upper part of the mantle. The lithosphere is broken into tectonic plates that move, allowing heat to escape from the interior of the Earth into space.
 
 The crust lies on top of the mantle, a configuration that is stable because the upper mantle is made of peridotite and so is significantly denser than the crust. The boundary between the crust and mantle is conventionally placed at the Mohorovičić discontinuity, a boundary defined by a contrast in seismic velocity.
 
