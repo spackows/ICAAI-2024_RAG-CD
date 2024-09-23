@@ -10,7 +10,7 @@ To demonstrate the impact how knowledge base content is written has on RAG solut
 
 **Quick links:**
 - [How we collected the sample questions](collecting-questions.md)
-- [Article quick reference](collecting-questions#article-quick-reference)
+- [Article quick reference](collecting-questions.md#article-quick-reference)
 - [Notebook for extracting text from article HTML](../notebooks/10_html-text.ipynb)
 - [HTML tables deep dive](table-processing.md)
 - [Notebook with our simple RAG solution](../notebooks/11_answer-natural-questions.ipynb)
