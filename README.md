@@ -14,7 +14,7 @@ https://www.icaai.org
 **Quick links:**
 - [Paper](#paper)
 - [Content rewriting experiment](Natural-Questions/README.md)
-- [Sample notebooks](sample-notebooks)
+- [Sample notebooks](#sample-notebooks)
 
 <p>&nbsp;</p>
 
