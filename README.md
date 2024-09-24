@@ -27,6 +27,13 @@ https://www.icaai.org
 <p>&nbsp;</p>
 
 ## Sample notebooks
+These sample notebooks demonstrate the ideas described in the paper above.
+
+**Running these notebooks**
+- These notebooks can run in the notebook editor of [IBM watsonx.ai](https://www.ibm.com/products/watsonx-ai)
+- Notebooks 1 - 10 can run on the smallest run-time environment
+- Notebook 11 requires one of the larger environments
+
 <table>
 <tr>
 <th valign="top">Notebook</th>
