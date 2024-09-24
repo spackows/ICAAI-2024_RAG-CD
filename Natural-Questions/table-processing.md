@@ -1,4 +1,116 @@
-# Table processing examples
+# Table processing deep dive
+
+**Quick linksS**
+- [Our approach](#our-approach)
+- [Content strategy](#content-strategy)
+- [Tables in the Natural Questions articles](#tables-in-the-sample-natural-questions-articles)
+
+<p>&nbsp;</p>
+
+
+## Our approach
+
+When converting HTML to plain text for retrieval-augmented generation (RAG) solutions, extracting information from tables can be challenging.
+
+Our team takes the following approach with HTML tables: Convert the table to column-wise lists and row-wise lists.
+
+**Example**
+
+Imagine you have the following table:
+<table>
+<caption>Company X employees</caption>
+<tr>
+<th>Employee name</th>
+<th>Employee ID</th>
+<th>Department</th>
+<th>Salary (US $)</th>
+</tr>
+<tr>
+<td valign="top">Joe Smith</td>
+<td valign="top">123456</td>
+<td valign="top">Catering</td>
+<td valign="top">50,000</td>
+</tr>
+<tr>
+<td valign="top">Alex Babich</td>
+<td valign="top">789012</td>
+<td valign="top">Reception</td>
+<td valign="top">48,000</td>
+</tr>
+<tr>
+<td valign="top">Sam Kelly</td>
+<td valign="top">345678</td>
+<td valign="top">Sales</td>
+<td valign="top">53,000</td>
+</tr>
+</table>
+
+Our approach would convert this example table to the following lists:
+
+```
+### Company X employees
+
+Employee ID:
+- ( Employee name ) Joe Smith: 123456
+- ( Employee name ) Alex Babich: 789012
+- ( Employee name ) Sam Kelly: 345678
+
+Department
+- ( Employee name ) Joe Smith: Catering
+- ( Employee name ) Alex Babich: Reception
+- ( Employee name ) Sam Kelly: Sales
+
+Salary (US $)
+- ( Employee name ) Joe Smith: 50,000
+- ( Employee name ) Alex Babich: 48,000
+- ( Employee name ) Sam Kelly: 53,000
+
+### Company X employees
+
+Joe Smith:
+- Employee ID: 123456
+- Department: Catering
+- Salary (US $): 50,000
+
+Alex Babich:
+- Employee ID: 789012
+- Department: Reception
+- Salary (US $): 48,000
+
+Sam Kelly:
+- Employee ID: 345678
+- Department: Sales
+- Salary (US $): 53,000
+
+```
+
+A table as a concise, visual way to convey attributes of similar objects:
+- Each row is an object instance 
+- Each column is an attribute
+- The first cell of each row (first column) has a special function to identify the object instance
+
+These lists preserve the relationship of the columns (attributes) and rows (instances).
+
+<p>&nbsp;</p>
+
+
+## Content strategy
+Our product documentation team has writing style guidelines that require us to use tables for the purpose decribed above, as opposed to using tables for layout.  Our guidelines also require us to keep our tables simple (avoid `rowspan` and `colspan`) and recommend keepping our tables a reasonable size (eg. fewer than ~10 columns and ~20 rows).
+
+These guidelines pre-dated RAG.  These guidelines make sure our content works well on different screens, helps make translation more successful, and makes our content accessible for people using tools like screen readers.
+
+RAG is just the latest good reason to scrutinize your HTML tables.  Should a table with just two columns really be a list?  Should a table behaving like a sidebar just be implmented with `<div>` elements instead?  Should an enormous table be broken up?
+
+<p>&nbsp;</p>
+
+
+## Tables in the sample Natural Questions articles
+
+The tables in the Natural Questions articles include real-word challenges: 
+- `rowspan`
+- `colspan`
+- Images in cells
+- Using tables for layout instead of the purpose described above
 
 ### Example 1
 [Abundance of elements in Earth's crust](https://en.wikipedia.org//w/index.php?title=Abundance_of_elements_in_Earth%27s_crust&oldid=801283417)
