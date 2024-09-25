@@ -1,10 +1,15 @@
 # Analysis of results
 
-**Quick links**
+**Files**
 - [Notebook for extracting text from article HTML](../notebooks/10_html-text.ipynb)
 - [Notebook with our simple RAG solution](../notebooks/11_answer-natural-questions.ipynb)
 - [Results spreadsheet (Excel)](rewriting-experiment-results.xlsx)
 
+**Quick links**
+- [Initial results](#initial-results)
+- [Content changes](#content-changes)
+- [Final results](#final-results)
+  
 <p>&nbsp;</p>
 
 ## Initial results
@@ -21,6 +26,64 @@ With the original article text, our simple RAG notebook got 164 questions correc
 
 
 ## Content changes
+
+Here is a summary of updates made to the articles to improve results of our simple RAG notebook.
+
+<table>
+<tr>
+<th>Article</th>
+<th>Changes summary</th>
+<th>Differences</th>
+</tr>
+<tr>
+<td valign="top">Carbon&nbsp;dioxide&nbsp;in&nbsp;Earth's&nbsp;atmosphere<br/><a href="https://en.wikipedia.org//w/index.php?title=Carbon_dioxide_in_Earth%27s_atmosphere&oldid=856951315">Wikipedia link</a></td>
+<td valign="top"><ul><li>Add "due in large part to the carbon dioxide we humans are putting there"</li></ul></td>
+<td valign="top"><a href="images/diffs_Carbon-dioxide-in-Earths-atmosphere.png">diffs</a></td>
+</tr>
+<tr>
+<td valign="top">Continent<br/><a href="https://en.wikipedia.org//w/index.php?title=Continent&oldid=808552023">Wikipedia link</a></td>
+<td valign="top"><ul><li>Add hint about second smallest continent</li></ul></td>
+<td valign="top"><a href="images/diffs_Continent.png">diffs</a></td>
+</tr>
+<tr>
+<td valign="top">Crust (geology)<br/><a href="https://en.wikipedia.org//w/index.php?title=Crust_(geology)&oldid=818260704">Wikipedia link</a></td>
+<td valign="top"><ul><li>Add "of Earth's crust" to some headings</li>
+<li>Add "Teperature of Easrth's crust" heading</li>
+<li>Add "what is found" terminology</li>
+<li>Simplify the temperature information</li>
+<li>Replace tables with lists</li></ul></td>
+<td valign="top"><a href="images/diffs_Crust-geology.png">diffs</a></td>
+</tr>
+<tr>
+<td valign="top">Earth<br/><a href="https://en.wikipedia.org//w/index.php?title=Earth&oldid=801344840">Wikipedia link</a></td>
+<td valign="top"><ul><li>Add equatorial circumference</li>
+<li>Simplify shape information</li>
+<li>Add height of atmosphere</li></ul></td>
+<td valign="top"><a href="images/diffs_Earth.png">diffs</a></td>
+</tr>
+<tr>
+<td valign="top">Earth's orbit<br/><a href="https://en.wikipedia.org//w/index.php?title=Earth%27s_orbit&oldid=834440991">Wikipedia link</a></td>
+<td valign="top"><ul><li>Simplify the introduction</li></ul></td>
+<td valign="top"><a href="images/diffs_Earths-orbit.png">diffs</a></td>
+</tr>
+<tr>
+<td valign="top">Earth's rotation<br/><a href="https://en.wikipedia.org//w/index.php?title=Earth%27s_rotation&oldid=836804207">Wikipedia link</a></td>
+<td valign="top"><ul><li>Be more explicit about rotation of Earth - around its access and around the sun</li></ul></td>
+<td valign="top"><a href="images/diffs_Earths-rotation.png">diffs</a></td>
+</tr>
+<tr>
+<td valign="top">Inner core<br/><a href="https://en.wikipedia.org//w/index.php?title=Inner_core&oldid=838408961">Wikipedia link</a></td>
+<td valign="top"><ul><li>Add "thickness" terminology</li>
+<li>Boost search by adding mention that it makes up "a small amount of Earth's mass"</li></ul></td>
+<td valign="top"><a href="images/diffs_Inner-core.png">diffs</a></td>
+</tr>
+<tr>
+<td valign="top">Structure of the Earth<br/><a href="https://en.wikipedia.org//w/index.php?title=Structure_of_the_Earth&oldid=866111969">Wikipedia link</a></td>
+<td valign="top"><ul><li>Emphasize the core has "two layers"</li>
+<li>Boost search by changing the wording around the discovery of the inner core</li></ul></td>
+<td valign="top"><a href="images/diffs_Structure-of-the-Earth.png">diffs</a></td>
+</tr>
+</table>
 
 <p>&nbsp;</p>
 
