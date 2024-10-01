@@ -13,6 +13,7 @@ https://www.icaai.org
 
 **Quick links:**
 - [Paper](#paper)
+- [Blog posts](#blog-posts)
 - [Content rewriting experiment](Natural-Questions/README.md)
 - [Sample notebooks](#sample-notebooks)
 
@@ -25,6 +26,16 @@ https://www.icaai.org
 <img src="images/paper.png" width="75%" alt="Paper first page" />
 
 <p>&nbsp;</p>
+
+
+## Blog posts
+- [Adapting content for AI](https://medium.com/@ingeh/adapting-content-for-ai-improving-accuracy-of-rag-solutions-4ab7a6d708a5)
+- [Preparing and repairing content for AI](https://ingeh.medium.com/adapting-content-for-ai-preparing-and-repairing-our-content-for-rag-a0d24c2d1ae9)
+- [Question-driven content design](https://medium.com/@sarah-packowski/question-driven-content-design-ba373215e634)
+- [How publishers need to adapt in the era of RAG](https://medium.com/@sarah-packowski/how-publishers-need-to-adapt-in-the-era-of-rag-64ebe2c95540)
+
+<p>&nbsp;</p>
+
 
 ## Sample notebooks
 These sample notebooks demonstrate the ideas described in the paper above.
