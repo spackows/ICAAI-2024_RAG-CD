@@ -13,6 +13,7 @@ https://www.icaai.org
 
 **Quick links:**
 - [Paper](#paper)
+- [Presentation](#presentation)
 - [Blog posts](#blog-posts)
 - [Content rewriting experiment](Natural-Questions/README.md)
 - [Sample notebooks](#sample-notebooks)
@@ -24,6 +25,13 @@ https://www.icaai.org
 [Link to PDF](RAG-A-CD-Perspective.pdf)
 
 <img src="images/paper.png" width="75%" alt="Paper first page" />
+
+<p>&nbsp;</p>
+
+
+## Presentation
+- [Slides](RAG-A-CD-Perspective_presentation-slides.pdf)
+- [Video](https://youtu.be/4ZPe-8rAl-k)
 
 <p>&nbsp;</p>
 
