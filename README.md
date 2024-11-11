@@ -38,6 +38,7 @@ https://www.icaai.org
 
 
 ## Posters
+These posters were presented at [CASCON](https://cascon.ca) 2024:
 <table>
 <tr>
 <th>Poster</th>
@@ -45,27 +46,27 @@ https://www.icaai.org
 </tr>
 <tr>
 <td valign="top">
-<p><b>Optimizing&nbsp;content&nbsp;for&nbsp;RAG</b></p>
+<p>Optimizing&nbsp;content&nbsp;for&nbsp;RAG</p>
 <p><img src="images/thumb_optimizing-content-poster.png" width="200"/></p>
 </td>
 <td valign="top">
 <p>This poster describes how content teams must adapt their processes in the era of RAG: adopt question-driven content development.</p>
-<p>Download: <a href="images/optimizing-content_CASCON-2024.pdf">Poster</a></p>
 <p><i>Special thanks:</i></p>
 <ul>
 <li>Design concept: Chloe Maceda (<mailto>chloe.maceda@ibm.com</mailto>)</li>
 <li>Robot graphic: Malik Johnson (<mailto>Malik.Johnson@ibm.com</mailto>)</li>
 </ul>
+<p>Download: <a href="posters/optimizing-content_CASCON-2024.pdf">Poster</a></p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p><b>Evaluating RAG</b></p>
+<p>Evaluating&nbsp;RAG</p>
 <p><img src="images/thumb_rag-eval-poster.png" width="200"/></p>
 </td>
 <td valign="top">
 <p>This poster describes why it is risky to rely on only automated evaluation of RAG solutions, and proposes a human-in-the-lead approach to RAG evaluation.</p>
-<p>Download: <a href="images/RAG-evaluation_CASCON-2024.pdf">Poster</a></p>
+<p>Download: <a href="posters/RAG-evaluation_CASCON-2024.pdf">Poster</a></p>
 </td>
 </tr>
 </table>
