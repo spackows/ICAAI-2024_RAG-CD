@@ -79,6 +79,7 @@ These posters were presented at [CASCON](https://cascon.ca) 2024:
 - [Preparing and repairing content for AI](https://ingeh.medium.com/adapting-content-for-ai-preparing-and-repairing-our-content-for-rag-a0d24c2d1ae9)
 - [Question-driven content design](https://medium.com/@sarah-packowski/question-driven-content-design-ba373215e634)
 - [How publishers need to adapt in the era of RAG](https://medium.com/@sarah-packowski/how-publishers-need-to-adapt-in-the-era-of-rag-64ebe2c95540)
+- [Is your data RAG ready?](https://medium.com/@sarah-packowski/is-your-data-rag-ready-2a3842f0dc69)
 
 <p>&nbsp;</p>
 
