@@ -234,4 +234,15 @@ These sample notebooks demonstrate the ideas described in the paper above.
 <p>Answer a subset of questions from the <a href="https://research.google/pubs/natural-questions-a-benchmark-for-question-answering-research/">Natural Questions benchmark</a></p>
 </td>
 </tr>
+<!-- 12. Compare RAGAs ResponseRelevancy metric with manual evaluation -->
+<tr>
+<td valign="top">
+<p><b>12.&nbsp;Compare RAGAs ResponseRelevancy metric with manual evaluation</b>&nbsp;(&nbsp;<a href="12_RAGAs-ResponseRelevancy-experiment.ipynb">link</a>&nbsp;)</p>
+<p><img src="images/12_RAGAs.png" width="300px" /></p>
+<p>&nbsp;</p>
+</td>
+<td valign="top">
+<p>Apply the <a href="https://arxiv.org/abs/2309.15217">RAGAs</a> <a href="https://docs.ragas.io/en/stable/concepts/metrics/available_metrics/answer_relevance">ResponseRelevancy</a> metric to some RAG results, and then compare with manual evaluation</p>
+</td>
+</tr>
 </table>
