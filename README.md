@@ -81,6 +81,7 @@ These posters were presented at [CASCON](https://cascon.ca) 2024:
 - [How publishers need to adapt in the era of RAG](https://medium.com/@sarah-packowski/how-publishers-need-to-adapt-in-the-era-of-rag-64ebe2c95540)
 - [Is your data RAG ready?](https://medium.com/@sarah-packowski/is-your-data-rag-ready-2a3842f0dc69)
 - [Trying to fully automate evaluation of deployed RAG solutions is risky](https://sarah-packowski.medium.com/trying-to-fully-automate-evaluation-of-deployed-rag-solutions-is-risky-164e2a5ba1bd)
+- [The role of technical writers in the age of RAG and agentic LLM solutions](https://medium.com/@sarah-packowski/the-role-of-technical-writers-in-the-age-of-rag-and-agentic-llm-solutions-e1196a4847da)
 
 <p>&nbsp;</p>
 
