@@ -239,12 +239,23 @@ These sample notebooks demonstrate the ideas described in the paper above.
 <!-- 12. Compare RAGAs ResponseRelevancy metric with manual evaluation -->
 <tr>
 <td valign="top">
-<p><b>12.&nbsp;Compare RAGAs ResponseRelevancy metric with manual evaluation</b>&nbsp;(&nbsp;<a href="12_RAGAs-ResponseRelevancy-experiment.ipynb">link</a>&nbsp;)</p>
+<p><b>12.&nbsp;Compare RAGAs ResponseRelevancy metric with manual evaluation</b>&nbsp;(&nbsp;<a href="notebooks/12_RAGAs-ResponseRelevancy-experiment.ipynb">link</a>&nbsp;)</p>
 <p><img src="images/12_RAGAs.png" width="300px" /></p>
 <p>&nbsp;</p>
 </td>
 <td valign="top">
 <p>Apply the <a href="https://arxiv.org/abs/2309.15217">RAGAs</a> <a href="https://docs.ragas.io/en/stable/concepts/metrics/available_metrics/answer_relevance">ResponseRelevancy</a> metric to some RAG results, and then compare with manual evaluation</p>
+</td>
+</tr>
+<!-- 13. The effect of information-typed, topic-based writing on RAG success -->
+<tr>
+<td valign="top">
+<p><b>13.&nbsp;Improving results with information typing</b>&nbsp;(&nbsp;<a href="notebooks/13_carbonWrite-RAG.ipynb">link</a>&nbsp;)</p>
+<p><img src="images/13_carbonWrite.png" width="300px" /></p>
+<p>&nbsp;</p>
+</td>
+<td valign="top">
+<p>Demonstrates how a knowledge base of information-typed topics yields better answers than a knowledge base without this content architecture</p>
 </td>
 </tr>
 </table>
