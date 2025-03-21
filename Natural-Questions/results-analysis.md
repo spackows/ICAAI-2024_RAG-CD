@@ -18,7 +18,7 @@ Challenges with the sample questions:
 - For 10 of the 189 questions, the expected answers were incorrect
 - For 12 of the 189 questions, there were multiple right answers not included in the expected answer
 
-Due to these challenges, we chose to evaluated the generated answers manually.  We evaluated for correctness, not how well the run-time answers match the expected answers.
+Due to these challenges, we chose to evaluate the generated answers manually.  We evaluated for correctness, not how well the run-time answers match the expected answers.
 
 With the original article text, our simple RAG notebook got 164 questions correct, out of 188.  (That's 24 questions wrong.)
 
