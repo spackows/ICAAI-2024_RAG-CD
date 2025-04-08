@@ -84,6 +84,7 @@ These posters were presented at [CASCON](https://cascon.ca) 2024:
 - [Trying to fully automate evaluation of deployed RAG solutions is risky](https://sarah-packowski.medium.com/trying-to-fully-automate-evaluation-of-deployed-rag-solutions-is-risky-164e2a5ba1bd)
 - [The role of technical writers in the age of RAG and agentic LLM solutions](https://medium.com/@sarah-packowski/the-role-of-technical-writers-in-the-age-of-rag-and-agentic-llm-solutions-e1196a4847da)
 - [Information typing is the professional writer’s secret ingredient for RAG success](https://medium.com/@sarah-packowski/information-typing-is-the-professional-writers-secret-ingredient-for-rag-success-fee84c544515)
+- [The unintended impact of Wikipedia on RAG best practices](https://sarah-packowski.medium.com/the-unintended-impact-of-wikipedia-on-rag-best-practices-00821aa2d9aa)
 
 <p>&nbsp;</p>
 
